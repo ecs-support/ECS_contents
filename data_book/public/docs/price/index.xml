@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ราคาศุลกากร on Knowledge Center</title>
+    <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/price/</link>
+    <description>Recent content in ราคาศุลกากร on Knowledge Center</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://ecs-support.github.io/knowledge-center/customs-clearance/docs/price/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ระบบราคาแกตต์</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/price/gatt_valuation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/price/gatt_valuation/</guid>
+      <description>ระบบราคาแกตต์ (GATT Valuation) ในกรณีของนำเข้า หมายถึง ราคาของของเพื่อความมุ่งหมายในการจัดเก็บอากร ปัจจุบันประเทศไทยใช้ราคาศุลกากรที่เรียกว่า “ระบบราคาแกตต์ (GATT Valuation)” ขององค์การการค้าโลก (World Trade Organization: WTO) ในการกำหนดราคาสินค้าขาเข้า ซึ่งเป็นการปฏิบัติตามพันธกรณีความตกลงว่าด้วยการนำมาตรา 7 ของความตกลงทั่วไปว่าด้วยภาษีศุลกากรและการค้า 1994 มาถือปฏิบัติ (Agreement on Implementation of Article VII of the General Agreement on tariffs and Trade 1994) ปกติการกำหนดราคาศุลกากรจะอยู่บนพื้นฐานของราคาซื้อขายของที่นำเข้า ซึ่งเป็นราคาที่ผู้ซื้อจ่ายหรือ พึงจ่ายจริงให้กับผู้ขายในต่างประเทศ อย่างไรก็ดี ราคาซื้อขายของที่นำเข้านั้น จะอยู่ภายใต้เงื่อนไขบางประการ เช่น การซื้อขาย ผู้ซื้อกับผู้ขายต้องไม่มีความสัมพันธ์กัน หรือการซื้อขายนั้นต้องไม่มีเงื่อนไขอย่างอื่นอีก
+วิธีการกำหนดราคาศุลกากร การกำหนดราคาศุลกากรตามหลักการของแกตต์ กำหนดจาก 6 วิธี ดังนี้
+ ราคาซื้อขายของที่นำเข้า (Transaction value) หมายถึง ราคาซื้อขาย ที่ผู้ซื้อสินค้าได้ชำระจริง หรือที่จะต้องชำระให้กับผู้ขายในต่างประเทศสำหรับของที่นำเข้า ซึ่งได้มีการปรับราคาหรือได้นำมูลค่าหรือค่าใช้จ่ายอื่นๆ ไปรวมด้วย เช่น ค่าวัสดุเสริม ค่านายหน้า หรือค่าสิทธิ เป็นต้น.
+ ราคาซื้อขายของที่เหมือนกัน (Transaction value of Identical Goods) หมายถึง ราคาซื้อขายของที่มีลักษณะเหมือนกันทุกด้านกับของที่นำเข้า ไม่ว่าจะเป็นทางกายภาพ คุณภาพ และชื่อเสียง และต้องผลิตขึ้นในประเทศเดียวกันกับของนำเข้าด้วย ทั้งนี้ โดยให้คำนึงถึงค่าประกันภัย ค่าขนส่งของที่นำเข้ามายังด่านศุลกากรที่นำของเข้า ค่าขนของลง ค่าขนของขึ้น และค่าจัดการต่างๆ ที่เกี่ยวเนื่องกับการขนส่งของมายังด่านศุลกากรที่นำของเข้าด้วย.</description>
+    </item>
+    
+    <item>
+      <title>ราคาศุลกากรสำหรับสินค้าไม้</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/price/wooden_goods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/price/wooden_goods/</guid>
+      <description> กำหนดราคาศุลกากรสำหรับสินค้าไม้เป็นเกณฑ์ประเมินเงินอากรขาออก  ที่มา : กรมศุลกากร ปรับปรุงล่าสุด : 1 พ.ค. 2563
+ </description>
+    </item>
+    
+  </channel>
+</rss>
