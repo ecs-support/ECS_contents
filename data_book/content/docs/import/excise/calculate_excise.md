@@ -1,6 +1,6 @@
 ---
 
-weight: 5
+weight: 6
 bookToc: true
 title: ตัวอย่างการคำนวณภาษี
 bookCollapseSection: true
