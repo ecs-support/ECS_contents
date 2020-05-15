@@ -2,7 +2,7 @@
 title: มาตรการปกป้องและตอบโต้ทางการค้า
 bookCollapseSection: true
 weight: 12
-bookToc: false
+bookToc: true
 ---
 
 มาตรการปกป้องและตอบโต้ทางการค้า

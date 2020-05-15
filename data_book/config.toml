@@ -13,7 +13,7 @@ command = "hugo --baseURL $URL --enableGitInfo"
 HUGO_VERSION = "0.55.6"
 
 # Book configuration
-disablePathToLower = true
+disablePathToLower = false
 enableGitInfo = true
 
 # Code highlight
@@ -85,7 +85,10 @@ pygmentsCodeFences = true
 
   # (Optional, default true) Enables search function with flexsearch,
   # Index is built on fly, therefore it might slowdown your website.
-  BookSearch = true
+  BookSearch = false
+
+  # Enable Algolia DocSearch
+  algolia_docsearch = true
 
   # (Optional, default true) Enables comments template on pages
   # By default partals/docs/comments.html includes Disqus template
