@@ -1,7 +1,7 @@
 ---
 title: รายชื่อธนาคาร Bill Payment
 bookCollapseSection: true
-weight: 3
+weight: 4
 bookToc: false
 categories: [บริการ]
 tags: [e-Bill,ธนาคาร]
