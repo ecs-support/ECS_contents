@@ -24,14 +24,24 @@ title = "ECS Knowledge Center"
   # gradient_end = "#2b94c3"
   
   # Background image.
+<<<<<<< HEAD
    image = "america.jpg"  # Name of image in `static/img/`.
    image_darken = 0.7  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
    image_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
+=======
+   image = "container-terminal.jpg"  # Name of image in `static/img/`.
+   image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+>>>>>>> f3564cb4857ce369836db0793180c74731a0885e
    image_position = "center"  # Options include `left`, `center` (default), or `right`.
    image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
+<<<<<<< HEAD
   text_color_light = false
+=======
+  text_color_light = true
+>>>>>>> f3564cb4857ce369836db0793180c74731a0885e
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
@@ -52,6 +62,10 @@ title = "ECS Knowledge Center"
 +++
 
 ศูนย์รวมความรู้แบบออนไลน์ เพื่อการเข้าถึงได้ทุกที่ทุกเวลา **ตลอด 24 ชั่วโมง**.  
+<<<<<<< HEAD
 ครบทุกความรู้ รวมทุกคำถามและคำตอบ  หลากหลายเครื่องมือเพื่อ **การนำเข้า-ส่งออก**
+=======
+ครบทุกความรู้ รวมทุกคำถามและคำตอบ  หลากหลายเครื่องมือเพื่อ**การนำเข้า-ส่งออก**
+>>>>>>> f3564cb4857ce369836db0793180c74731a0885e
 
 

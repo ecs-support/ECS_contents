@@ -760,7 +760,11 @@
   $(window).on('load resize orientationchange', normalizeCarouselSlideHeights);
 
   // Automatic main menu dropdowns on mouse over.
+<<<<<<< HEAD
    $('body').on('mouseenter mouseleave', '.dropdown', function (e) {
+=======
+  $('body').on('mouseenter mouseleave', '.dropdown', function (e) {
+>>>>>>> f3564cb4857ce369836db0793180c74731a0885e
     var dropdown = $(e.target).closest('.dropdown');
     var menu = $('.dropdown-menu', dropdown);
     dropdown.addClass('show');
@@ -768,7 +772,11 @@
     setTimeout(function () {
       dropdown[dropdown.is(':hover') ? 'addClass' : 'removeClass']('show');
       menu[dropdown.is(':hover') ? 'addClass' : 'removeClass']('show');
+<<<<<<< HEAD
    }, 300); 
+=======
+    }, 300);
+>>>>>>> f3564cb4857ce369836db0793180c74731a0885e
 
     // Re-initialize Scrollspy with dynamic navbar height offset.
     fixScrollspy();

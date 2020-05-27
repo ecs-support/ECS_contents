@@ -12,7 +12,11 @@ subtitle = ""
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
+<<<<<<< HEAD
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+=======
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+>>>>>>> f3564cb4857ce369836db0793180c74731a0885e
 
 [[feature]]
   icon = "r-project"
@@ -32,4 +36,22 @@ subtitle = ""
   name = "Photography"
   description = "10%"
 
+<<<<<<< HEAD
+=======
+# Uncomment to use emoji icons.
+# [[feature]]
+#  icon = ":smile:"
+#  icon_pack = "emoji"
+#  name = "Emojiness"
+#  description = "100%"  
+
+# Uncomment to use custom SVG icons.
+# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
+# [[feature]]
+#  icon = "beach-sunset"
+#  icon_pack = "custom"
+#  name = "Surfing"
+#  description = "90%"
+
+>>>>>>> f3564cb4857ce369836db0793180c74731a0885e
 +++

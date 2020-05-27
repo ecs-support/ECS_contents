@@ -5,14 +5,22 @@
   {{ if eq .Type "docs" }}{{ $str = "previous" }}{{else}}{{ $str = "next" }}{{end}}
   <div class="post-nav-item box ">
     <div class="meta-nav meta-prev">{{ i18n $str }} <br>
+<<<<<<< HEAD
     <a href="{{.NextInSection.RelPermalink}}" rel="next">{{.NextInSection.Title}}</a></div>
+=======
+    <a href="{{.NextInSection.RelPermalink}}" rel="next">{{.NextInSection.LinkTitle}}</a></div>
+>>>>>>> f3564cb4857ce369836db0793180c74731a0885e
   </div>
   {{end}}
   {{if .PrevInSection}}
   {{ if eq .Type "docs" }}{{ $str = "next" }}{{else}}{{ $str = "previous" }}{{end}}
   <div class="post-nav-item box">
     <div class="meta-nav meta-next" >{{ i18n $str }} <br>
+<<<<<<< HEAD
     <a href="{{.PrevInSection.RelPermalink}}" rel="prev">{{.PrevInSection.Title}}</a></div>
+=======
+    <a href="{{.PrevInSection.RelPermalink}}" rel="prev">{{.PrevInSection.LinkTitle}}</a></div>
+>>>>>>> f3564cb4857ce369836db0793180c74731a0885e
   </div>
   {{end}}
   <br>
