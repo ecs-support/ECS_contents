@@ -10,7 +10,11 @@
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
 <<<<<<< HEAD
+<<<<<<< HEAD
 theme = "Minimal"
+=======
+theme = "ecs"
+>>>>>>> f3564cb4857ce369836db0793180c74731a0885e
 =======
 theme = "ecs"
 >>>>>>> f3564cb4857ce369836db0793180c74731a0885e
@@ -23,7 +27,11 @@ day_night = true
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
 <<<<<<< HEAD
+<<<<<<< HEAD
 font = ""
+=======
+font = "ECS"
+>>>>>>> f3564cb4857ce369836db0793180c74731a0885e
 =======
 font = "ECS"
 >>>>>>> f3564cb4857ce369836db0793180c74731a0885e

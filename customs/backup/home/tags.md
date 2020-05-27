@@ -11,7 +11,11 @@ subtitle = ""
 [content]
   # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
 <<<<<<< HEAD
+<<<<<<< HEAD
   taxonomy = "tags","catagories"
+=======
+  taxonomy = "tags"
+>>>>>>> f3564cb4857ce369836db0793180c74731a0885e
 =======
   taxonomy = "tags"
 >>>>>>> f3564cb4857ce369836db0793180c74731a0885e

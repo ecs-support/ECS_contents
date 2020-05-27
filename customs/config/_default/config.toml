@@ -6,17 +6,23 @@
 
 # Title of your site
 <<<<<<< HEAD
+<<<<<<< HEAD
 title = "ECS Knowledge Center"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://example.com/"
 =======
+=======
+>>>>>>> f3564cb4857ce369836db0793180c74731a0885e
 title = "ECS"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://ecs-support.github.io/"
+<<<<<<< HEAD
+>>>>>>> f3564cb4857ce369836db0793180c74731a0885e
+=======
 >>>>>>> f3564cb4857ce369836db0793180c74731a0885e
 
 # Enter a copyright notice to display in the site footer.
@@ -35,15 +41,21 @@ enableGitInfo = true
 
 # Default language to use (if you setup multilingual support)
 <<<<<<< HEAD
+<<<<<<< HEAD
 #defaultContentLanguage = "en"
 #hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 #defaultContentLanguageInSubdir = false
 #removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
 =======
+=======
+>>>>>>> f3564cb4857ce369836db0793180c74731a0885e
 defaultContentLanguage = "en"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
+<<<<<<< HEAD
+>>>>>>> f3564cb4857ce369836db0793180c74731a0885e
+=======
 >>>>>>> f3564cb4857ce369836db0793180c74731a0885e
 
 summaryLength = 30  # Listing summary length in words. Also, see `abstract_length` in `params.toml`.

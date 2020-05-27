@@ -25,9 +25,15 @@ title = "ECS Knowledge Center"
   
   # Background image.
 <<<<<<< HEAD
+<<<<<<< HEAD
    image = "america.jpg"  # Name of image in `static/img/`.
    image_darken = 0.7  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
    image_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
+=======
+   image = "container-terminal.jpg"  # Name of image in `static/img/`.
+   image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+>>>>>>> f3564cb4857ce369836db0793180c74731a0885e
 =======
    image = "container-terminal.jpg"  # Name of image in `static/img/`.
    image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -38,7 +44,11 @@ title = "ECS Knowledge Center"
   
   # Text color (true=light or false=dark).
 <<<<<<< HEAD
+<<<<<<< HEAD
   text_color_light = false
+=======
+  text_color_light = true
+>>>>>>> f3564cb4857ce369836db0793180c74731a0885e
 =======
   text_color_light = true
 >>>>>>> f3564cb4857ce369836db0793180c74731a0885e
@@ -63,7 +73,11 @@ title = "ECS Knowledge Center"
 
 ศูนย์รวมความรู้แบบออนไลน์ เพื่อการเข้าถึงได้ทุกที่ทุกเวลา **ตลอด 24 ชั่วโมง**.  
 <<<<<<< HEAD
+<<<<<<< HEAD
 ครบทุกความรู้ รวมทุกคำถามและคำตอบ  หลากหลายเครื่องมือเพื่อ **การนำเข้า-ส่งออก**
+=======
+ครบทุกความรู้ รวมทุกคำถามและคำตอบ  หลากหลายเครื่องมือเพื่อ**การนำเข้า-ส่งออก**
+>>>>>>> f3564cb4857ce369836db0793180c74731a0885e
 =======
 ครบทุกความรู้ รวมทุกคำถามและคำตอบ  หลากหลายเครื่องมือเพื่อ**การนำเข้า-ส่งออก**
 >>>>>>> f3564cb4857ce369836db0793180c74731a0885e
