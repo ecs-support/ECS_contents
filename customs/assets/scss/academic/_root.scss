@@ -31,7 +31,7 @@ body {
 }
 
 .max-width-640 {
-  max-width: 640px;
+  max-width: 85%;
 }
 
 .margin-auto {
@@ -160,7 +160,7 @@ figcaption h4 {
 pre,
 code {
   font-family: $sta-font-mono, monospace;
-  color: #c7254e;
+  color: #fc6f5c;
   background-color: #f9f2f4;
 }
 
@@ -330,7 +330,7 @@ a[data-fancybox] {
 }
 
 .post-nav-item .meta-nav {
-  color: #003366;
+  color:  rgb(63, 105, 170);
   font-weight: 700;
   line-height: 2;
   text-transform: uppercase;
@@ -502,7 +502,7 @@ table > tfoot > tr > td {
   padding: 8px;
   line-height: 1.43;
   vertical-align: top;
-  border-top: 1px solid #ddd;
+  border: 1px solid #ddd;
 }
 
 table > thead > tr > th {
@@ -516,7 +516,7 @@ table > thead:first-child > tr:first-child > th,
 table > caption + thead > tr:first-child > td,
 table > colgroup + thead > tr:first-child > td,
 table > thead:first-child > tr:first-child > td {
-  border-top: 0;
+  border-top: 1;
 }
 
 table > tbody + tbody {
@@ -606,7 +606,7 @@ div.alert-info > div:first-child::before {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
   content: '\f05a';
-  color: #003366;
+  color: rgb(63, 105, 170);
 }
 
 
@@ -614,58 +614,53 @@ div.alert-info > div:first-child::before {
 div.alert a {
   color: currentColor;
   text-decoration: none;
-  border-bottom: solid 2px currentColor;
+  border-bottom: solid 3px currentColor;
 }
 
 .article-style aside,
 .alert-note {
 
-  background-color: #f6fbfe;
-  border-color: #209cee;
+  background-color: 	rgba(63, 105, 170,0.2);
+  border-color: 	rgb(63, 105, 170);
 }
 
 .alert-info {
-  background-color:rgba(89, 169, 250, 0.2);
-  border-color: #003366;
+  background-color:rgba(63, 105, 170,0.2);
+  border-color: rgb(63, 105, 170);
   color:currentColor;
   font-weight: 600;
 }
 .alert-success {
 
-  background-color: #f6fbfe;
-  border-color: green;
+  background-color: rgba(0, 128, 0,0.2);
+  border-color: rgb(0, 128, 0);
+  color:currentColor;
+  
+}
+
+.alert-note-success {
+
+  background-color: rgba(0, 128, 0,0.2);
+  border-color: rgb(0, 128, 0);
+  color:currentColor;
+  
 }
 
 .alert-warning {
-  background-color: rgba(255, 153, 0,0.25);
+  background-color: rgba(255, 153, 0,0.2);
   border-color: rgb(255, 153, 0);
   color:currentColor;
   font-weight: 600;
 }
 .alert-danger {
 
-  background-color: rgba(255, 56, 96,0.15);
-  border-color: rgb(255, 56, 96);
+  background-color: 	rgba(255, 0, 0,.2);
+  border-color: 	rgb(255, 0, 0);
   color:currentColor;
   font-weight: 600;
 }
 
-.article-style aside p,
-div.alert-quotes > div {
-  position: relative;
-  top:-1rem;
-  margin-top:1.5rem;
-  line-height:3rem;
-  font-size: 1.5rem;
-  font-weight: 500;
-  font-family: 'Kanit';
-  font-style: italic;
-  text-align: center;
-  color: #003366;
-  background-color: #f9f9f9;
-  border-left: .45rem solid #003366;
- /* background: rgba(0, 51, 102, 0.075); */
-}
+
 
 /* homepage */
 .hero-img{

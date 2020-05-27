@@ -33,12 +33,21 @@ weight: 3
 
 #### ประเทศสมาชิก
 
-[![ประเทศกัมพูชา](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/23px-Flag_of_Cambodia.svg.png)](https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%81%E0%B8%B1%E0%B8%A1%E0%B8%9E%E0%B8%B9%E0%B8%8A%E0%B8%B2 "ประเทศกัมพูชา")  [กัมพูชา](https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%81%E0%B8%B1%E0%B8%A1%E0%B8%9E%E0%B8%B9%E0%B8%8A%E0%B8%B2 "ประเทศกัมพูชา")  ·  [![ไทย](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png)](https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%97%E0%B8%A2 "ไทย")  [ไทย](https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2 "ประเทศไทย")  ·  [![บรูไน](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/23px-Flag_of_Brunei.svg.png)](https://th.wikipedia.org/wiki/%E0%B8%9A%E0%B8%A3%E0%B8%B9%E0%B9%84%E0%B8%99 "บรูไน")  [บรูไน](https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%9A%E0%B8%A3%E0%B8%B9%E0%B9%84%E0%B8%99 "ประเทศบรูไน")  ·  [![ประเทศพม่า](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/23px-Flag_of_Myanmar.svg.png)](https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%9E%E0%B8%A1%E0%B9%88%E0%B8%B2 "ประเทศพม่า")  [พม่า](https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%9E%E0%B8%A1%E0%B9%88%E0%B8%B2 "ประเทศพม่า")  ·  [![ฟิลิปปินส์](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/23px-Flag_of_the_Philippines.svg.png)](https://th.wikipedia.org/wiki/%E0%B8%9F%E0%B8%B4%E0%B8%A5%E0%B8%B4%E0%B8%9B%E0%B8%9B%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B9%8C "ฟิลิปปินส์")  [ฟิลิปปินส์](https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%9F%E0%B8%B4%E0%B8%A5%E0%B8%B4%E0%B8%9B%E0%B8%9B%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B9%8C "ประเทศฟิลิปปินส์")  ·  [![มาเลเซีย](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/23px-Flag_of_Malaysia.svg.png)](https://th.wikipedia.org/wiki/%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2 "มาเลเซีย")  [มาเลเซีย](https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2 "ประเทศมาเลเซีย")  ·  [![ลาว](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/23px-Flag_of_Laos.svg.png)](https://th.wikipedia.org/wiki/%E0%B8%A5%E0%B8%B2%E0%B8%A7 "ลาว")  [ลาว](https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%A5%E0%B8%B2%E0%B8%A7 "ประเทศลาว")  ·  [![เวียดนาม](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/23px-Flag_of_Vietnam.svg.png)](https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%99%E0%B8%B2%E0%B8%A1 "เวียดนาม")  [เวียดนาม](https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%99%E0%B8%B2%E0%B8%A1 "ประเทศเวียดนาม")  ·  [![สิงคโปร์](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/23px-Flag_of_Singapore.svg.png)](https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%84%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%8C "สิงคโปร์")  [สิงคโปร์](https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%84%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%8C "ประเทศสิงคโปร์")  ·  [![อินโดนีเซีย](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png)](https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%99%E0%B8%B5%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2 "อินโดนีเซีย")  [อินโดนีเซีย](https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%99%E0%B8%B5%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2 "ประเทศอินโดนีเซีย")
+1.  ประเทศกัมพูชา
+1. ประเทศไทย
+1. ประเทศบรูไน
+1. ประเทศพม่า
+1. ประเทศฟิลิปปินส์
+1. ประเทศมาเลเซีย
+1. ประเทศลาว
+1. ประเทศเวียดนาม
+1. ประเทศสิงคโปร์
+1. ประเทศอินโดนีเซีย
 
 ## ประกาศ / กฎหมาย ที่เกี่ยวข้อง
 
 
-#### ประกาศกระทรวงการคลัง
+### ประกาศกระทรวงการคลัง
 
 -   [ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน ลงวันที่ 10 พฤศจิกายน 2560](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=14223132414c505e4f464a4e464b48)
 -   [ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน (30 ธันวาคม 2559)](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=142231324149505f46464b4a464b4b)
@@ -47,7 +56,7 @@ weight: 3
 
 
 
-#### ประกาศกรมศุลกากร
+### ประกาศกรมศุลกากร
 
 |เลขที่ประกาศ|รายละเอียด|
 |:-------:|-------------------------------------|
@@ -63,7 +72,7 @@ weight: 3
 
 
 
-#### ประกาศสำนักพิกัดอัตราศุลกากร
+### ประกาศสำนักพิกัดอัตราศุลกากร
 
 -   [ประกาศสำนักพิกัดอัตราศุลกากร ที่่ 8 / 2554 เรื่อง การยื่น Invoice Declaration จากประเทศบรูไน ดารูซาลาม มาเลเซีย และสิงคโปร์ เพื่อผ่านพิธีการศุลกากรในการใช้สิทธิพิเศษทางภาษีศุลกากรในระบบรับรองถิ่นกำเนิดสินค้าด้วยตนเองของอาเซียน โดยการวางประกัน](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=142231324147505f4c464b4c464b49)
 -   [ประกาศสำนักพิกัดอัตราศุลกากร ที่ 2 / 2559 การระบุใน Form D กรณีการซื้อขายผ่านนายหน้าโดยนายหน้าและผู้ผลิตอยู่ในประเทศเดียวกัน](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=142231324148505e4f464b4a464b4c)
