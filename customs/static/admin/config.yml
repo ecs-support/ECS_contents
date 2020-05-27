@@ -4,11 +4,6 @@ backend:
 media_folder: 'static/img/'
 public_folder: 'img'
 collections:
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> f3564cb4857ce369836db0793180c74731a0885e
   - name: authors
     label: Authors
     label_singular: Author
@@ -78,10 +73,6 @@ collections:
         name: "user_groups"
         required: false
         widget: "list"
-<<<<<<< HEAD
->>>>>>> f3564cb4857ce369836db0793180c74731a0885e
-=======
->>>>>>> f3564cb4857ce369836db0793180c74731a0885e
   - name: posts
     label: Posts
     label_singular: Post
@@ -165,15 +156,7 @@ collections:
               - {label: "Regular", value: "far"}
               - {label: "Brand", value: "fab"}
               - {label: "Academic", value: "ai"}
-<<<<<<< HEAD
-<<<<<<< HEAD
-          - {label: Icon, name: icon, widget: string, required: false}
-=======
           - {label: "Icon (see https://sourcethemes.com/academic/docs/page-builder/#icons)", name: icon, widget: string, required: false}
->>>>>>> f3564cb4857ce369836db0793180c74731a0885e
-=======
-          - {label: "Icon (see https://sourcethemes.com/academic/docs/page-builder/#icons)", name: icon, widget: string, required: false}
->>>>>>> f3564cb4857ce369836db0793180c74731a0885e
       - {label: "Event", name: "event", widget: "string"}
       - {label: "Event link", name: "event_url", widget: "string"}
       - {label: "Publish this page on", name: "publishDate", widget: "datetime"}

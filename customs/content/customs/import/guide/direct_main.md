@@ -3,7 +3,6 @@
 #  []({{< relref "../import-guide/_index.md" >}})
 linktitle: การปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า 
 summary: 
-weight: 50
 
 title: การปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า 
 date: "2020-05-09T00:00:00Z"
@@ -24,7 +23,7 @@ weight: 50
 ---
 
 <script>
-   var files = '/knowledge-center/test_site/customs/import/index.html'
+   var files = '/knowledge-center/customs/customs/import/index.html'
    //document.location = files
    location.replace(files)
   </script>

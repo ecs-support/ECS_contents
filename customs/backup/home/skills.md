@@ -12,15 +12,7 @@ subtitle = ""
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
-<<<<<<< HEAD
-<<<<<<< HEAD
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-=======
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
->>>>>>> f3564cb4857ce369836db0793180c74731a0885e
-=======
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
->>>>>>> f3564cb4857ce369836db0793180c74731a0885e
 
 [[feature]]
   icon = "r-project"
@@ -40,11 +32,6 @@ subtitle = ""
   name = "Photography"
   description = "10%"
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> f3564cb4857ce369836db0793180c74731a0885e
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
@@ -60,8 +47,4 @@ subtitle = ""
 #  name = "Surfing"
 #  description = "90%"
 
-<<<<<<< HEAD
->>>>>>> f3564cb4857ce369836db0793180c74731a0885e
-=======
->>>>>>> f3564cb4857ce369836db0793180c74731a0885e
 +++

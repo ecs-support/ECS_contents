@@ -1,6 +1,5 @@
 ---
 # Course title, summary, and position.
-
 linktitle: การส่งออกสินค้า (Export)
 summary: การปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (Export)
 

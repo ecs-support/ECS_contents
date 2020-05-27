@@ -14,8 +14,8 @@
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "projects/"
+  name = "Book"
+  url = "book/"
   weight = 30
 
 [[main]]
@@ -27,18 +27,6 @@
   name = "พิธีการศุลกากร"
   url = "customs/"
   weight = 50
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-  [[main.import]]
-  name = "Import"
-  url = "customs/import/"
-  weight = 55
-
-=======
->>>>>>> f3564cb4857ce369836db0793180c74731a0885e
-=======
->>>>>>> f3564cb4857ce369836db0793180c74731a0885e
   
 
 

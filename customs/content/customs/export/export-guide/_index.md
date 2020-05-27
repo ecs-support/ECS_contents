@@ -13,7 +13,7 @@ type: docs  # Do not modify.
 menu:
   export:
     name: คู่มือการปฏิบัติพิธีการศุลกากร  
-    weight: 2
+    weight: 3
 
 weight: 1
 ---
