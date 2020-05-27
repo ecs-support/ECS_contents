@@ -1,0 +1,139 @@
+.markdown-inner {
+  // Util class to remove extra margin in nested markdown content
+  > :first-child {
+    margin-top: 0;
+  }
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+// {{< expand "Label" "icon" >}}
+.book-expand {
+  margin-top: $padding-16;
+  margin-bottom: $padding-16;
+
+  border: $padding-1 solid $gray-100;
+  border-radius: $border-radius;
+  
+
+  overflow: hidden;
+
+  .book-expand-head {
+    background-color: $gray-200;
+    color:#003366;
+    padding: $padding-8 $padding-16;
+    font-weight: bolder;
+    cursor: pointer;    
+    border: $padding-1 solid #E32934;
+    &:hover{
+      background-color: #003366;
+      color:white;
+      border: $padding-1 solid #E32934;
+    }
+  }
+
+  .book-expand-content {
+    display: none;
+    padding: $padding-16;
+  }
+
+  input[type="checkbox"]:checked + .book-expand-content {
+    display: block;
+  }
+}
+
+// {{< tabs >}}
+.book-tabs {
+  margin-top: $padding-16;
+  margin-bottom: $padding-16;
+  
+  border: $padding-2 solid $gray-400;
+  border-radius: $border-radius;
+
+  overflow: hidden;
+  display: flex;
+  flex-wrap: wrap;
+
+  label {
+    display: inline-block;
+    padding: $padding-8 $padding-16;
+    
+   // border-bottom: $padding-1 transparent;
+    cursor: pointer;
+    background-color: $gray-200;
+    font-weight: 600;
+    border: $padding-2 solid $gray-400;
+    //border-bottom: $padding-2 solid red;
+    //border-right: $padding-4 solid white;
+    color:#003366;
+   // border-bottom: $padding-4 solid #003366;
+
+    
+   &:hover
+    {
+     color:$gray-200;
+     background-color: #003366;
+     font-weight: 600;
+     border-bottom: $padding-4 solid #FF6600;
+   } 
+
+  }
+   
+  .book-tabs-content {
+    order: 999; //Move content blocks to the end
+    width: 100%;   
+    
+    padding: $padding-8;
+    display: none;
+    
+  }
+
+  input[type="radio"]:checked + label {
+    border-bottom: $padding-4 solid #FF6600;    
+    color:$gray-200;
+    background-color: #003366;
+    font-weight: 600;
+    
+  }
+  input[type="radio"]:checked + label + .book-tabs-content {
+    display: block;
+  }
+}
+
+// {{< columns >}}
+.book-columns {
+  margin-left: -$padding-16;
+  margin-right: -$padding-16;
+
+  > div {
+    margin: $padding-16 0;
+    // max-width: 50%;
+    min-width: $body-min-width * 0.66;
+    padding: 0 $padding-16;
+  }
+}
+
+// {{< button >}}
+a.book-btn {
+  display: inline-block;
+  color: #FF6600;
+  text-decoration: none !important;
+  border: $padding-2 solid $color-link;
+  border-radius: $border-radius;
+  padding: 15px;
+  margin-top: $padding-8;
+  margin-bottom: $padding-8;  
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 10px 10px 5px grey;
+
+  &:hover {
+    color: white !important;
+    background-color: #FF6600;
+    
+    
+  }
+}
+
+
