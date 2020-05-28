@@ -27,9 +27,15 @@ $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
 $black: #000 !default;
 
+<<<<<<< HEAD
 $color-link: #003366 !default;
 $color-visited-link: #006690 !default;
 $color-hover: #E32934 !default;
+=======
+$color-link:  rgb(63, 105, 170) !default;
+$color-visited-link: #006690 !default;
+$color-hover: #fc6f5c !default;
+>>>>>>> 4905d83614770cc0efa9e1f982172e8d1a86f36e
 
 $body-background: #F5F5F5 !default;
 $body-font-color: #202020 !default;
@@ -145,6 +151,7 @@ $hint-colors: (
 
   .book-expand-head {
     background-color: $gray-200;
+<<<<<<< HEAD
     color: #003366;
     padding: $padding-8 $padding-16;
     font-weight: bolder;
@@ -155,6 +162,18 @@ $hint-colors: (
       background-color: #003366;
       color: white;
       border: $padding-1 solid #E32934;
+=======
+    color:  rgb(63, 105, 170);
+    padding: $padding-8 $padding-16;
+    font-weight: bolder;
+    cursor: pointer;
+    border: $padding-1 solid #fc6f5c;
+
+    &:hover {
+      background-color:  rgb(63, 105, 170);
+      color: white;
+      border: $padding-1 solid #fc6f5c;
+>>>>>>> 4905d83614770cc0efa9e1f982172e8d1a86f36e
     }
   }
 
@@ -175,7 +194,11 @@ $hint-colors: (
 
   border: $padding-2 solid $gray-400;
   border-radius: $border-radius;
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> 4905d83614770cc0efa9e1f982172e8d1a86f36e
   overflow: hidden;
   display: flex;
   flex-wrap: wrap;
@@ -186,20 +209,37 @@ $hint-colors: (
 
     // border-bottom: $padding-1 transparent;
     cursor: pointer;
+<<<<<<< HEAD
     background-color: $gray-200;
     font-weight: 600;
     border: $padding-2 solid $gray-400;
     //border-bottom: $padding-2 solid red;
     //border-right: $padding-4 solid white;
     color: #003366;
+=======
+    background-color: rgba(63, 105, 170,.3);
+    font-weight: 400;
+    border: $padding-2 solid $gray-400;
+    //border-bottom: $padding-2 solid red;
+    //border-right: $padding-4 solid white;
+  
+>>>>>>> 4905d83614770cc0efa9e1f982172e8d1a86f36e
     // border-bottom: $padding-4 solid #003366;
 
 
     &:hover {
+<<<<<<< HEAD
       color: $gray-200;
       background-color: #003366;
       font-weight: 600;
       border-bottom: $padding-4 solid #FF6600;
+=======
+      
+      background-color: rgba(63, 105, 170,.6);
+      font-weight: 600;
+      
+      border-bottom: $padding-4 solid #fc6f5c;
+>>>>>>> 4905d83614770cc0efa9e1f982172e8d1a86f36e
     }
 
   }
@@ -214,9 +254,15 @@ $hint-colors: (
   }
 
   input[type="radio"]:checked+label {
+<<<<<<< HEAD
     border-bottom: $padding-4 solid #FF6600;
     color: $gray-200;
     background-color: #003366;
+=======
+    border-bottom: $padding-4 solid #fc6f5c;
+    
+    background-color: rgba(63, 105, 170,.6);
+>>>>>>> 4905d83614770cc0efa9e1f982172e8d1a86f36e
     font-weight: 600;
 
   }
@@ -242,7 +288,11 @@ $hint-colors: (
 // {{< button >}}
 a.book-btn {
   display: inline-block;
+<<<<<<< HEAD
   color: #FF6600;
+=======
+  color: #fc6f5c;
+>>>>>>> 4905d83614770cc0efa9e1f982172e8d1a86f36e
   text-decoration: none !important;
   border: $padding-2 solid $color-link;
   border-radius: $border-radius;
@@ -255,7 +305,11 @@ a.book-btn {
 
   &:hover {
     color: white !important;
+<<<<<<< HEAD
     background-color: #FF6600;
+=======
+    background-color: #fc6f5c;
+>>>>>>> 4905d83614770cc0efa9e1f982172e8d1a86f36e
 
 
   }

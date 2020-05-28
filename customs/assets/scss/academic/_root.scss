@@ -160,7 +160,7 @@ figcaption h4 {
 pre,
 code {
   font-family: $sta-font-mono, monospace;
-  color: #c7254e;
+  color: #fc6f5c;
   background-color: #f9f2f4;
 }
 
@@ -330,7 +330,7 @@ a[data-fancybox] {
 }
 
 .post-nav-item .meta-nav {
-  color: #003366;
+  color:  rgb(63, 105, 170);
   font-weight: 700;
   line-height: 2;
   text-transform: uppercase;
@@ -502,7 +502,7 @@ table > tfoot > tr > td {
   padding: 8px;
   line-height: 1.43;
   vertical-align: top;
-  border-top: 1px solid #ddd;
+  border: 1px solid #ddd;
 }
 
 table > thead > tr > th {
@@ -516,7 +516,7 @@ table > thead:first-child > tr:first-child > th,
 table > caption + thead > tr:first-child > td,
 table > colgroup + thead > tr:first-child > td,
 table > thead:first-child > tr:first-child > td {
-  border-top: 0;
+  border-top: 1;
 }
 
 table > tbody + tbody {
@@ -606,7 +606,11 @@ div.alert-info > div:first-child::before {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
   content: '\f05a';
+<<<<<<< HEAD
   color: #003366;
+=======
+  color: rgb(63, 105, 170);
+>>>>>>> 4905d83614770cc0efa9e1f982172e8d1a86f36e
 }
 
 
@@ -614,12 +618,17 @@ div.alert-info > div:first-child::before {
 div.alert a {
   color: currentColor;
   text-decoration: none;
+<<<<<<< HEAD
   border-bottom: solid 2px currentColor;
+=======
+  border-bottom: solid 3px currentColor;
+>>>>>>> 4905d83614770cc0efa9e1f982172e8d1a86f36e
 }
 
 .article-style aside,
 .alert-note {
 
+<<<<<<< HEAD
   background-color: #f6fbfe;
   border-color: #209cee;
 }
@@ -627,22 +636,51 @@ div.alert a {
 .alert-info {
   background-color:rgba(89, 169, 250, 0.2);
   border-color: #003366;
+=======
+  background-color: 	rgba(63, 105, 170,0.2);
+  border-color: 	rgb(63, 105, 170);
+}
+
+.alert-info {
+  background-color:rgba(63, 105, 170,0.2);
+  border-color: rgb(63, 105, 170);
+>>>>>>> 4905d83614770cc0efa9e1f982172e8d1a86f36e
   color:currentColor;
   font-weight: 600;
 }
 .alert-success {
 
+<<<<<<< HEAD
   background-color: #f6fbfe;
   border-color: green;
 }
 
 .alert-warning {
   background-color: rgba(255, 153, 0,0.25);
+=======
+  background-color: rgba(0, 128, 0,0.2);
+  border-color: rgb(0, 128, 0);
+  color:currentColor;
+  
+}
+
+.alert-note-success {
+
+  background-color: rgba(0, 128, 0,0.2);
+  border-color: rgb(0, 128, 0);
+  color:currentColor;
+  
+}
+
+.alert-warning {
+  background-color: rgba(255, 153, 0,0.2);
+>>>>>>> 4905d83614770cc0efa9e1f982172e8d1a86f36e
   border-color: rgb(255, 153, 0);
   color:currentColor;
   font-weight: 600;
 }
 .alert-danger {
+<<<<<<< HEAD
 
   background-color: rgba(255, 56, 96,0.15);
   border-color: rgb(255, 56, 96);
@@ -665,7 +703,16 @@ div.alert-quotes > div {
   background-color: #f9f9f9;
   border-left: .45rem solid #003366;
  /* background: rgba(0, 51, 102, 0.075); */
+=======
+
+  background-color: 	rgba(255, 0, 0,.2);
+  border-color: 	rgb(255, 0, 0);
+  color:currentColor;
+  font-weight: 600;
+>>>>>>> 4905d83614770cc0efa9e1f982172e8d1a86f36e
 }
+
+
 
 /* homepage */
 .hero-img{
