@@ -1,21 +1,25 @@
 ---
-title: [ประกาศ] ผลการพิจารณาทบทวนมาตรการตอบโต้การทุ่มตลาดสินค้าเหล็กลวดคาร์บอนสูง 
-subtitle: ประกาศคณะกรรมการพิจารณาการทุ่มตลาดและการอุดหนุน เรื่อง ผลการพิจารณาทบทวนความจำเป็นในการใช้มาตรการตอบโต้การทุ่มตลาดสินค้าเหล็กลวดคาร์บอนสูงรวมถึงเหล็กลวดคาร์บอนสูงที่เจือธาตุอื่น ที่มีแหล่งกำเนิดจากสาธารณรัฐประชาชนจีน ต่อไป พ.ศ. 2563
+title: ผลการพิจารณาทบทวนมาตรการตอบโต้การทุ่มตลาดสินค้าเหล็กลวดคาร์บอนสูง 
+subtitle: ผลการพิจารณาทบทวนความจำเป็นในการใช้มาตรการตอบโต้การทุ่มตลาดสินค้าเหล็กลวดคาร์บอนสูงรวมถึงเหล็กลวดคาร์บอนสูงที่เจือธาตุอื่น ที่มีแหล่งกำเนิดจากสาธารณรัฐประชาชนจีน ต่อไป พ.ศ. 2563
 summary: ประกาศคณะกรรมการพิจารณาการทุ่มตลาดและการอุดหนุน เรื่อง ผลการพิจารณาทบทวนความจำเป็นในการใช้มาตรการตอบโต้การทุ่มตลาดสินค้าเหล็กลวดคาร์บอนสูงรวมถึงเหล็กลวดคาร์บอนสูงที่เจือธาตุอื่น ที่มีแหล่งกำเนิดจากสาธารณรัฐประชาชนจีน ต่อไป พ.ศ. 2563
 authors:
 - admin
-tags: ['ข้าว']
-categories: ['ส่งออก']
+tags: ['เหล็กลวดคาร์บอนสูง','ประเทศจีน']
+categories: ['AD']
 date: "2020-05-28"
 lastMod: "2020-05-28"
 featured: true
 draft: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  placement: 3
-  caption: 'Image credit: [](./image.jpg)'
+  placement: 2
+  caption: 'Image credit: [**Unsplash**](./image.jpg)'
+  focal_point: ""
+  preview_only: false
 
 ---
 
