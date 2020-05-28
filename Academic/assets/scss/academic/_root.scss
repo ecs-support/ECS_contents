@@ -664,14 +664,16 @@ div.alert a {
 }
 
 .alert-warning {
-  background-color:rgb(241, 221, 184);
-  border-color: #FF9900;
+  background-color: rgba(255, 153, 0,0.5);
+  border-color: rgb(255, 153, 0);
   color:currentColor;
   font-weight: 600;
 }
 .alert-danger {
-  color: #cd0930;  
+  background-color: rgba(255, 56, 96,0.1);
   border-color: #ff3860;
+  color:currentColor;
+  font-weight: 600;
 }
 
 .article-style aside p,

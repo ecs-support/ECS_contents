@@ -37,3 +37,19 @@ weight: 5
 ![](https://github.com/dragon-library/library/raw/master/img/request%20duty%20refunds-02.jpg)
 
 > ที่มา : [กรมศุลกากร](http://th.customs.go.th/list_strc_download.php?ini_content=business_190117_01_01&ini_menu=menu_business_160421_04&order_by=co_priority&sort_type=0&lang=th&left_menu=menu_business_160421_04_01)
+
+
+
+{{< expand "การปฏิบัติพิธีการในการนำของที่ผลิตในประเทศเข้าไปบรรจุในเขตปลอดอากร/เขตประกอบการเสรีและขอใช้สิทธิชดเชย" >}}
+
+## การปฏิบัติพิธีการในการนำของที่ผลิตในประเทศเข้าไปบรรจุในเขตปลอดอากร/เขตประกอบการเสรีและขอใช้สิทธิชดเชยค่าภาษีอากรเมื่อส่งออก
+
+{{< hint info >}}
+**คำตอบ :**  
+
+
+
+- ที่มา : [กรมศุลกากร](http://ccc.customs.go.th/cont_strc_faq.php?current_id=14232a324149505f47&left_menu=interesting_article)  
+- วันที่ปรับปรุงล่าสุด : 4 ตุลาคม 2562  
+ {{< /hint >}}
+{{< /expand >}}

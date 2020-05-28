@@ -31,7 +31,7 @@ body {
 }
 
 .max-width-640 {
-  max-width: 640px;
+  max-width: 85%;
 }
 
 .margin-auto {
@@ -91,12 +91,12 @@ h2 {
   font-size: 1.5rem;
 }
 h3 {
-  
+
   margin-top: 1.5rem;
   font-size: 1.25rem;
 }
 h4, h5, h6 {
-  
+
   margin-top: 1rem;
   font-size: 1rem;
 }
@@ -115,7 +115,7 @@ a:focus {
 
 img,
 video {
-  
+
   max-width: 90%;
   display: block;
 }
@@ -222,12 +222,12 @@ blockquote p:last-child {
   padding-right: 1rem;
   padding-left: 1rem;
   padding-top: 0.1rem;
-  width: 100%;
+  max-width: 85%;
 }
 
 @media only screen and (min-width: 1001px) {
   .universal-wrapper {
-    width: 1000px;
+     max-width: 85%;
   }
 }
 
@@ -303,7 +303,7 @@ a[data-fancybox] {
  *  Pager.
  **************************************************/
  .post-nav {
- 
+
   font-size: .85rem;
   display: inline;
 
@@ -318,13 +318,13 @@ a[data-fancybox] {
   float: left;
   text-align: left;
   background: rgba(0,0,0,.05);
-  border-color: rgb(200, 200, 200); 
+  border-color: rgb(200, 200, 200);
   border-radius: 4px;
-  
+
 }
 
 .post-nav-item a {
-  color: $sta-primary;  
+  color: $sta-primary;
   line-height: 1.7;
   text-transform: none;
 }
@@ -333,11 +333,11 @@ a[data-fancybox] {
   color: #003366;
   font-weight: 700;
   line-height: 2;
-  text-transform: uppercase;  
+  text-transform: uppercase;
 }
 
 .box {
-  
+
   width: 45%;
   padding: 10px;
   float: left;
@@ -345,12 +345,12 @@ a[data-fancybox] {
 .post-nav-item .meta-prev,
  .post-nav-item .meta-prev a {
 float: left;
-  
+
 }
 .post-nav-item .meta-next,
 .post-nav-item .meta-next a {
   float: right;
- 
+
 }
 
 .dark .post-nav-item a {
@@ -575,8 +575,8 @@ div.alert > div:first-child::before {
   position: absolute;
   top: -0.5rem;
   left: -2rem;
-  font-size: 1.5rem; 
-  
+  font-size: 1.5rem;
+
   width: 1.5rem;
   text-align: center;
 }
@@ -600,13 +600,13 @@ div.alert-success > div:first-child::before {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
   content: '\f058';
-  color: green;  
+  color: green;
 }
 div.alert-info > div:first-child::before {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
   content: '\f05a';
-  color: #003366; 
+  color: #003366;
 }
 
 
@@ -614,37 +614,40 @@ div.alert-info > div:first-child::before {
 div.alert a {
   color: currentColor;
   text-decoration: none;
-  border-bottom: solid 1.5px currentColor;
+  border-bottom: solid 2px currentColor;
 }
 
 .article-style aside,
 .alert-note {
-  
+
   background-color: #f6fbfe;
   border-color: #209cee;
 }
 
 .alert-info {
   background-color:rgba(89, 169, 250, 0.2);
-  border-color: #003366; 
+  border-color: #003366;
   color:currentColor;
   font-weight: 600;
 }
 .alert-success {
-   
+
   background-color: #f6fbfe;
-  border-color: green; 
+  border-color: green;
 }
 
 .alert-warning {
-  background-color:#f6fbfe;
-  border-color: #FF9900;
+  background-color: rgba(255, 153, 0,0.25);
+  border-color: rgb(255, 153, 0);
   color:currentColor;
   font-weight: 600;
 }
 .alert-danger {
-  color: #cd0930;  
-  border-color: #ff3860;
+
+  background-color: rgba(255, 56, 96,0.15);
+  border-color: rgb(255, 56, 96);
+  color:currentColor;
+  font-weight: 600;
 }
 
 .article-style aside p,
@@ -653,12 +656,12 @@ div.alert-quotes > div {
   top:-1rem;
   margin-top:1.5rem;
   line-height:3rem;
-  font-size: 1.5rem; 
-  font-weight: 500;  
+  font-size: 1.5rem;
+  font-weight: 500;
   font-family: 'Kanit';
   font-style: italic;
   text-align: center;
-  color: #003366;    
+  color: #003366;
   background-color: #f9f9f9;
   border-left: .45rem solid #003366;
  /* background: rgba(0, 51, 102, 0.075); */

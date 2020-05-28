@@ -18,7 +18,7 @@ day_night = true
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = "ECS"
+font = "ecs"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -167,7 +167,7 @@ plugins_js  = []
 # An avatar can be uploaded as an image named `avatar` to each user's profile or fetched from Gravatar.com.
 [avatar]
   # Get user avatars from Gravatar.com? (true/false)
-  gravatar = false
+  gravatar = true
 
   # Choose a shape for avatar images. Options: circle, square.
   shape = "circle"
