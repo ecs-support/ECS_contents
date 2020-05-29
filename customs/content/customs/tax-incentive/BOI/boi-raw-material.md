@@ -52,11 +52,7 @@ weight: 8
 
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/BOI/boi-raw-material/boi-raw-material-06.jpg)
 
-<<<<<<< HEAD
 {{<hint info>}}
-=======
-{{% alert note-success%}}
->>>>>>> 4905d83614770cc0efa9e1f982172e8d1a86f36e
 **ข้อมูลอ้างอิง :**
 
 - ประกาศสำนักงานคณะกรรมการส่งเสริมการลงทุนที่ ป. 8 / 2561 เรื่อง **วิธีปฏิบัติในการใช้สิทธิและประโยชน์ยกเว้นอากรขาเข้า สำหรับวัตถุดิบและวัสดุจำเป็นเพื่อใช้ในการผลิตเพื่อการส่งออก** [**(ดาวน์โหลด)**](https://github.com/ecs-support/knowledge-center/raw/master/data/BOI/por8_2561.pdf)  
@@ -64,8 +60,4 @@ weight: 8
 - ประกาศสำนักงานคณะกรรมการส่งเสริมการลงทุนที่ ป. 9 / 2561 เรื่อง **วิธีปฏิบัติในการสั่งปล่อย ค้ำประกัน และตัดบัญชีวัตถุดิบ และวัสดุจำเป็น ด้วยระบบอิเล็กทรอนิกส์ (RMTS 2011)** [**(ดาวน์โหลด)**](https://github.com/ecs-support/knowledge-center/raw/master/data/BOI/por9_2561.pdf)  
 
 - เอกสารประกอบการสัมมนาระบบงาน **“ตัดบัญชีวัตถุดิบแบบไร้เอกสาร”** เมื่อวันที่ 8 สิงหาคม 2561 ณ โรงแรมมิราเคิล แกรนด์คอนเวนชั่น กรุงเทพฯ [**(ดาวน์โหลด)**](https://github.com/ecs-support/knowledge-center/raw/master/data/BOI/Presentation_Forum_8Aug2018.pdf)  
-<<<<<<< HEAD
 {{< /hint>}}
-=======
-{{% /alert %}}
->>>>>>> 4905d83614770cc0efa9e1f982172e8d1a86f36e

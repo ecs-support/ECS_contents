@@ -170,16 +170,19 @@ weight: 6
 ## สินค้าส่งออกที่ถูกส่งกลับคืนหรือการส่งสินค้าคืน
 ผู้ส่งของออกที่ได้รับเงินชดเชยค่าภาษีอากรไปแล้ว ให้ส่งคืนเงินชดเชยค่าภาษีอากรที่ได้รับไปแล้ว ภายใน 60 วัน นับแต่วันที่นำสินค้ากลับคืน หากผู้มีสิทธิได้รับเงินชดเชยค่าภาษีอากร มิได้คืนเงินชดเชยค่าภาษีอากรตามระยะเวลาที่กำหนดไว้ จะต้องเสียเงินเพิ่มในอัตราร้อยละ 2 ต่อเดือน เศษของเดือนให้นับเป็นหนึ่งเดือนของจำนวนเงินชดเชยค่าภาษีอากรที่ต้องคืน จนกว่าจะคืนเงินชดเชยค่าภาษีอากรครบถ้วน ทั้งนี้ผู้ส่งของออกสามารถชำระคืนเงินชดเชยค่าภาษีอากรที่ได้รับไปแล้วด้วยบัตรภาษี เช็คหรือดร๊าฟท์ ที่สั่งจ่ายเข้าบัญชีเงินฝากของกรมศุลกากร หรือเงินสด
 {{< /tab >}}
-
-{{< /tabs >}}
+{{< tab "ประกาศที่เกี่ยวข้อง" >}} 
 
 ## ประกาศที่เกี่ยวข้อง
 
-| NO.   |       รายละเอียด                         | วันที่ปรับปรุงล่าสุด   |
-|:-----:|:--------------------------------:|-----------------|
+| NO.   | รายละเอียด                      | วันที่ปรับปรุงล่าสุด   |
+|:-----:|--------------------------------|-----------------|
 | 1   | [กำหนดอัตราเงินชดเชยค่าภาษีอากร ที่ อ1/2560](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505e4e464b46464b49)  | 22 สิงหาคม 2560 |
 | 2   | [กำหนดอัตราเงินชดเชยค่าภาษีอากร ที่ อ2/2560](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505e4e464b46464b4a) | 22 สิงหาคม 2560 |
 | 3   | [กำหนดอัตราเงินชดเชยค่าภาษีอากร ที่ อ3/2560](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505e4e464b46464b4b) | 22 สิงหาคม 2560 |
+
+{{< /tab >}}
+
+{{< /tabs >}}
 
 ## สรุป
 
@@ -191,12 +194,12 @@ weight: 6
 
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-guide/e-tax-guidejpg_Page17.jpg)
 
-{{% alert success %}}
+{{< hint success>}}
 - **สอบถามข้อมูลเพิ่มเติมได้ที่ :** ส่วนชดเชยค่าภาษีอากร กองสิทธิประโยชน์ทางภาษีอากร (กสอ.)  
 - **หมายเลขโทรศัพท์ :** 02-667-7000 ต่อ 5799 หรือ 7661  
 - **อีเมล์ :** 82000100@customs.go.th
-{{% /alert %}}
+{{< /hint>}}
 
-> ที่มา : [กรมศุลกากร](http://www.customs.go.th/list_multi_tab.php?link=cont_xsimple.php&ini_menu=menu_tax_incentive&left_menu=menu_tax_incentive_160928_06_01&ini_tab=menu_tax_incentive_160928_06&ini_content=tax_incentive_160929_04&tab=menu_tax_incentive_160928_06_01&lang=th&root_left_menu=menu_tax_incentive_160928_06&left_menu=menu_tax_incentive_160928_06_01)   
+> ที่มา : [กรมศุลกากร](http://www.customs.go.th/list_multi_tab.php?link=cont_xsimple.php&ini_menu=menu_tax_incentive&left_menu=menu_tax_incentive_160928_06_01&ini_tab=menu_tax_incentive_160928_06&ini_content=tax_incentive_160929_04&tab=menu_tax_incentive_160928_06_01&lang=th&root_left_menu=menu_tax_incentive_160928_06&left_menu=menu_tax_incentive_160928_06_01) 
 > วันที่ปรับปรุงล่าสุด : 24 มิถุนายน 2562 
 

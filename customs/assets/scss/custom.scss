@@ -175,6 +175,7 @@ $hint-colors: (
 
   border: $padding-2 solid $gray-400;
   border-radius: $border-radius;
+
   overflow: hidden;
   display: flex;
   flex-wrap: wrap;
@@ -283,7 +284,3 @@ body {
 .book-menu nav {
   scrollbar-color: transparent $gray-500;
 }
-
-
-
-
