@@ -1,0 +1,25 @@
+---
+# Course title, summary, and position.
+linktitle: พิธีการการนำเข้าสินค้า
+summary: พิธีการการนำเข้าสินค้า
+weight: 2
+
+# Page metadata.
+title: พิธีการการนำเข้าสินค้า
+date: "2020-05-09T00:00:00Z"
+lastmod: "2020-05-09T00:00:00Z"
+draft: false  # Is this a draft? true/false
+toc: false  # Show table of contents? true/false
+type: docs  # Do not modify.
+
+# Add menu entry to sidebar.
+# - name: Declare this menu item as a parent with ID `name`.
+# - weight: Position of link in menu.
+menu:
+  import:
+    name: พิธีการการนำเข้าสินค้า   
+    weight: 2
+---
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/cover/import-Customs-clearance.png)
+

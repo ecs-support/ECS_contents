@@ -1,0 +1,61 @@
+Run : hugo server --minify --theme book 
+For full rebuilds on change: hugo server --disableFastRender
+Doc : https://themes.gohugo.io/theme/hugo-book/
+GitHub : https://github.com/gohugoio/hugo/tree/master/docs
+
+## Image
+img : https://github.com/ecs-support/knowledge-center/raw/master/img/xxxxxxx.jpg
+
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/export-freezone-11-03-20.jpg)
+
+
+![](https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page1.jpg)
+
+## Download Button
+
+[![Foo](https://github.com/ecs-support/knowledge-center/raw/master/img/tool/btn_download.png)](http://xxxx)
+
+{{<hint success>}}
+info: #003366,
+warning: #FF6600,
+danger: red,
+success: green,
+{{< /hint>}}
+
+## Button
+
+{{< button relref="/docs/import/trade-protection/SG" >}}Safeguard Measure: SG{{< /button >}}
+
+
+
+{{< tabs "uniqueid" >}}
+{{< tab "MacOS" >}} # MacOS Content {{< /tab >}}
+{{< tab "Linux" >}} # Linux Content {{< /tab >}}
+{{< tab "Windows" >}} # Windows Content {{< /tab >}}
+{{< /tabs >}}
+
+## Template FAQ
+
+{{< expand "การปฏิบัติพิธีการในการนำของที่ผลิตในประเทศเข้าไปบรรจุในเขตปลอดอากร/เขตประกอบการเสรีและขอใช้สิทธิชดเชย" "+" >}}
+
+## การปฏิบัติพิธีการในการนำของที่ผลิตในประเทศเข้าไปบรรจุในเขตปลอดอากร/เขตประกอบการเสรีและขอใช้สิทธิชดเชยค่าภาษีอากรเมื่อส่งออก
+
+{{< hint success >}}
+**คำตอบ :**  
+
+
+
+- ที่มา : [กรมศุลกากร](http://ccc.customs.go.th/cont_strc_faq.php?current_id=14232a324149505f47&left_menu=interesting_article)  
+- วันที่ปรับปรุงล่าสุด : 4 ตุลาคม 2562  
+ {{< /hint >}}
+{{< /expand >}}
+
+
+## Embed pdf ไฟล์
+<dev class = 'container'>
+ <h1>How to disable downloading of the PDF document</h1>
+    <iframe src="./process-modification-e_import-system.pdf#toolbar=0" width="100%" height="1100px">
+    </iframe>
+
+</dev>
