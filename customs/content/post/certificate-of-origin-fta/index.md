@@ -27,11 +27,8 @@ image:
 ปรับเปลี่ยนบทบาทโดยเน้นการอำนวยความสะดวกทางการค้ามากขึ้น
 
 ![](img/documentpng_Page1.png)
-
 ![](img/documentpng_Page2.png)
-
 ![](img/documentpng_Page3.png)
-
 ![](img/documentpng_Page4.png)
 
 

@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior System Support
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ความรู้ คือ พาหนะที่สำคัญ ที่จะนำพาเราไปสู่จุดหมาย หรือ อนาคตในแบบที่เราต้องการ.
 
 interests:
 - Artificial Intelligence
