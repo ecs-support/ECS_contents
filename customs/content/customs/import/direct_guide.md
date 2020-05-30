@@ -1,12 +1,13 @@
 ---
 # Course title, summary, and position.
-linktitle: คู่มือการปฏิบัติพิธีการสำหรับการนำเข้า (e-Import) 
+linktitle: คู่มือการปฏิบัติพิธีการ
 title: คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (e-Import)
 
 menu:
  import:
-    name: คู่มือการปฏิบัติพิธีการสำหรับการนำเข้า  
-    weight: 100
+    parent: พิธีการการนำเข้าสินค้า
+    weight: 3
+weight: 3
 ---
 
 

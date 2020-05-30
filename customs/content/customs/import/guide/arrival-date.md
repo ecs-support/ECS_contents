@@ -1,7 +1,7 @@
 ---
-linktitle: วันนำเข้า (Arrival Date)
-summary: 
-weight: 6
+linktitle: วันนำเข้า 
+summary: วันนำเข้า (Arrival Date)
+
 
 title: วันนำเข้า (Arrival Date)
 date: "2020-05-18T00:00:00Z"

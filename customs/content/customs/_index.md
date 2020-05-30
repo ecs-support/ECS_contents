@@ -1,10 +1,10 @@
 ---
 # Course title, summary, and position.
-linktitle: พิธีการศุลกากร
-summary: พิธีการศุลกากร
+linktitle: การนำเข้า-ส่งออกสินค้า
+summary: การนำเข้า-ส่งออกสินค้า
 
 # Page metadata.
-title: พิธีการศุลกากร
+title: การนำเข้า-ส่งออกสินค้า
 date: "2020-05-12T00:00:00Z"
 lastmod: "2020-05-12T00:00:00Z"
 draft: false  # Is this a draft? true/false

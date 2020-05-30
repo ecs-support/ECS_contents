@@ -1,5 +1,5 @@
 ---
-linktitle: โครงสร้างข้อมูลใบขนสินค้า 
+linktitle: โครงสร้างข้อมูล
 summary: 
 weight: 1
 
@@ -22,7 +22,7 @@ weight: 1
 ---
 
 
-## โครงสร้างข้อมูลใบขนสินค้าขาเข้า
+
 
 โครงสร้างข้อมูลใบขนสินค้าขาเข้า แบ่งได้เป็น 6 ส่วนดังนี้
 
@@ -45,7 +45,9 @@ weight: 1
 - สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A 
 -  สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์)
 	
-## อักษรย่อ ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล
+## อักษรย่อ 
+
+**อักษรย่อ ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล**
 
 |  อักษรย่อ   |	คำอธิบาย  |
 |:------------:|----------------------------|
@@ -60,7 +62,7 @@ weight: 1
 
 
 
-### Import Declaration Control
+### Declaration Control
 
 ![enter image description here](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page7.png)
 
@@ -94,7 +96,7 @@ weight: 1
 
 ![enter image description here](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page25.png)
 
-### Import Invoice Control
+### Invoice Control
 
 
 ![enter image description here](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page26.png)
@@ -107,7 +109,7 @@ weight: 1
 
 ![enter image description here](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page30.png)
 
-### Import Invoice Detail
+### Invoice Detail
 
 ![enter image description here](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page31.png)
 
@@ -138,7 +140,7 @@ weight: 1
 ![enter image description here](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page44.png)
 
 
-### Import Invoice Duty
+### Invoice Duty
 
 ![enter image description here](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page45.png)
 
@@ -146,12 +148,12 @@ weight: 1
 
 ![enter image description here](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page47.png)
 
-### Import Invoice Permit
+### Invoice Permit
 
 ![enter image description here](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page48.png)
 
 ![enter image description here](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page49.png)
 
 
-### Import Invoice Deposit
+### Invoice Deposit
 ![enter image description here](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page50.png)

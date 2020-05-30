@@ -1,6 +1,4 @@
 // Override this file to add your own SCSS styling.
-<<<<<<< HEAD
-=======
 
 // Used in layout
 $padding-1: 1px !default;
@@ -29,7 +27,7 @@ $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
 $black: #000 !default;
 
-$color-link: #003366 !default;
+$color-link: #006690 !default;
 $color-visited-link: #006690 !default;
 $color-hover: #E32934 !default;
 
@@ -189,19 +187,19 @@ $hint-colors: (
     // border-bottom: $padding-1 transparent;
     cursor: pointer;
     background-color: $gray-200;
-    font-weight: 600;
+    
     border: $padding-2 solid $gray-400;
     //border-bottom: $padding-2 solid red;
     //border-right: $padding-4 solid white;
-    color: #003366;
+    color: rgba(0,0,0,0.8);
     // border-bottom: $padding-4 solid #003366;
 
 
     &:hover {
-      color: $gray-200;
-      background-color: #003366;
+      color: rgba(0,0,0,0.9);
+      background-color: $gray-300;
       font-weight: 600;
-      border-bottom: $padding-4 solid #FF6600;
+      border-bottom: $padding-4 solid $sta-link-hover;
     }
 
   }
@@ -217,9 +215,11 @@ $hint-colors: (
 
   input[type="radio"]:checked+label {
     border-bottom: $padding-4 solid #FF6600;
-    color: $gray-200;
-    background-color: #003366;
+  //  color: $gray-200;
+   // background-color: #3F69AA;
     font-weight: 600;
+    color: rgba(0,0,0,0.9);
+      background-color: $gray-300;
 
   }
 
@@ -286,4 +286,4 @@ body {
 .book-menu nav {
   scrollbar-color: transparent $gray-500;
 }
->>>>>>> parent of cae94ca... Merge branch 'master'
+

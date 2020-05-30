@@ -1,8 +1,6 @@
 ---
-linktitle: เครื่องหมายและเลขหมายหีบห่อ
-summary: 
-weight: 9
-
+linktitle: เครื่องหมายหีบห่อ
+summary: เครื่องหมายและเลขหมายหีบห่อ (Shipping Marks)
 title: เครื่องหมายและเลขหมายหีบห่อ (Shipping Marks)
 date: "2020-05-19T00:00:00Z"
 lastmod: "2020-05-19T00:00:00Z"

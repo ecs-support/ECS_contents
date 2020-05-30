@@ -3,7 +3,7 @@
  **************************************************/
 
 .docs-article-container {
-  max-width: 90%;
+  max-width: 95%;
 }
 
 /* Documentation: article footer. */
@@ -159,7 +159,8 @@
   order: 2;
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
-  font-size: .8rem
+  font-size: .8rem;
+  
 }
 
 @supports ((position:-webkit-sticky) or (position:sticky)) {
@@ -176,15 +177,15 @@
 
 .docs-toc-link {
   display: block;
-  padding: .25rem 1.5rem;
-  font-weight: bold;
+  padding: .25rem 1rem;
+  font-weight: 600;
   color: #707070;
-  font-size:.8rem;
+  font-size: 0.8rem;
 }
 
 .docs-toc-link:hover {
   color: $sta-primary;
-  font-weight: 700;
+  font-weight: 600;
   text-decoration: none;
 }
 
@@ -195,7 +196,7 @@
 
 .docs-toc-item.active:not(:first-child) {
   margin-top: 1rem;
-  font-size:.75rem;
+  font-size:.8rem;
 }
 
 .docs-toc-item.active>.docs-toc-link {
@@ -216,23 +217,24 @@
 .docs-toc-title {
   color: #b5b5b5;
   font-size: .8rem;
-  font-weight: 500;
-  padding-left: calc(1.5rem + 1px);
+  font-weight: 700;
+  padding-left: calc(1rem + 1px);
 }
 
 #TableOfContents {
   padding-left: 0;
   border-left: 1px solid #eee;
+  
 }
 
-#TableOfContents ul,
+#TableOfContents ul, 
 ul.toc-top {
   padding-left: 0;
+  
 }
-
 // TOC indentation for each level.
 #TableOfContents ul ul {
-  padding-left: 0.8rem;
+  padding-left: 0.5rem;
 }
 
 #TableOfContents li {
@@ -242,9 +244,10 @@ ul.toc-top {
 #TableOfContents li a,
 .toc-top li a {
   display: block;
-  padding: .125rem 1.5rem;
+  padding: .125rem 1rem;
   color: #707070;
   font-size: 0.75rem;
+ 
 }
 
 #TableOfContents li a:hover,
@@ -270,4 +273,37 @@ ul.toc-top {
 .anchorjs-link:hover {
   color: $sta-primary;
   text-decoration: none;
+}
+
+#table_of_contents {
+  position: relative;
+  display: block;
+  font-size: 1.2rem;
+  margin: 2rem auto;
+  
+  border: solid 1px;
+
+  
+  border-color: #707070;
+  color:currentColor;
+  padding: 0 auto;
+
+}
+#table_of_contents li a {
+  display: block;
+  padding: .125rem 1rem;
+  color: #707070;
+  font-size: .8em;
+  
+  
+}
+#table_of_contents h2 {
+  font-size: 1rem;
+  padding-left: 0.8rem;
+  
+}
+
+#table_of_contents #TableOfContents ul ul {
+  padding-left: 0.5rem;
+  color:red;
 }

@@ -1,7 +1,6 @@
 ---
-linktitle: เลขที่ใบตราส่ง (Bill of Lading)
-summary: 
-weight: 7
+linktitle: เลขที่ใบตราส่ง 
+summary:  เลขที่ใบตราส่ง (Bill of Lading)
 
 title: เลขที่ใบตราส่ง (Bill of Lading)
 date: "2020-05-18T00:00:00Z"

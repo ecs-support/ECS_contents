@@ -12,7 +12,7 @@ type: docs  # Do not modify.
 
 menu:
   import:
-    parent: การนำเข้าสินค้า
+    parent: พิธีการการนำเข้าสินค้า
     weight: 6
 
 weight: 6

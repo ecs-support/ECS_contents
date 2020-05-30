@@ -7,12 +7,12 @@ title: การนำเข้ารถยนต์สำเร็จรูป
 date: "2020-05-18T00:00:00Z"
 lastmod: "2020-05-18T00:00:00Z"
 draft: false  # Is this a draft? true/false
-toc: false  # Show table of contents? true/false
+toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 menu:
   import:
-    parent: การนำเข้าสินค้า
+    parent: พิธีการการนำเข้าสินค้า
     weight: 8
 
 weight: 8
