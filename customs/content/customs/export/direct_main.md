@@ -7,7 +7,7 @@ type: docs  # Do not modify.
 
 menu:
   export:
-    name: <--กลับไปเมนูหลัก  พิธีการศุลกากร
+    name: <--กลับไปเมนูหลัก
     weight: 200
 
 ---

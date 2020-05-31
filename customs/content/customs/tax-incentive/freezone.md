@@ -109,14 +109,11 @@ weight: 4
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-guide/e-tax-guidejpg_Page36.jpg)
 
 
-
-
-> ที่มา : [กรมศุลกากร](http://www.customs.go.th/list_multi_tab.php?link=cont_xsimple.php&ini_menu=menu_tax_incentive&left_menu=menu_tax_incentive_160928_04&ini_tab=menu_tax_incentive_160928_04&ini_content=tax_incentive_160929_03&tab=menu_tax_incentive_160928_04_170202_01&lang=th&top_menu=menu_homepage&left_menu=menu_tax_incentive_160928_04)
-
-
-{{< hint success>}}
+{{% alert note_success %}}
 * **สอบถามข้อมูลเพิ่มเติม**ได้ที่ : คลินิกสิทธิประโยชน์ (Tax Incentives Clinic)
 ชั้น ๒ อาคารเฉลิมพระเกียรติ กรมศุลกากร
 * หมายเลขโทรศัพท์ : 02667-7000 ต่อ 5179
 * อีเมล์ : taxinclinic@gmail.com หรือ thaicustoms.freezone@gmail.com
-{{< /hint>}}
+{{% /alert %}}
+
+> ที่มา : [กรมศุลกากร](http://www.customs.go.th/list_multi_tab.php?link=cont_xsimple.php&ini_menu=menu_tax_incentive&left_menu=menu_tax_incentive_160928_04&ini_tab=menu_tax_incentive_160928_04&ini_content=tax_incentive_160929_03&tab=menu_tax_incentive_160928_04_170202_01&lang=th&top_menu=menu_homepage&left_menu=menu_tax_incentive_160928_04)

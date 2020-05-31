@@ -20,17 +20,19 @@ weight: 1
 
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/tax-incentive.png)
 
-## Table of Content
+## เนื้อหา
 
-{{% alert note %}}
+{{% alert note_toc %}}
+
+-   [การคืนอากรตามมาตรา 29](../tax-incentive/section_29/)
+-   [คลังสินค้าทัณฑ์บน](../tax-incentive/bond/)
+-   [เขตปลอดอากร (Freezone)](../tax-incentive/freezone/)
+-   [เขตประกอบการเสรี](../tax-incentive/ieat/)
+-   [การชดเชยค่าภาษีอากร](../tax-incentive/compensate/)
+-   [การส่งเสริมการลงทุน (BOI)](../tax-incentive/boi/)
+-   [การคืนอากรสำหรับของที่นำเข้ามาแล้วส่งกลับออกไป (Re-export)](../tax-incentive/re-export/) 
 -   [คู่มือสิทธิประโยชน์ทางภาษีอากร](../tax-incentive/tax-incentive_guide/)
--   [การคืนอากรสำหรับของที่นำเข้ามาแล้วส่งกลับออกไป (Re-export)](/knowledge-center/customs-clearance/docs/tax-incentive/re-export/)  
--   [การคืนอากรตามมาตรา 29](/knowledge-center/customs-clearance/docs/tax-incentive/section_29/)
--   [คลังสินค้าทัณฑ์บน](/knowledge-center/customs-clearance/docs/tax-incentive/bond/)
--   [เขตปลอดอากร (Freezone)](/knowledge-center/customs-clearance/docs/tax-incentive/freezone/)
--   [เขตประกอบการเสรี](/knowledge-center/customs-clearance/docs/tax-incentive/ieat/)
--   [การชดเชยค่าภาษีอากร](/knowledge-center/customs-clearance/docs/tax-incentive/compensate/)
--   [การส่งเสริมการลงทุน(BOI)](/knowledge-center/customs-clearance/docs/tax-incentive/boi/)
+
 {{% /alert %}}
 
 พระราชบัญญัติศุลกากร พ.ศ. 2560 ซึ่งมีผลบังคับใช้ตั้งแต่ 13 พฤศจิกายน 2560 เป็นต้นมา ได้ยกเลิกบรรดาพระราชบัญญัติศุลกากรทุกฉบับที่เคยมีมา โดยได้จัดหมวดหมู่ของกฎหมายออกเป็น 9 หมวด และมีจำนวนถึง 3 หมวดที่บัญญัติในเรื่องสิทธิประโยชน์ทางภาษีอากร กล่าวคือ
@@ -41,6 +43,12 @@ weight: 1
 
 ซึ่งบทบัญญัติของกฎหมาย 3 หมวดดังกล่าวข้างต้น ได้บัญญัติถึงหลักการด้านสิทธิประโยชน์ทางภาษีอากรในมิติต่าง ๆ การออกกฎกระทรวง การให้อำนาจอธิบดี กำหนดหลักเกณฑ์ วิธีการ และเงื่อนไขในการขอหลักการ อนุญาต จัดตั้ง ประกอบกิจการ เพิกถอน และการยกเลิกกิจกรรมต่าง ๆ ที่ว่าด้วยเรื่องสิทธิประโยชน์ทางภาษีอากรตามกฎหมายของศุลกากร
 
-{{% alert success %}}
-สำหรับผู้ที่สนใจที่จะใช้สิทธิประโยชน์ทางภาษีอากร  ตามบทบัญญัติของกฎหมายศุลกากรทั้ง 3 หมวด ตลอดถึงการขอชดเชยค่าภาษีอากรสินค้าส่งออกที่ผลิตในราชอาณาจักรอย่างละเอียด สามารถสอบถามข้อมูลเพิ่มเติมได้ที่ คลินิกสิทธิประโยชน์ทางภาษีอากร ชั้น 2 อาคารเฉลิมพระเกียรติฯ หมายเลขโทรศัพท์ 0-2667-7000 ต่อ 5179 หรือ  E-mail: taxinclinic@customs.go.th หรือ  taxinclinic@gmail.com โดยเปิดทำการทุกวันจันทร์  – ศุกร์ เวลา 09:30  – 16:00 น.
+
+สำหรับผู้ที่สนใจที่จะใช้สิทธิประโยชน์ทางภาษีอากร  ตามบทบัญญัติของกฎหมายศุลกากรทั้ง 3 หมวด ตลอดถึงการขอชดเชยค่าภาษีอากรสินค้าส่งออกที่ผลิตในราชอาณาจักรอย่างละเอียด สามารถสอบถามข้อมูลเพิ่มเติมได้ที่ 
+{{% alert note_success %}} 
+คลินิกสิทธิประโยชน์ทางภาษีอากร ชั้น 2 อาคารเฉลิมพระเกียรติฯ 
+โทรศัพท์ 0-2667-7000 ต่อ 5179 หรือ  
+E-mail: taxinclinic@customs.go.th หรือ  
+taxinclinic@gmail.com 
+โดยเปิดทำการทุกวันจันทร์  – ศุกร์ เวลา 09:30  – 16:00 น.
 {{% /alert %}}

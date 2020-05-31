@@ -1,6 +1,16 @@
 
 <div id="table_of_contents">
-    <h2>Contents</h2>
+    <h3>เนื้อหา</h3>
     {{ $.Page.TableOfContents }}
 </div>
 
+
+<!--
+{{ $tocLevels := 1  }}
+{{ if and $tocLevels .Page.TableOfContents }}
+  <aside id="table_of_contents" class="book-toc levels-{{$tocLevels}} fixed">
+    {{ .Page.TableOfContents }}
+  </aside>
+{{ end }}
+
+-->

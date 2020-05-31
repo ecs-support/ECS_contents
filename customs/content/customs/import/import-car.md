@@ -12,10 +12,10 @@ type: docs  # Do not modify.
 
 menu:
   import:
-    parent: พิธีการการนำเข้าสินค้า
-    weight: 8
+    name: การนำเข้ารถยนต์สำเร็จรูป
+    weight: 5
 
-weight: 8
+weight: 5
 ---
 
 
@@ -27,32 +27,42 @@ weight: 8
 - [ประกาศกระทรวงพาณิชย์ เรื่อง กำหนดให้รถยนต์ใช้แล้วเป็นสินค้าที่ต้องห้ามหรือต้องขออนุญาตในการนำเข้ามาในราชอาณาจักร พ.ศ. 2562](https://github.com/ecs-support/knowledge-center/raw/master/data/moc/used_car.pdf)
 
 
-## การปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์ว่าด้วยรถยนต์สำเร็จรูป
+## การปฏิบัติพิธีการ
 
-**ประกาศกรมศุลกากร ที่ 106/ 2561 เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์ว่าด้วยรถยนต์สำเร็จรูป**
+การปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์ว่าด้วยรถยนต์สำเร็จรูป ตามประกาศกรมศุลกากร ที่ 106/ 2561 เรื่อง **หลักเกณฑ์ วิธีการ และเงื่อนไขการปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์ว่าด้วยรถยนต์สำเร็จรูป**
 
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/import/car/106_2561jpg_Page1-1.jpg)
 
-### ส่วนที่ 1 การจัดทำข้อมูลใบขนสินค้า
+### การจัดทำข้อมูลใบขนสินค้า
+
+**ส่วนที่ 1 การจัดทำข้อมูลใบขนสินค้า**
 
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/import/car/106_2561jpg_Page1-2.jpg)
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/import/car/106_2561jpg_Page2-1.jpg)
 
-#### การจัดทำใบรับรองรายละเอียดของรถยนต์สำเร็จรูปนำเข้า
+#### การจัดทำใบรับรอง
+
+**การจัดทำใบรับรองรายละเอียดของรถยนต์สำเร็จรูปนำเข้า**
 
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/import/car/106_2561jpg_Page2-2.jpg)
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/import/car/106_2561jpg_Page3-1.jpg)
 
-### ส่วนที่ 2 การตรวจสอบตามกระบวนการทางศุลกากร
+### การตรวจสอบ
+
+**ส่วนที่ 2 การตรวจสอบตามกระบวนการทางศุลกากร**
 
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/import/car/106_2561jpg_Page3-2.jpg)
 
-### ส่วนที่ 3 การตรวจสอบรถยนต์สำเร็จรูปกรณีมีเหตุอันควรสงสัย
+### การตรวจสอบ
+
+**ส่วนที่ 3 การตรวจสอบรถยนต์สำเร็จรูปกรณีมีเหตุอันควรสงสัย**
 
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/import/car/106_2561jpg_Page3-3.jpg)
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/import/car/106_2561jpg_Page4-1.jpg)
 
-### ส่วนที่ 4 การเชื่อมโยงใบขนสินค้าขาเข้ากับกรมการขนส่งทางบก
+### การเชื่อมโยงข้อมูล
+
+**ส่วนที่ 4 การเชื่อมโยงใบขนสินค้าขาเข้ากับกรมการขนส่งทางบก**
 
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/import/car/106_2561jpg_Page4-2.jpg)
 

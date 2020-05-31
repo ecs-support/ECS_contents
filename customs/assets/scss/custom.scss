@@ -27,8 +27,8 @@ $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
 $black: #000 !default;
 
-$color-link: #006690 !default;
-$color-visited-link: #006690 !default;
+$color-link: #3F69AA !default;
+$color-visited-link: #3F69AA !default;
 $color-hover: #E32934 !default;
 
 $body-background: #F5F5F5 !default;
@@ -39,8 +39,8 @@ $body-min-width: 35rem !default;
 $container-max-width: 90rem !default;
 
 $header-height: 3.5rem !default;
-$menu-width: 15rem !default;
-$toc-width: 15rem !default;
+$menu-width: 30rem !default;
+$toc-width: 30rem !default;
 
 $md-breakpoint: $menu-width + $body-min-width * 1.25 + $toc-width !default;
 $sm-breakpoint: $menu-width + $body-min-width !default;
@@ -145,14 +145,14 @@ $hint-colors: (
 
   .book-expand-head {
     background-color: $gray-200;
-    color: #003366;
+    color: #3F69AA;
     padding: $padding-8 $padding-16;
     font-weight: bolder;
     cursor: pointer;
     border: $padding-1 solid #E32934;
 
     &:hover {
-      background-color: #003366;
+      background-color: #3F69AA;
       color: white;
       border: $padding-1 solid #E32934;
     }
@@ -262,6 +262,10 @@ a.book-btn {
 
   }
 }
+
+
+
+
 
 // Webkit
 ::-webkit-scrollbar {

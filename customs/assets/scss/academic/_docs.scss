@@ -275,35 +275,39 @@ ul.toc-top {
   text-decoration: none;
 }
 
+/* TOC page. */
+
 #table_of_contents {
-  position: relative;
-  display: block;
-  font-size: 1.2rem;
-  margin: 2rem auto;
+  background-color: rgba(255, 153, 0, 0.05);
+  border: 2px solid rgb(255, 153, 0);
   
-  border: solid 1px;
-
-  
-  border-color: #707070;
-  color:currentColor;
   padding: 0 auto;
-
-}
-#table_of_contents li a {
-  display: block;
-  padding: .125rem 1rem;
-  color: #707070;
-  font-size: .8em;
+  color: rgba(0,0,0,.8);  
   
   
-}
-#table_of_contents h2 {
-  font-size: 1rem;
-  padding-left: 0.8rem;
   
 }
 
-#table_of_contents #TableOfContents ul ul {
-  padding-left: 0.5rem;
+#table_of_contents>h3 {
+  margin-left:1rem;
+}
+#table_of_contents>#TableOfContents>ul> {
+  font-size:1rem;
+  font-weight: normal;
   color:red;
 }
+
+#table_of_contents li a {
+  font-size: .9rem;
+  
+  
+
+
+  &:hover {
+    color: $sta-primary;
+    font-weight: 600;
+  }
+  
+
+}
+

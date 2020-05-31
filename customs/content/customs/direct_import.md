@@ -11,7 +11,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   customs:
-    name: พิธีการการนำเข้าสินค้า
+    name: การนำเข้าสินค้า
     weight: 2
 
 ---

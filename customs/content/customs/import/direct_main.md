@@ -7,7 +7,7 @@ type: docs  # Do not modify.
 
 menu:
   import:
-      name: <--กลับไปเมนูหลัก  การนำเข้า-ส่งออกสินค้า
+      name: <--กลับไปเมนูหลัก
       weight: 200
 
 ---

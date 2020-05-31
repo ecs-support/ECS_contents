@@ -43,9 +43,7 @@ weight: 6
 ## พิกัดอัตราศุลกากร และรหัสสถิติที่ต้องมีใบอนุญาต
 
 - [พิกัดอัตราศุลกากร และรหัสสถิติที่ต้องมีใบอนุญาต](https://ecs-support.github.io/knowledge-center/single-page/reference/permission.html)
-
 - [พิกัดอัตราศุลกากร และรหัสสถิติที่ต้องมีใบอนุญาต (Excel)](https://drive.google.com/file/d/1kX1gotUFULG4yzwrfVU3WLxxVJnp_c-_/view?usp=sharing)
-
 - [หัสยกเว้นไม่ต้องมีใบอนุญาต/ใบรับรอง](https://ecs-support.github.io/knowledge-center/single-page/reference/exampt.html)
 
 

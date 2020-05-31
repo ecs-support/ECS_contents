@@ -111,10 +111,12 @@ weight: 5
 การนิคมอุตสาหกรรมแห่งประเทศไทย (กนอ.)  
 http://www.ieat.go.th
 
-> ที่มา : [กรมศุลกากร](http://www.customs.go.th/cont_strc_simple.php?ini_content=tax_incentive_160929_02&ini_menu=menu_tax_incentive&lang=th&root_left_menu=menu_tax_incentive&left_menu=menu_tax_incentive_160928_05)
 
-{{< hint success>}}
+
+{{% alert note_success %}}
 - **สอบถามข้อมูลเพิ่มเติมได้ที่ :** งานเขตประกอบการเสรี กองสิทธิประโยชน์ทางภาษีอากร (กสอ.)  
 - **หมายเลขโทรศัพท์ :** 02-667-5963 หรือ 02-667-6623  
 - **อีเมล์ :** 82000100@customs.go.th
-{{< /hint>}}
+{{% /alert %}}
+
+> ที่มา : [กรมศุลกากร](http://www.customs.go.th/cont_strc_simple.php?ini_content=tax_incentive_160929_02&ini_menu=menu_tax_incentive&lang=th&root_left_menu=menu_tax_incentive&left_menu=menu_tax_incentive_160928_05)

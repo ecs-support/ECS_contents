@@ -7,20 +7,32 @@ title: ภาษีสรรพสามิต
 date: "2020-05-18T00:00:00Z"
 lastmod: "2020-05-18T00:00:00Z"
 draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
+toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 menu:
   import:
-    parent: พิธีการการนำเข้าสินค้า
-    weight: 6
+    name: ภาษีสรรพสามิต
+    weight: 4
 
-weight: 6
+weight: 4
 ---
 
 ![enter image description here](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LlVhH2uMzkQQNM73WMS%2F-LsZj7zJJapJJjs5Zg2J%2F-LsZjQ1QhWpRqEz35NyG%2Fexcise_logo.jpg?alt=media&token=c2a0d657-ef4c-45e7-8b22-3b2d4eee8cfd)
 
-## ความหมาย
+## เนื้อหา
+
+{{% alert note_toc %}}
+
+-   [สินค้าและบริการที่ต้องเสียภาษีสรรพสามิต](#%E0%B8%AA-%E0%B8%99%E0%B8%84-%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%9A%E0%B8%A3-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97-%E0%B8%95-%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA-%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%A9-%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1-%E0%B8%95)
+-   [สืบค้นรหัสสินค้าสรรพสามิต](#%E0%B8%AA-%E0%B8%9A%E0%B8%84-%E0%B8%99%E0%B8%A3%E0%B8%AB-%E0%B8%AA%E0%B8%AA-%E0%B8%99%E0%B8%84-%E0%B8%B2%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1-%E0%B8%95)
+-   [โครงสร้างราคาขายปลีกแนะนำ](#%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%AA%E0%B8%A3-%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B8%A5-%E0%B8%81%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3)   
+-   [ราคาขายปลีกแนะนำและการคำนวนภาษีสรรพสามิต](#%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B8%A5-%E0%B8%81%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%A9-%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1-%E0%B8%95)
+-   [ตัวอย่างการคำนวณภาษี](#%E0%B8%95-%E0%B8%A7%E0%B8%AD%E0%B8%A2-%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%93%E0%B8%A0%E0%B8%B2%E0%B8%A9)
+-   [ประกาศกรมสรรพสามิต แยกตามประเภทสินค้าและบริการ](#%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1-%E0%B8%95-%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97%E0%B8%AA-%E0%B8%99%E0%B8%84-%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B)
+-   [คู่มือสำหรับประชาชนของกรมสรรพสามิต](#%E0%B8%84-%E0%B8%A1-%E0%B8%AD%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3-%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1-%E0%B8%95)
+
+{{% /alert %}}
 
 ภาษีสรรพสามิต คือ ภาษีที่จัดเก็บจากสินค้าและบริการซึ่งมีเหตุผลสมควรที่จะต้องรับภาระภาษีสูงกว่าปกติ เช่น บริโภคแล้วอาจก่อให้เกิดผลเสียต่อสุขภาพ และศีลธรรมอันดี มีลักษณะฟุ่มเฟือย และสินค้าและบริการที่ได้รับผลประโยชน์เป็นพิเศษจากกิจการของรัฐ เป็นต้น เพื่อเป็นรายได้ให้รัฐบาลนำไปบริหารประเทศ และทะนุบำรุงท้องถิ่นต่าง ๆ โดยอาศัยอำนาจตามกฎหมาย 
 

@@ -86,11 +86,11 @@ weight: 2
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-guide/e-tax-guidejpg_Page13.jpg)
 
 
-
+{{% alert note_success %}}
 * สอบถามข้อมูลเพิ่มเติมได้ที่ : ส่วนคืนอากรเพื่อการส่งออก กองสิทธิประโยชน์ทางภาษีอากร (สคอ. กสอ.)
 กรมศุลกากร เลขที่ 1 ถ.สุนทรโกษา คลองเตย กทม. 10110
 * หมายเลขโทรศัพท์ : 0-2667-7060 และ 0-2667-5151
 * อีเมล์ : 82000100@customs.go.th
-
+{{% /alert %}}
 > วันที่ปรับปรุงล่าสุด : 2 ตุลาคม 2561 10:23:17  
 > ที่มาบทความ :  [กรมศุลกากร](http://www.customs.go.th/cont_strc_simple.php?ini_content=tax_incentive_160928_01&ini_menu=menu_tax_incentive&lang=th&top_menu=menu_homepage&left_menu=menu_tax_incentive_160928_02&lang=th&left_menu=menu_business_160421_03_160725_02).
