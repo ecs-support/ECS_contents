@@ -1,0 +1,32 @@
+---
+title: การเพิ่มประสิทธิภาพในการควบคุมการเคลื่อนย้ายสินค้าระหว่างเขตพื้นที่รับผิดชอบของด่านศุลกากร 
+subtitle: การจำแนกพิธีการศุลกากรตามรูปแบบการนำเข้า-ส่งออกในรูปแบบการขนส่งได้แก่ การขนส่งทางเรือ (ทางทะเล) การขนส่งทางรถยนต์ (ทางอากาศ) และการขนส่งไปรษณีย์ จากที่แต่เดิม การนำเข้า-ส่งออกจะอาศักหลักเกณฑ์ของบัญญัติแห่งกฏหมายว่าด้วยพิธีการทางเรือ โดยอาศักบทบัญญัติในมาตรา 121 แห่งพระราชบัญญัติศุลกากร พ.ศ. 2469 ในการปฏิบัติพิธีการทางอื่นๆโดยอนุโลมแม้ว่าการปฏิบัติพิธีกาศุลกากรจะมีจำแนกตามรูปแบบการขนส่งออกจากกันแล้วแต่การขนส่งทางทะเลนั้นยังคงได้รับความนิยมในระดับสากล ด้วยขีดความสามารถในการรับรองการขนส่งที่บรรรจุด้วยตู้คอนเทนเนอร์จำนวนมากในการเดินทางแต่ละครั้งและเป็นรูปแบบการขนส่งหลักในระบบโลจิสติกส์ระหว่างประเทศ 
+summary: การเพิ่มประสิทธิภาพในการควบคุมการเคลื่อนย้ายสินค้าระหว่างเขตพื้นที่รับผิดชอบของด่านศุลกากร
+authors:
+    - admin
+tags: ["การควบคุม"]
+categories: ["บทความทางวิชาการ","mail"]
+date: "2020-06-01"
+lastMod: "2020-06-01"
+featured: true
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 3
+  caption: 'Image credit: [**www.canva.com**](/featured.jpg)'
+  focal_point: ""
+  preview_only: true
+
+---
+
+![](img/goods-movementpng_Page10.png) { width: 200px; }
+
+![](img/goods-movementpng_Page11.png)
+
+![](img/goods-movementpng_Page12.png)
+
+![](img/goods-movementpng_Page13.png)
