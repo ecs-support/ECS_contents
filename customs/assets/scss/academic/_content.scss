@@ -14,9 +14,9 @@ article {
 }
 
 .page-subtitle {
-  font-size: 1.15rem;
+  font-size: .9rem;
   color: rgba(0,0,0,.54);
-  margin-bottom: 1rem;
+  margin-bottom: .85rem;
 }
 
 .dark .page-subtitle {
@@ -29,7 +29,7 @@ article {
 }
 
 .article-banner {
-  width: 100%;
+  max-width: 90%;
   height: auto;
 }
 
@@ -161,7 +161,7 @@ article .article-metadata {
  **************************************************/
 
 .pub-banner {
-  max-width: 100%;
+  max-width: 90%;
   height: auto;
   margin-left: auto;
   margin-right: auto;
