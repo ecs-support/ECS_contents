@@ -19,6 +19,8 @@
     return navbar_offset;
   }
 
+  
+
   /**
    * Responsive hash scrolling.
    * Check for a URL hash as an anchor.
@@ -795,3 +797,5 @@
   });
 
 })(jQuery);
+
+

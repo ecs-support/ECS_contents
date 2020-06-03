@@ -1,7 +1,7 @@
 ---
 linktitle: รหัสสถานที่นำเข้า
 summary: 
-weight: 8
+
 
 title: รหัสสถานที่นำเข้า (Discharge Port )
 date: "2020-05-18T00:00:00Z"

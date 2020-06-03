@@ -25,7 +25,7 @@
 
 [[main]]
   name = "พิธีการศุลกากร"
-  url = "customs/"
+  url = "import-export/"
   weight = 50
   
 
@@ -35,9 +35,12 @@
   url = "#contact"
   weight = 60
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
+[[menu.import]]
+  name = "Import"
+  url = "customs/import/"
+  weight = 70
+
+[[menu.free-trade-area]]
+  name = "Free Trade"
+  url = "customs/free-trade-area/"
+  weight = 80

@@ -13,7 +13,7 @@ menu:
 ---
 
 <script>
-   var files = '/knowledge-center/customs/customs/index.html'
-   //document.location = files
-   location.replace(files)
+   var files = '../customs/index.html'
+   document.location = files
+   //location.replace(files)
   </script>

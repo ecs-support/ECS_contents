@@ -14,7 +14,7 @@ type: docs  # Do not modify.
 menu:
   free-trade:
       name: Overview   
-      weight: 5
+      weight: 1
 ---
 
 
@@ -25,16 +25,7 @@ Free Trade Area หรือเขตการค้าเสรี เป็น
 
 ## Table of Content  
 
-{{<hint  warning>}}
 
--   [Checklist กฎว่าด้วยถิ่นกำเนิดสินค้า](/knowledge-center/customs-clearance/docs/free-trade-area/checklist/)
--   [WTO](/knowledge-center/customs-clearance/docs/free-trade-area/wto/)
--   [เขตการค้าเสรีอาเซียน (AFTA)](/knowledge-center/customs-clearance/docs/free-trade-area/asean/)
--   [อาเซียน - จีน (ASEAN - China)](/knowledge-center/customs-clearance/docs/free-trade-area/acn/)
--   [อาเซียน-เกาหลี (ASEAN - Korea)](/knowledge-center/customs-clearance/docs/free-trade-area/ak/)
--   [ไทย-ญี่ปุ่น (JTEPA)](/knowledge-center/customs-clearance/docs/free-trade-area/jtepa/)
--   [อาเซียน-ฮ่องกง (ASEAN – Hong Kong)](/knowledge-center/customs-clearance/docs/free-trade-area/ahk/)
-{{< /hint>}}
 
 ## ความเป็นมาของเขตการค้าเสรี
 แนวคิดของการมีนโยบายการค้าเสรี คือประเทศจะเลือกผลิตสินค้าที่ตนเองถนัด และมีต้นทุนการผลิตต่ำที่สุด คือจะผลิตสินค้าที่คิดว่าประเทศตนได้เปรียบเชิงเปรียบเทียบ (Comparative Advantage)มากที่สุด แล้วนำสินค้าที่ผลิตได้นี้ไปแลกเปลี่ยนกับสินค้าที่ประเทศตนไม่ถนัด หรือเสียเปรียบ โดยแลกเปลี่ยนสินค้ากับประเทศอื่นที่ผลิตสินค้าแล้วได้เปรียบ ดังนั้นประเทศทั้งสองก็จะทำการค้าต่อกันได้ โดยต่างฝ่ายต่างสมประโยชน์กัน (Win-Win Situation)  

@@ -1,7 +1,7 @@
 ---
 linktitle: ส่งของออกทางอากาศ
 summary: ส่งของออกทางอากาศ
-weight: 3
+
 
 # Page metadata.
 title: พิธีการศุลกากรส่งของออกทางอากาศ

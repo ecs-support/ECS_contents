@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: พิธีการการส่งออกสินค้า
 summary: พิธีการการส่งออกสินค้า
-weight: 1
+
 
 # Page metadata.
 title: พิธีการการส่งออกสินค้า
@@ -22,15 +22,7 @@ menu:
 ---
 
 
-
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/cover/export-Customs-clearance.png)
 
 ## เนื้อหา
 
-{{% alert note_toc %}}
-
--   [ส่งของออกทางบก](./road/)
--   [ส่งของออกทางเรือ](./sea/)
--   [ส่งของออกทางอากาศ](./air/)
-
-{{% /alert %}}

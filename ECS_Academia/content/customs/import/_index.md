@@ -25,15 +25,5 @@ weight: 1
 
 ## เนื้อหา
 
-{{% alert note_toc %}}
 
-- [พิธีการการนำเข้าสินค้า](../import/customs-clearance/)
-- [คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (e-Import)](../import/direct_guide/)
-- [ภาษีสรรพสามิต](../import/excise/)
--   [มาตรการปกป้องและตอบโต้ทางการค้า](../import/trade-protection/)
-- [การนำเข้ารถยนต์สำเร็จรูป](../import/import-car/)
--   [การสงวนสิทธิขอคืนอากรและการวางประกันเกี่ยวกับ ปัญหาพิกัดศุลกากร](../import/reverve/)
-- [ของตกค้าง](../import/overtime/)
-
-{{% /alert %}}
 
