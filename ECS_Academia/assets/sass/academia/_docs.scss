@@ -3,7 +3,7 @@
  **************************************************/
 
 .docs-article-container {
-  max-width: 90%;
+  max-width: 100%;
 }
 
 /* Documentation: article footer. */
@@ -97,7 +97,7 @@
 .docs-sidebar .nav>li>a {
   display: block;
   padding: .25rem 1.5rem;
-  font-size: 0.8rem;
+  font-size: .8rem;
   color: rgba(0, 0, 0, .65);
   
 }
@@ -114,6 +114,9 @@
   font-weight: bold;
   color: $sta-primary;
   background-color: transparent;
+  margin-left: .5rem;
+  background-color: #f2f2f2;
+  border-left: .15rem solid #3F69AA;
 }
 
 .docs-sidebar .nav>.active>a {
@@ -124,7 +127,7 @@
 
 .docs-toggle {
   line-height: 1;
-  font-size: 1rem;
+  font-size: .8rem;
   color: $sta-primary;
   background-color: transparent;
 }
@@ -155,9 +158,9 @@
 
 .docs-toc {
   order: 2;
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
-  font-size: .875rem
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  font-size: .8rem;
 }
 
 @supports ((position:-webkit-sticky) or (position:sticky)) {
@@ -174,8 +177,9 @@
 
 .docs-toc-link {
   display: block;
-  padding-left: .8rem;
+  padding-left: .5rem;
   color: #3F69AA;
+  font-size: .8rem;
 }
 
 .docs-toc-link:hover {
@@ -194,7 +198,7 @@
 
 .docs-toc-item.active>.docs-toc-link {
   color: rgba(0, 0, 0, .45);
-  padding-left: 1rem;
+  padding-left: .5rem;
   
 }
 
@@ -210,20 +214,24 @@
 
 .docs-toc-title {
   color: #b5b5b5;
-  font-size: .875rem;
-  font-weight: 600;
+  font-size: .8rem;
+  
   padding-left: calc(1.5rem + 1px);
  
 }
 
 #TableOfContents {
-  padding-left: 0;
+  padding-left: .5rem;
   border-left: 1px solid #eee;
+  
+  
 }
 
 #TableOfContents ul,
 ul.toc-top {
-  padding-left: 0.1rem;
+  padding-left: .5rem;
+  font-weight: 400;
+  
    
   
 }
@@ -240,7 +248,7 @@ ul.toc-top {
 #TableOfContents li a,
 .toc-top li a {
   display: block;
-  padding: .125rem 1.5rem;
+  padding: .125rem .5rem;
   color: #99979c;
   font-size: 0.8rem;
 }

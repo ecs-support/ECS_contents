@@ -31,7 +31,7 @@ body {
 }
 
 .max-width-640 {
-  max-width: 85%;
+  max-width: 95%;
 }
 
 .margin-auto {
@@ -85,7 +85,7 @@ h1, h2, h3, h4, h5, h6 {
   hyphens: manual;
 }
 h1 {
-  font-size: 2rem;
+  font-size: 1.75rem;
 }
 h2 {
   margin-top: 1rem;
@@ -232,12 +232,12 @@ blockquote p:last-child {
   padding-right: 1rem;
   padding-left: 1rem;
   padding-top: 0.1rem;
-  max-width: 85%;
+  max-width: 95%;
 }
 
 @media only screen and (min-width: 1001px) {
   .universal-wrapper {
-    max-width: 85%;
+    max-width: 95%;
   }
 }
 
@@ -247,7 +247,7 @@ small,
 }
 
 .responsive-wrap iframe {
-  max-width: 90%;
+  max-width: 95%;
 }
 
 /*************************************************
@@ -755,39 +755,7 @@ div.alert-quotes > div {
   }
 }
 
-.book-expand {
-  margin-top:  1rem;
-  margin-bottom: 1rem;
 
-  border: 1px solid #f8f9fa;
-  border-radius: 0.15rem;
-  
-
-  overflow: hidden;
-
-  .book-expand-head {
-    background-color: #e9ecef;
-    color:#3F69AA;
-    padding: 0.5rem 1rem;
-    font-weight: bolder;
-    cursor: pointer;    
-    border: 1px solid #fc6f5c;
-    &:hover{
-      background-color: #3F69AA;
-      color:white;
-      border: 1px solid #fc6f5c;
-    }
-  }
-
-  .book-expand-content {
-    display: none;
-    padding: 16px ;
-  }
-
-  input[type="checkbox"]:checked + .book-expand-content {
-    display: block;
-  }
-}
 
 /*************************************************
  *  Alerts
@@ -804,7 +772,7 @@ div.alert-quotes > div {
 div.alert>div {
   position: relative;
   display: block;
-  font-size: 1rem;
+  font-size: .9rem;
   margin-left: 2rem;
   margin-top: 0;
   margin-bottom: 0;
@@ -881,6 +849,7 @@ div.alert a {
   background-color: rgba(47, 101, 182, 0.05);
   border-color: rgb(63, 105, 170);
   padding: 0 auto;
+  color: rgba(0,0,0,0.8);
 }
 
 .alert-info {
@@ -894,10 +863,7 @@ div.alert-note_toc {
   background-color: rgba(255, 153, 0, 0.05);
   border-color: rgb(255, 153, 0);
   padding: 0 auto;
-  color: rgba(0, 0, 0, .8);
-  font-family: Mitr;
-  font-weight: 400;
-  font-size: 1.2rem;
+  color: rgba(0, 0, 0, .8);  
 
 }
 
@@ -919,6 +885,7 @@ div.alert-note_toc>div>ul>li>a {
   background-color: rgba(0, 128, 0, 0.1);
   border-color: rgb(0, 128, 0);
   padding: 0 auto;
+  color: rgba(0,0,0,0.8);
 
 }
 
@@ -934,17 +901,18 @@ div.alert-note_toc>div>ul>li>a {
 .alert-note_warning {
   background-color: rgba(255, 153, 0, 0.05);
   border-color: rgb(255, 153, 0);
-  color: currentColor;
+  color: rgba(0,0,0,0.8);
   padding: 0 auto;
+  font-weight: bold;
 
 }
 
 .alert-warning {
   background-color: rgba(255, 153, 0, 0.25);
   border-color: rgb(255, 153, 0);
-  color: currentColor;
-
+  color: rgba(0,0,0,0.8);
   padding: 0 auto;
+  font-weight: bold;
 }
 
 
@@ -953,15 +921,16 @@ div.alert-note_toc>div>ul>li>a {
 
   background-color: rgba(255, 56, 96, 0.15);
   border-color: rgb(255, 56, 96);
-  color: currentColor;
-
+  color: rgba(0,0,0,0.8);
+  font-weight: bold;
   padding: 0 auto;
 }
 
 .alert-note_danger {
   background-color: rgba(255, 56, 96, 0.15);
   border-color: rgb(255, 56, 96);
-  color: currentColor;
+  color: rgba(0,0,0,0.8);
   padding: 0 auto;
+  font-weight: bold;
 
 }
