@@ -19,8 +19,7 @@ menu:
 
 ---
 
-![Alternate text](knowledge-center.png)
-![alt](./transit.png)
+![alt](../img/transit.png)
 
 # นิยาม
 
