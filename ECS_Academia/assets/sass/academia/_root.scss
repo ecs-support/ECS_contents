@@ -71,7 +71,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   line-height: 1.25;
   
-  color: #003366; 
+  color: #3F69AA; 
   text-rendering: optimizeLegibility;
 
   /* Ensure long words do not overflow into content. */
@@ -85,7 +85,7 @@ h1, h2, h3, h4, h5, h6 {
   hyphens: manual;
 }
 h1 {
-  font-size: 2.25rem;
+  font-size: 2rem;
 }
 h2 {
   margin-top: 1rem;
@@ -199,7 +199,7 @@ blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
   color: #7a7a7a;
-  border-left: .35rem solid #003366;
+  border-left: .35rem solid #3F69AA;
   background: rgba(0, 51, 102, 0.075);
   font-weight: bolder;
 }
@@ -340,7 +340,7 @@ a[data-fancybox] {
 }
 
 .post-nav-item .meta-nav {
-  color: #003366;
+  color: #3F69AA;
   font-weight: 700;
   line-height: 2;
   text-transform: uppercase;  
@@ -398,7 +398,7 @@ footer a#back_to_top i {
 .badge-light {
   border: rgba(0,0,0,.68);
 /*  color: rgba(0,0,0,.68);  */
-  color: #003366;
+  color: #3F69AA;
   background: rgba(0,0,0,.09);
   font-weight: normal;
   border-radius: 3px;
@@ -616,7 +616,7 @@ div.alert-info > div:first-child::before {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
   content: '\f05a';
-  color: #003366; 
+  color: #3F69AA; 
 }
 
 
@@ -636,7 +636,7 @@ div.alert a {
 
 .alert-info {
   background-color:rgba(89, 169, 250, 0.2);
-  border-color: #003366; 
+  border-color: #3F69AA; 
   color:currentColor;
   font-weight: 600;
 }
@@ -668,9 +668,9 @@ div.alert-quotes > div {
   font-family: 'Kanit';
   font-style: italic;
   text-align: center;
-  color: #003366;    
+  color: #3F69AA;    
   background-color: #f9f9f9;
-  border-left: .45rem solid #003366;
+  border-left: .45rem solid #3F69AA;
  /* background: rgba(0, 51, 102, 0.075); */
 }
 
@@ -767,15 +767,15 @@ div.alert-quotes > div {
 
   .book-expand-head {
     background-color: #e9ecef;
-    color:#003366;
+    color:#3F69AA;
     padding: 0.5rem 1rem;
     font-weight: bolder;
     cursor: pointer;    
-    border: 1px solid #E32934;
+    border: 1px solid #fc6f5c;
     &:hover{
-      background-color: #003366;
+      background-color: #3F69AA;
       color:white;
-      border: 1px solid #E32934;
+      border: 1px solid #fc6f5c;
     }
   }
 

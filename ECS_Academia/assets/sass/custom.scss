@@ -29,7 +29,7 @@ $black: #000 !default;
 
 $color-link: #3F69AA !default;
 $color-visited-link: #3F69AA !default;
-$color-hover: #E32934 !default;
+$color-hover: #fc6f5c !default;
 
 $body-background: #F5F5F5 !default;
 $body-font-color: #202020 !default;
@@ -47,9 +47,9 @@ $sm-breakpoint: $menu-width + $body-min-width !default;
 
 // Panel colors
 $hint-colors: (
-  info: #003366,
+  info: #3F69AA,
   warning: #FF6600,
-  danger: #E32934,
+  danger: #fc6f5c,
   success: green,
 ) !default;
 
@@ -149,12 +149,12 @@ $hint-colors: (
     padding: $padding-8 $padding-16;
     font-weight: bolder;
     cursor: pointer;
-    border: $padding-1 solid #E32934;
+    border: $padding-1 solid #fc6f5c;
 
     &:hover {
       background-color: #3F69AA;
       color: white;
-      border: $padding-1 solid #E32934;
+      border: $padding-1 solid #fc6f5c;
     }
   }
 

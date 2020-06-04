@@ -10,3 +10,7 @@ heading_font = "Mitr"
 body_font = "Sarabun"
 nav_font = "Roboto"
 mono_font = "Roboto Mono"
+
+# Font size
+font_size = "19"
+font_size_small = "18"

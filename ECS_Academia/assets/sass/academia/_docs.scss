@@ -124,7 +124,7 @@
 
 .docs-toggle {
   line-height: 1;
-  font-size: 1.2rem;
+  font-size: 1rem;
   color: $sta-primary;
   background-color: transparent;
 }
@@ -174,9 +174,8 @@
 
 .docs-toc-link {
   display: block;
-  padding: .25rem 1.5rem;
-  font-weight: bold;
-  color: rgba(0, 0, 0, .65);
+  padding-left: .8rem;
+  color: #3F69AA;
 }
 
 .docs-toc-link:hover {
@@ -194,7 +193,8 @@
 }
 
 .docs-toc-item.active>.docs-toc-link {
-  color: rgba(0, 0, 0, .85);
+  color: rgba(0, 0, 0, .45);
+  padding-left: 1rem;
   
 }
 
@@ -213,6 +213,7 @@
   font-size: .875rem;
   font-weight: 600;
   padding-left: calc(1.5rem + 1px);
+ 
 }
 
 #TableOfContents {
@@ -222,15 +223,18 @@
 
 #TableOfContents ul,
 ul.toc-top {
-  padding-left: 0;
+  padding-left: 0.1rem;
+   
+  
 }
 
 #TableOfContents ul ul {
-  display: none;
+  padding-left: 0.5rem;
 }
 
 #TableOfContents li {
   display: block;
+  
 }
 
 #TableOfContents li a,
@@ -238,7 +242,7 @@ ul.toc-top {
   display: block;
   padding: .125rem 1.5rem;
   color: #99979c;
-  font-size: 0.7rem;
+  font-size: 0.8rem;
 }
 
 #TableOfContents li a:hover,
@@ -251,13 +255,15 @@ ul.toc-top {
 #TableOfContents li a.active {
   color: $sta-primary;
   font-weight: 700;
+  background-color: #f2f2f2;
+  border-left: .15rem solid #3F69AA;
 }
 
 /* Docs achnorjs links. */
 
 .anchorjs-link {
   font-weight: 400;
-  color: $sta-primary-dark;
+  color: #3F69AA;
   transition: color .16s linear;
 }
 
