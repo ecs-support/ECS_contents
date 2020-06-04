@@ -17,7 +17,7 @@ menu:
 ---
 
 <script>
-   var files = '../export/index.html'
+   var files = '../export/'
    //document.location = files
    location.replace(files)
   </script>

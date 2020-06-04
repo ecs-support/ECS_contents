@@ -2,7 +2,6 @@
 # Course title, summary, and position.
 linktitle: ส่งของออกทางบก
 summary: ส่งของออกทางบก
-weight: 1
 
 # Page metadata.
 title: พิธีการศุลกากรส่งของออกทางบก
@@ -16,10 +15,9 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  export:
-    parent: พิธีการการส่งออกสินค้า 
+  export.1:
+    parent: พิธีการการส่งออกสินค้า  
     weight: 1
-
 weight: 1
 ---
 
@@ -73,4 +71,5 @@ weight: 1
 
 
 > ติดต่อสอบถาม : ด่านศุลกากรอรัญประเทศ สำนักงานศุลกากรภาคที่ 1 โทรศัพท์ 0-3723-0313.  
->ที่มา :  [กรมศุลกากร](http://www.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02&ini_content=business_160426_02_160914_02_160914_01&root_left_menu=menu_business_160421_02_160421_02&lang=th&root_left_menu=menu_business_160421_02_160421_02&left_menu=menu_business_160421_02_160421_02_160914_01)  ปรับปรุงล่าสุด : 20 มีนาคม 2563
+>ที่มา :  [กรมศุลกากร](http://www.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02&ini_content=business_160426_02_160914_02_160914_01&root_left_menu=menu_business_160421_02_160421_02&lang=th&root_left_menu=menu_business_160421_02_160421_02&left_menu=menu_business_160421_02_160421_02_160914_01)  
+ปรับปรุงล่าสุด : 20 มีนาคม 2563

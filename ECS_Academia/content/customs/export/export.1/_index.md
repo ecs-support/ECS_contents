@@ -16,9 +16,9 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  export:
+  export.1:
     name: พิธีการการส่งออกสินค้า  
-    weight: 2
+    weight: 1
 ---
 
 
@@ -29,8 +29,8 @@ menu:
 
 {{% alert note_toc %}}
 
--   [ส่งของออกทางบก](./road/)
--   [ส่งของออกทางเรือ](./sea/)
--   [ส่งของออกทางอากาศ](./air/)
+-   [ส่งของออกทางบก](road.html)
+-   [ส่งของออกทางเรือ](sea.html)
+-   [ส่งของออกทางอากาศ](air.html)
 
 {{% /alert %}}
