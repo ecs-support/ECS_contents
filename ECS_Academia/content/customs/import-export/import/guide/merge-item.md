@@ -1,8 +1,6 @@
 ---
 linktitle: หลักการรวมรายการสินค้า
-summary: 
-weight: 13
-
+summary: หลักการรวมรายการสินค้า
 title: หลักการรวมรายการสินค้า
 date: "2020-05-19T00:00:00Z"
 lastmod: "2020-05-19T00:00:00Z"
@@ -12,10 +10,10 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    parent:  Overview
-    weight: 13
+    name:  หลักการรวมรายการ
+    weight: 14
 
-weight: 13
+weight: 14
 ---
 
 

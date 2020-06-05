@@ -1,9 +1,7 @@
 ---
-linktitle: ระบบทะเบียนผู้มาติดต่อ
-summary: 
-weight: 5
-
-title: การตรวจสอบข้อมูลใบขนสินค้าขาเข้าและขาออก กับระบบทะเบียนผู้มาติดต่อ
+linktitle: การตรวจสอบระบบทะเบียน
+summary: การตรวจสอบข้อมูลใบขนสินค้า กับระบบทะเบียนผู้มาติดต่อ
+title: การตรวจสอบข้อมูลใบขนสินค้า กับระบบทะเบียนผู้มาติดต่อ
 date: "2020-05-09T00:00:00Z"
 lastmod: "2020-05-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -12,10 +10,10 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    parent:  Overview
-    weight: 5
+    name:  การตรวจสอบระบบทะเบียน
+    weight: 6
 
-weight: 5
+weight: 6
 ---
 
 

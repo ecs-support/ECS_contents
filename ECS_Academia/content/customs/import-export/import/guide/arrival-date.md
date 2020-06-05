@@ -1,8 +1,6 @@
 ---
 linktitle: วันนำเข้า 
 summary: วันนำเข้า (Arrival Date)
-
-
 title: วันนำเข้า (Arrival Date)
 date: "2020-05-18T00:00:00Z"
 lastmod: "2020-05-18T00:00:00Z"
@@ -12,10 +10,10 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    parent:  Overview
-    weight: 6
+    name:  วันนำเข้า 
+    weight: 7
 
-weight: 6
+weight: 7
 ---
 
  

@@ -1,9 +1,7 @@
 ---
-linktitle: รหัสสิทธิพิเศษ (Privilege Code)
-summary: 
-weight: 27
-
-title: รหัสสิทธิพิเศษ ตามข้อผูกพันสัญญาหรือความตกลงระหว่างประเทศ
+linktitle: รหัสสิทธิพิเศษ 
+summary: รหัสสิทธิพิเศษ ตามข้อผูกพันสัญญาหรือความตกลงระหว่างประเทศ (Privilege Code)
+title: รหัสสิทธิพิเศษ (Privilege Code)
 date: "2020-05-19T00:00:00Z"
 lastmod: "2020-05-19T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -12,13 +10,13 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    parent:  Overview
-    weight: 27
+    name:  รหัสสิทธิพิเศษ
+    weight: 28
 
-weight: 27
+weight: 28
 ---
 
-
+**รหัสสิทธิพิเศษ ตามข้อผูกพันสัญญาหรือความตกลงระหว่างประเทศ (Privilege Code)**
 
 |รหัสสิทธิพิเศษ|	ประเภทสิทธิพิเศษ|	ชื่อ/คำอธิบายสิทธิพิเศษ|
 | :---------: | -------------- | ------------------------------- |

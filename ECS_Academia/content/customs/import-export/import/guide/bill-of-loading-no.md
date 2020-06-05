@@ -11,12 +11,11 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    parent:  Overview
-    weight: 7
+    name:  เลขที่ใบตราส่ง
+    weight: 8
 
-weight: 7
+weight: 8
 ---
-
 
 
 เลขที่ใบตราส่ง 1 (Master Bill of Lading) และเลขที่ใบตราส่ง 2  (House Bill of Lading) ในการจัดทำข้อมูลใบขนสินค้าขาเข้า ให้ระบุ ดังนี้

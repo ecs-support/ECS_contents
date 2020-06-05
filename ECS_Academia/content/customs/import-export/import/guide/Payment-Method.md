@@ -1,21 +1,20 @@
 ---
 linktitle: Payment Method
-summary: 
-weight: 22
-
+summary: Payment Method and Guarantee Method Guideline
 title: Payment Method and Guarantee Method Guideline
 date: "2020-05-19T00:00:00Z"
 lastmod: "2020-05-19T00:00:00Z"
-draft: false  # Is this a draft? true/false
-toc: true # Show table of contents? true/false
 type: docs  # Do not modify.
+draft: false  # Is this a draft? true/false
+toc: false # Show table of contents? true/false
+
 
 menu:
   guide:
-    parent:  Overview
-    weight: 22
+    name:  Payment Method
+    weight: 23
 
-weight: 22
+weight: 23
 ---
 
 

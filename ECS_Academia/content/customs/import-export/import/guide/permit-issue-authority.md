@@ -1,9 +1,7 @@
 ---
 linktitle: หน่วยงานผู้ออกใบอนุญาต
 summary:  เลขประจำตัวผู้เสียภาษีของหน่วยงานผู้ออกใบอนุญาต (Permit Issue Authority)
-weight: 25
-
-title: เลขประจำตัวผู้เสียภาษีของหน่วยงานผู้ออกใบอนุญาต
+title: เลขประจำตัวผู้เสียภาษีของหน่วยงานผู้ออกใบอนุญาต (Permit Issue Authority)
 date: "2020-05-19T00:00:00Z"
 lastmod: "2020-05-19T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -12,10 +10,10 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    parent:  Overview
-    weight: 25
+    name:  หน่วยงานผู้ออกใบอนุญาต
+    weight: 26
 
-weight: 25
+weight: 26
 ---
 
 

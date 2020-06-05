@@ -1,8 +1,6 @@
 ---
-linktitle: การบันทึกค่าภาษีอากรและวางประกัน
-summary: 
-weight: 21
-
+linktitle: การบันทึกค่าภาษี/วางประกัน
+summary: หลักการบันทึกค่าภาษีอากรและวางประกัน
 title: หลักการบันทึกค่าภาษีอากรและวางประกัน
 date: "2020-05-19T00:00:00Z"
 lastmod: "2020-05-19T00:00:00Z"
@@ -12,10 +10,10 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    parent:  Overview
-    weight: 21
+    name:  การบันทึกค่าภาษี/วางประกัน
+    weight: 22
 
-weight: 21
+weight: 22
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: การปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (Import) 
+title: การนำเข้าสินค้า (Import) 
 date: "2020-05-09T00:00:00Z"
 lastmod: "2020-05-09T00:00:00Z"
 draft: false  # Is this a draft? true/false

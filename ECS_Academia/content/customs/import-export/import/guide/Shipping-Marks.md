@@ -10,10 +10,10 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    parent:  Overview
-    weight: 9
+    name:  เครื่องหมายหีบห่อ
+    weight: 10
 
-weight: 9
+weight: 10
 ---
 
 

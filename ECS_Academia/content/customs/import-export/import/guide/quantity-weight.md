@@ -11,10 +11,10 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    parent:  Overview
-    weight: 10
+    name:  จำนวนและน้ำหนัก 
+    weight: 11
 
-weight: 10
+weight: 11
 ---
 
 

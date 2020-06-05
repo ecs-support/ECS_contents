@@ -1,8 +1,6 @@
 ---
 linktitle: โครงสร้างข้อมูล
 summary: 
-weight: 1
-
 title: โครงสร้างข้อมูลใบขนสินค้า
 date: "2020-05-09T00:00:00Z"
 lastmod: "2020-05-09T00:00:00Z"
@@ -15,13 +13,11 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   guide:
-    parent:  Overview
+    name:  โครงสร้างข้อมูล
     weight: 1
 
-weight: 1
+weight: 2
 ---
-
-
 
 
 โครงสร้างข้อมูลใบขนสินค้าขาเข้า แบ่งได้เป็น 6 ส่วนดังนี้

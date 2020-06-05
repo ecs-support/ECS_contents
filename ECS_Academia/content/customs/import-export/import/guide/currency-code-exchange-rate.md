@@ -1,8 +1,6 @@
 ---
 linktitle: อัตราแลกเปลี่ยน
-summary: 
-weight: 12
-
+summary: รหัสสกุลเงินตราและอัตราแลกเปลี่ยน
 title: รหัสสกุลเงินตราและอัตราแลกเปลี่ยน
 date: "2020-05-19T00:00:00Z"
 lastmod: "2020-05-19T00:00:00Z"
@@ -12,10 +10,10 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    parent:  Overview
-    weight: 12
+    name:  อัตราแลกเปลี่ยน
+    weight: 13
 
-weight: 12
+weight: 13
 ---
 
 ## รหัสสกุลเงินตรา (Currency Code) 
