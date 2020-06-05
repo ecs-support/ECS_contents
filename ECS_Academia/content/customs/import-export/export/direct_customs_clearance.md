@@ -7,7 +7,7 @@ type: docs  # Do not modify.
 
 menu:
   export:
-    name: พิธีการการส่งออกสินค้า 
+    name: พิธีการการส่งออกสินค้า 2
     weight: 200
 
 ---
