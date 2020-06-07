@@ -15,8 +15,8 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  export.1:
-    parent: พิธีการการส่งออกสินค้า  
+  export:
+    parent: พิธีการการส่งออกสินค้า5
     weight: 1
 weight: 1
 ---

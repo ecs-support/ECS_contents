@@ -1,12 +1,12 @@
 ---
 # Course title, summary, and position.
-linktitle: การส่งออกสินค้า (Export)
+linktitle: การส่งออกสินค้า(Export)
 summary: การปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (Export)
 
 # Page metadata.
 title: การส่งออกสินค้า (Export)
-linktitle: Overview
-summary: การส่งออกสินค้า (Export)
+
+
 date: "2020-05-15T00:00:00Z"
 lastmod: "2020-05-15T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -18,10 +18,9 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   export:
-    name: Overview 
-    weight: 1
+    name: การส่งออกสินค้า(Export) 
+    weight: 2
 ---
-
 
 
 {{< figure library="true" src="./img/export.png" title="" lightbox="true" >}}

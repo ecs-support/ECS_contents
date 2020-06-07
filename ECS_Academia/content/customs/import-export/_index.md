@@ -1,22 +1,12 @@
 ---
-# Course title, summary, and position.
-linktitle: การนำเข้า-ส่งออกสินค้า
-summary: การนำเข้า-ส่งออกสินค้า
-
-# Page metadata.
 title: การนำเข้า-ส่งออกสินค้า
-date: "2020-05-12T00:00:00Z"
-lastmod: "2020-05-12T00:00:00Z"
-draft: false  # Is this a draft? true/false
-toc: false # Show table of contents? true/false
-type: docs  # Do not modify.
+layout: docs  # Do not modify.
 
-menu:
-  import-export:
-    name: Overview   
-    weight: 1
-
-weight: 1
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
 ---
+
 ![Alternate text](knowledge-center.png)
 

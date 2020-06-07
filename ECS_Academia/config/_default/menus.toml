@@ -12,6 +12,10 @@
   name = "การนำเข้า-ส่งออก"
   url = "customs/import-export/"
   weight = 20
+[[main]]
+  name = "สิทธิประโยชน์"
+  url = "tax/"
+  weight = 30
 
 [[main]]
   name = "Posts"
@@ -28,10 +32,7 @@
   url = "featured/"
   weight = 40
 
-[[main]]
-  name = "พิธีการศุลกากร"
-  url = "customs/"
-  weight = 50
+
   
 
 

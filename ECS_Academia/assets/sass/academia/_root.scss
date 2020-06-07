@@ -314,7 +314,7 @@ a[data-fancybox] {
  **************************************************/
  .post-nav {
  
-  font-size: 1rem;
+  font-size: .8rem;
   display: inline;
 
 }
@@ -322,9 +322,9 @@ a[data-fancybox] {
 .post-nav-item {
   hyphens: auto;
   word-wrap: break-word;
-  padding: 11px 0 12px;
+  
   width: 45%;
-  padding: 10px;
+  padding: 20px auto;
   float: left;
   text-align: left;
   background: rgba(0,0,0,.05);
