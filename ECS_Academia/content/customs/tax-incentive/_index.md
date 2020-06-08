@@ -1,17 +1,21 @@
 ---
-title: Tax Incentive
-summary: Tax Incentive.
-date: "2020-06-01T00:00:00Z"
+linktitle: สิทธิประโยชน์ทางภาษีอากร
+# Page metadata.
+title: สิทธิประโยชน์ทางภาษีอากร
+date: "2020-05-19T00:00:00Z"
+lastmod: "2020-05-19T00:00:00Z"
+draft: false  # Is this a draft? true/false
+toc: false # Show table of contents? true/false
+type: docs  # Do not modify.
 
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
+# Add menu entry to sidebar.
+# - name: Declare this menu item as a parent with ID `name`.
+# - weight: Position of link in menu.
+menu:
+  tax-incentive:
+    name: สิทธิประโยชน์ทางภาษีอากร
+    weight: 1
 
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
 ---
 
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/tax-incentive.png)

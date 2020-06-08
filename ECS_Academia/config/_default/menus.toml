@@ -14,7 +14,7 @@
   weight = 20
 [[main]]
   name = "สิทธิประโยชน์"
-  url = "tax/"
+  url = "customs/tax-incentive/"
   weight = 30
 
 [[main]]
@@ -23,9 +23,9 @@
   weight = 50
 
 [[main]]
-  name = "Projects"
-  url = "projects/"
-  weight = 30
+  name = "สิทธิพิเศษทางการค้า"
+  url = "customs/free-trade/"
+  weight = 35
 
 [[main]]
   name = "Publications"
