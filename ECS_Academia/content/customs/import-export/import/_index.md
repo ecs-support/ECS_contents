@@ -12,7 +12,7 @@ type: docs  # Do not modify.
 weight: 1
 menu:
   import:
-    name: Overview
+    name: การนำเข้าสินค้า(Import)
     weight: 1
 
 weight: 1
@@ -20,19 +20,18 @@ weight: 1
 
 ![](img/import.png)
 
-{{< figure library="true" src="./img/import.png" title="" lightbox="true" >}}
 
 ## เนื้อหา
 
 {{% alert note_toc %}}
 
-- [พิธีการการนำเข้าสินค้า](../import/customs-clearance/)
-- [คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (e-Import)](../import/direct_guide/)
-- [ภาษีสรรพสามิต](../import/excise/)
--   [มาตรการปกป้องและตอบโต้ทางการค้า](../import/trade-protection/)
-- [การนำเข้ารถยนต์สำเร็จรูป](../import/import-car/)
--   [การสงวนสิทธิขอคืนอากรและการวางประกันเกี่ยวกับ ปัญหาพิกัดศุลกากร](../import/reverve/)
-- [ของตกค้าง](../import/overtime/)
+- [พิธีการการนำเข้าสินค้า](customs-clearance)
+- [คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (e-Import)](guide/)
+- [ภาษีสรรพสามิต](excise)
+-   [มาตรการปกป้องและตอบโต้ทางการค้า](trade-protection)
+- [การนำเข้ารถยนต์สำเร็จรูป](import-car)
+-   [การสงวนสิทธิขอคืนอากรและการวางประกันเกี่ยวกับ ปัญหาพิกัดศุลกากร](reverve)
+- [ของตกค้าง](overtime)
 
 {{% /alert %}}
 

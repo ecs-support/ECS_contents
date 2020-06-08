@@ -23,14 +23,14 @@ menu:
 ---
 
 
-{{< figure library="true" src="./img/export.png" title="" lightbox="true" >}}
+![](img/export.png)
 
 ## เนื้อหา
 
 {{% alert note_toc %}}
 
-- [พิธีการการส่งออกสินค้า](../export/customs-clearance/)
-- [คู่มือการปฏิบัติพิธีการศุลกากร](../export/export-guide/)
-- [ของที่นำเข้ามาแล้วส่งกลับออกไป](../export/re-export/)
+- [พิธีการการส่งออกสินค้า](customs-clearance)
+- [คู่มือการปฏิบัติพิธีการศุลกากร](export.1/)
+- [ของที่นำเข้ามาแล้วส่งกลับออกไป](re-export)
 
 {{% /alert %}}
