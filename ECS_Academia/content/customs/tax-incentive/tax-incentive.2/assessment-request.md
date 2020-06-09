@@ -1,7 +1,7 @@
 ---
-linktitle: ต้องการให้ตรวจสอบข้อมูลใบขนสินค้าขาเข้า
+linktitle: ต้องการให้ตรวจสอบข้อมูลใบขนสินค้า
 # Page metadata.
-title: ต้องการให้ตรวจสอบข้อมูลใบขนสินค้าขาเข้า (Assessment Request Code)
+title: ต้องการให้ตรวจสอบข้อมูลใบขนสินค้า (Assessment Request Code)
 date: "2020-05-19T00:00:00Z"
 lastmod: "2020-05-19T00:00:00Z"
 draft: false  # Is this a draft? true/false

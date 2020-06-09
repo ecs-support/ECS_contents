@@ -5,7 +5,7 @@ title: คู่มือระบบพิธีการศุลกากร�
 date: "2020-05-19T00:00:00Z"
 lastmod: "2020-05-19T00:00:00Z"
 draft: false  # Is this a draft? true/false
-toc: true # Show table of contents? true/false
+toc: false # Show table of contents? true/false
 type: docs  # Do not modify.
 
 # Add menu entry to sidebar.
@@ -20,18 +20,6 @@ menu:
 
 ![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/Tax%20Incentives.png)
 
-## Table of Content  
-
-{{<hint  warning>}}
--   [โครงสร้างข้อมูลใบขนสินค้าขาออก](/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/data_structure_export/)
--   [โครงสร้างข้อมูลใบขนสินค้าขาเข้า](/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/data_structure_import/)
--   [ตรวจสอบทะเบียนผู้มาติดต่อ](/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/visitor-registration/)
--   [เครื่องหมายและเลขหมายหีบห่อ (Shipping Marks)](/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/shipping-marks/)
--   [จำนวนและน้ำหนักของสินค้า](/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/quantity-and-weight/)
--   [ต้องการให้ตรวจสอบข้อมูลใบขนสินค้าขาเข้า](/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/assessment-request/)
--   [การโอนย้ายของออกจากสิทธิประโยชน์](/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/transfer-of-goods/)
--   [เลขทะเบียนสิทธิประโยชน์ทางภาษีอากร](/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/incentive-registration-no/)
-{{< /hint>}}
 
 ## ขอบเขตการใช้งานคู่มือระบบพิธีการศุลกากรทางอิเล็กทรอนิกส์สำหรับสิทธิประโยชน์ทางภาษีอากร
 

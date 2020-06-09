@@ -13,9 +13,9 @@ type: docs  # Do not modify.
 menu:
   free-trade:
     parent: สิทธิพิเศษทางการค้า  
-    weight: 9
+    weight: 6
 
-weight: 9
+weight: 6
 ---
 
 

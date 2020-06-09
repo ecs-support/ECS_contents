@@ -24,7 +24,7 @@ menu:
 
 {{% alert note_toc %}}
 
--   [การคืนอากรตามมาตรา 29](../tax-incentive/section_29/)
+-   [การคืนอากรตามมาตรา 29](/section_29/)
 -   [คลังสินค้าทัณฑ์บน](../tax-incentive/bond/)
 -   [เขตปลอดอากร (Freezone)](../tax-incentive/freezone/)
 -   [เขตประกอบการเสรี](../tax-incentive/ieat/)

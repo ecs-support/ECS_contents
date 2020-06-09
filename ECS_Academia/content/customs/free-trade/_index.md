@@ -28,13 +28,13 @@ Free Trade Area หรือเขตการค้าเสรี เป็น
 
 {{% alert note %}}
 
--   [Checklist กฎว่าด้วยถิ่นกำเนิดสินค้า](/knowledge-center/customs-clearance/docs/free-trade-area/checklist/)
--   [WTO](/knowledge-center/customs-clearance/docs/free-trade-area/wto/)
--   [เขตการค้าเสรีอาเซียน (AFTA)](/knowledge-center/customs-clearance/docs/free-trade-area/asean/)
--   [อาเซียน - จีน (ASEAN - China)](/knowledge-center/customs-clearance/docs/free-trade-area/acn/)
--   [อาเซียน-เกาหลี (ASEAN - Korea)](/knowledge-center/customs-clearance/docs/free-trade-area/ak/)
--   [ไทย-ญี่ปุ่น (JTEPA)](/knowledge-center/customs-clearance/docs/free-trade-area/jtepa/)
--   [อาเซียน-ฮ่องกง (ASEAN – Hong Kong)](/knowledge-center/customs-clearance/docs/free-trade-area/ahk/)
+-   [Checklist กฎว่าด้วยถิ่นกำเนิดสินค้า](checklist)
+-   [WTO](wto)
+-   [เขตการค้าเสรีอาเซียน (AFTA)](asean)
+-   [อาเซียน - จีน (ASEAN - China)](acn)
+-   [อาเซียน-เกาหลี (ASEAN - Korea)](ak)
+-   [ไทย-ญี่ปุ่น (JTEPA)](jtepa)
+-   [อาเซียน-ฮ่องกง (ASEAN – Hong Kong)](ahk)
 {{% /alert %}}
 
 ## ความเป็นมาของเขตการค้าเสรี

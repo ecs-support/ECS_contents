@@ -21,7 +21,7 @@ weight: 1
 ![enter image description here](https://github.com/yosarawut/e-TaxIncentive/raw/master/img/origin-check-list-01.jpg)
 ![enter image description here](https://github.com/yosarawut/e-TaxIncentive/raw/master/img/origin-check-list-02.jpg)
 
-ที่มา : [กรมศุลกากร](http://www.customs.go.th/list_strc_download.php?ini_content=fta_and_wto_160809_01_160809_04&ini_menu=menu_interest_and_law_160421_03&lang=th&root_left_menu=menu_interest_and_law_160421_03&left_menu=menu_interest_and_law_160421_03_160928_02)
+ที่มา : [กรมศุลกากร](http://www.customs.go.th/list_strc_download.php?ini_content=fta_and_wto_160809_01_160809_04&ini_menu=menu_interest_and_law_160421_03&lang=th&root_left_menu=menu_interest_and_law_160421_03&left_menu=menu_interest_and_law_160421_03_160928_02).  
 วันที่ปรับปรุงข้อมูลล่าสุด :  11 กันยายน 2562
 
 {{< hint info >}}
