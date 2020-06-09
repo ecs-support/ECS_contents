@@ -207,7 +207,7 @@
 }
 
 .docs-sidenav {
-  display: block;
+  display: none;
 }
 
 /* Docs TOC nav. */
@@ -278,4 +278,12 @@ ul.toc-top {
 .anchorjs-link:hover {
   color: $sta-primary;
   text-decoration: none;
+}
+
+.none {
+  display: none;
+}
+
+.active {
+  display: block;
 }
