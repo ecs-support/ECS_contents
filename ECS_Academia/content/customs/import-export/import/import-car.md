@@ -53,7 +53,7 @@ weight: 5
 
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/import/car/106_2561jpg_Page3-2.jpg)
 
-### การตรวจสอบ
+### การตรวจสอบรถยนต์
 
 **ส่วนที่ 3 การตรวจสอบรถยนต์สำเร็จรูปกรณีมีเหตุอันควรสงสัย**
 
@@ -73,3 +73,21 @@ weight: 5
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/import/car/106_2561jpg_Page5.jpg)
 
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/import/car/106_2561jpg_Page6.jpg)
+
+
+{{< button relref="excise" >}}Safeguard Measure: SG{{< /button >}}
+
+
+## Template FAQ
+
+{{< expand "การปฏิบัติพิธีการในการนำของที่ผลิตในประเทศเข้าไปบรรจุในเขตปลอดอากร/เขตประกอบการเสรีและขอใช้สิทธิชดเชย" "+" >}}
+
+## การปฏิบัติพิธีการในการนำของที่ผลิตในประเทศเข้าไปบรรจุในเขตปลอดอากร/เขตประกอบการเสรีและขอใช้สิทธิชดเชยค่าภาษีอากรเมื่อส่งออก
+
+{{< hint success >}}
+**คำตอบ :**  
+
+- ที่มา : [กรมศุลกากร](http://ccc.customs.go.th/cont_strc_faq.php?current_id=14232a324149505f47&left_menu=interesting_article)  
+- วันที่ปรับปรุงล่าสุด : 4 ตุลาคม 2562  
+ {{< /hint >}}
+{{< /expand >}}

@@ -28,8 +28,8 @@
   weight = 35
 
 [[main]]
-  name = "Publications"
-  url = "featured/"
+  name = "ของต้องห้ามหรือต้องมีใบอนุญาต"
+  url = "customs/restricted-goods/"
   weight = 40
 
 

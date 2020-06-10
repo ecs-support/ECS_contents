@@ -8,7 +8,7 @@ title: พิธีการการนำเข้าสินค้า (Impor
 date: "2020-05-12T00:00:00Z"
 lastmod: "2020-05-12T00:00:00Z"
 draft: false  # Is this a draft? true/false
-toc: true # Show table of contents? true/false
+toc: false # Show table of contents? true/false
 type: docs  # Do not modify.
 
 menu:
@@ -21,6 +21,8 @@ weight: 2
 
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/cover/import-Customs-clearance.png)
 
+{{< tabs "uniqueid" >}}
+{{< tab "พิธีการนำเข้าทางบก" >}}
 
 # พิธีการนำเข้าทางบก
 
@@ -85,9 +87,9 @@ weight: 2
 >ที่มา :  [กรมศุลกากร](http://www.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02&ini_content=business_160426_02_160426_01&lang=th&root_left_menu=menu_business_160421_02_160421_01&left_menu=menu_business_160421_02_160421_01_160914_01).  
 ปรับปรุงล่าสุด : 19 มีนาคม 2563
 
------
-</br>
-</br>
+{{< /tab >}}
+
+{{< tab "พิธีการนำเข้าทางเรือ" >}}
 
 # พิธีการนำเข้าทางเรือ
 
@@ -182,10 +184,9 @@ weight: 2
 > ที่มา :  [กรมศุลกากร](http://www.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02&ini_content=business_160426_02_160914_02_160914_02&lang=th&root_left_menu=menu_business_160421_02_160421_02&left_menu=menu_business_160421_02_160421_02_160914_02).  
 ปรับปรุงล่าสุด : 13 มิ.ย. 2560
 
--------
+{{< /tab >}}
 
-</br>
-</br>
+{{< tab "พิธีการนำเข้าทางอากาศ" >}} 
 
 # พิธีการนำเข้าทางอากาศ
 
@@ -207,5 +208,9 @@ weight: 2
 
 > ที่มา : [กรมศุลกากร](http://www.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02&ini_content=business_160426_02_160914_01_160914_02&lang=th&root_left_menu=menu_business_160421_02_160421_01&left_menu=menu_business_160421_02_160421_01_160914_03).  
 ปรับปรุงล่าสุด : 15 มิ.ย. 2560
+
+{{< /tab >}}
+
+{{< /tabs >}}
 
 
