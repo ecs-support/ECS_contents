@@ -78,9 +78,11 @@ weight: 9
 
 ให้บันทึกข้อมูลในใบขนสินค้าขาออกดังนี้
 
+{{% alert note %}}
 - Re-Export = Y (ในส่วนของ Export Declaration Detail)
 - Privilege Code = 003
 - Export Tariff = 9PART3
 - Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก
 - Declaration NO = เลขที่ใบขนสินค้าขาเข้าที่อ้างถึง ซึ่งนําของเข้ามาตามมาตรา 28
 - Declaration Line Number = รายการในใบขนสินค้าขาเข้าที่อ้างถึง
+{{% /alert %}}
