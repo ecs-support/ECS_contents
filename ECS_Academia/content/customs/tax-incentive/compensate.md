@@ -18,31 +18,6 @@ weight: 6
 ---
 
 
-<script>
-var acc = document.getElementsByClassName("book-expand");
-var i;
-
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.maxHeight) {
-      panel.style.maxHeight = null;
-    } else {
-      panel.style.maxHeight = panel.scrollHeight + "px";
-    }
-  });
-}
-</script>
-
-{{< expand "การปฏิบัติพิธีการในการนำของที่ผลิตในประเทศเข้าไปบรรจุในเขตปลอดอากร/เขตประกอบการเสรีและขอใช้สิทธิชดเชย"  >}}
-
-
-
-## การปฏิบัติพิธีการในการนำของที่ผลิตในประเทศเข้าไปบรรจุในเขตปลอดอากร/เขตประกอบการเสรีและขอใช้สิทธิชดเชยค่าภาษีอากรเมื่อส่งออก
-
-{{< /expand >}}
-
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/export-freezone-11-03-20.jpg)
 
 
