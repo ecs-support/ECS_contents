@@ -1,21 +1,31 @@
 ---
+linktitle: ประกาศที่เกี่ยวข้อง
+# Page metadata.
 title: ประกาศที่เกี่ยวข้อง
-bookCollapseSection: true
-weight: 3
-bookToc: true
+date: "2020-05-25T00:00:00Z"
+lastmod: "2020-05-25T00:00:00Z"
+draft: false  # Is this a draft? true/false
+toc: true # Show table of contents? true/false
+type: docs  # Do not modify.
 categories: [ของต้องห้าม-ต้องกำกัด]
 tags: [ประกาศ]
-draft: false
+
+menu:
+  restricted-goods:
+        parent: ของต้องห้ามหรือต้องมีใบอนุญาต   
+        weight: 4
+weight: 4
+
 ---
 
-ประกาศที่เกี่ยวข้อง
-===
 
-## การปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์สำหรับการเชื่อมโยงข้อมูลตามกฎหมายอื่นที่เกี่ยวข้องกับการศุลกากร
+# การปฏิบัติพิธีการศุลกากร
+
+**การปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์สำหรับการเชื่อมโยงข้อมูลตามกฎหมายอื่นที่เกี่ยวข้องกับการศุลกากร**
 
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/announce/131-2561/131_2561jpg_Page1.jpg)
 
-### การตรวจสอบกรณีเชื่อมโยงข้อมูลใบอนุญาติหรือใบรับรองร่วมกันแล้ว
+## การตรวจสอบกรณีเชื่อมโยงข้อมูลกันแล้ว
 
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/announce/131-2561/131_2561jpg_Page2.jpg)
 
@@ -25,7 +35,7 @@ draft: false
 
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/announce/131-2561/131_2561jpg_Page5-1.jpg)
 
-### การตรวจสอบกรณียังไม่ได้เชื่อมโยงข้อมูลใบอนุญาติหรือใบรับรองร่วมกันแล้ว
+## การตรวจสอบกรณียังไม่ได้เชื่อมโยงข้อมูล
 
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/announce/131-2561/131_2561jpg_Page5-2.jpg)
 
@@ -35,7 +45,9 @@ draft: false
 
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/announce/131-2561/131_2561jpg_Page8-8-1.jpg)
 
-### การตรวจสอบกรณีได้รับยกเว้นไม่ต้องมีใบอนุญาตหรือใบรับรอง
+## การตรวจสอบกรณีได้รับยกเว้น
+
+**การตรวจสอบกรณีได้รับยกเว้นไม่ต้องมีใบอนุญาตหรือใบรับรอง**
 
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/announce/131-2561/131_2561jpg_Page8-2.jpg)
 

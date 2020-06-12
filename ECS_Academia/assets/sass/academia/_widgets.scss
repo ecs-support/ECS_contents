@@ -236,6 +236,12 @@ a.hero-cta-alt:hover {
   line-height: 1.5;
   color: #555;
   text-align: center;
+  
+}
+
+.featurette :hover {
+  background-color: #DCDCDC;
+
 }
 
 .featurette h3 {
@@ -257,6 +263,7 @@ a.hero-cta-alt:hover {
   font-size: 3rem;
   text-align: center;
 }
+
 
 .featurette-margin {
   margin-bottom: 20px;
