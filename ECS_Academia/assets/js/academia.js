@@ -458,7 +458,7 @@
         scrollToAnchor();
       }
     }
-
+ 
     // Initialize Scrollspy.
     let $body = $('body');
     $body.scrollspy({
@@ -483,37 +483,46 @@
         layout = 'masonry';
       }
 
-      $container.imagesLoaded(function () {
-        // Initialize Isotope after all images have loaded.
-        $container.isotope({
-          itemSelector: '.isotope-item',
-          layoutMode: layout,
-          masonry: {
-            gutter: 20
-          },
-          filter: $section.find('.default-project-filter').text()
-        });
+      
 
-        // Filter items when filter link is clicked.
-        $section.find('.project-filters a').click(function () {
-          let selector = $(this).attr('data-filter');
+
+
+
+
+
+
+
+        $container.imagesLoaded(function () {
+          // Initialize Isotope after all images have loaded.
           $container.isotope({
-            filter: selector
+            itemSelector: '.isotope-item',
+            layoutMode: layout,
+            masonry: {
+              gutter: 20
+            },
+            filter: $section.find('.default-project-filter').text()
           });
-          $(this).removeClass('active').addClass('active').siblings().removeClass('active all');
-          return false;
-        });
 
-        // If window hash is set, scroll to hash.
-        // Placing this within `imagesLoaded` prevents scrolling to the wrong location due to dynamic image loading
-        // affecting page layout and position of the target anchor ID.
-        // Note: If there are multiple project widgets on a page, ideally only perform this once after images
-        // from *all* project widgets have finished loading.
-        if (window.location.hash) {
-          scrollToAnchor();
-        }
+          // Filter items when filter link is clicked.
+          $section.find('.project-filters a').click(function () {
+            let selector = $(this).attr('data-filter');
+            $container.isotope({
+              filter: selector
+            });
+            $(this).removeClass('active').addClass('active').siblings().removeClass('active all');
+            return false;
+          });
+
+          // If window hash is set, scroll to hash.
+          // Placing this within `imagesLoaded` prevents scrolling to the wrong location due to dynamic image loading
+          // affecting page layout and position of the target anchor ID.
+          // Note: If there are multiple project widgets on a page, ideally only perform this once after images
+          // from *all* project widgets have finished loading.
+          if (window.location.hash) {
+            scrollToAnchor();
+          }
+        });
       });
-    });
 
     // Enable publication filter for publication index page.
     if ($('.pub-filters-select')) {

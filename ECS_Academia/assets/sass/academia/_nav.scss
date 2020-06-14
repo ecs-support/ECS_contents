@@ -74,6 +74,8 @@ nav#navbar-main li.nav-item {
 
 .dropdown-menu {
   background-color: $sta-menu-primary !important;
+  
+  
 }
 
 .dropdown-menu > li > a {
@@ -91,6 +93,8 @@ nav#navbar-main li.nav-item {
   color: $sta-menu-text-active;
   text-decoration: none;
   background-color: $sta-menu-primary;
+  
+  
 }
 
 .dropdown-menu > .active,
@@ -98,7 +102,8 @@ nav#navbar-main li.nav-item {
 .dropdown-menu > .active:hover {
   color: $sta-menu-primary;
   text-decoration: none;
-  background-color: $sta-menu-text-active;
+  background-color: rgba(255, 255, 255,.3);
+  
   outline: 0;
 }
 

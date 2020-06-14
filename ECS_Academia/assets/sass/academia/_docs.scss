@@ -51,6 +51,8 @@
 
 /* Docs sidebar. */
 
+
+
 .docs-sidebar {
   order: 0;
   border-bottom: 1px solid rgba(0, 0, 0, .1)
@@ -219,6 +221,10 @@
   padding-left: calc(1.5rem + 1px);
  
 }
+
+.dn {              display: none; }
+.di {              display: inline; }
+.db {              display: block; }
 
 #TableOfContents {
   padding-left: .5rem;
