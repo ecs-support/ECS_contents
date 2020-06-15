@@ -266,7 +266,8 @@ ul.toc-top {
 }
 
 /* ScrollSpy active link style. */
-#TableOfContents li a.active {
+#TableOfContents li a.active,
+.toc-top li a:hover {
   color: $sta-primary;
   font-weight: 700;
   background-color: #f2f2f2;
