@@ -1,5 +1,5 @@
 ---
-linktitle: คู่มือการปฏิบัติพิธีการ(Export)
+linktitle: ภาพรวม
 title: คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (e-Export)
 date: "2020-05-09T00:00:00Z"
 lastmod: "2020-05-09T00:00:00Z"
@@ -12,7 +12,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   export:
-    name: คู่มือการปฏิบัติพิธีการ(Export)
+    parent: คู่มือพิธีการส่งออก
     weight: 3
 weight: 1
 ---

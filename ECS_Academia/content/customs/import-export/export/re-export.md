@@ -7,15 +7,12 @@ draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
-# Add menu entry to sidebar.
-# - name: Declare this menu item as a parent with ID `name`.
-# - weight: Position of link in menu.
 menu:
   export:
-    name: ของที่นำเข้ามาแล้วส่งกลับออกไป  
-    weight: 13
+    parent: พิธีการการส่งออกสินค้า
+    weight: 5
 
-weight: 13
+weight: 5
 ---
 
 ของที่นำเข้ามาในราชอาณาจักรและเสียอากรแล้ว หากส่งกลับออกไปยังเมืองต่างประเทศหรือส่งกลับไปเป็นของใช้สิ้นเปลืองในเรือ เดินทางไปต่างประเทศ สามารถขอคืนเงินอากรขาเข้าที่ชำระไว้แล้วได้ *เก้าในสิบส่วน หรือส่วนที่เกินหนึ่งพันบาทของจำนวนที่เรียกเก็บไว้* โดยคำนวณตามใบขนสินค้าขาออกแต่ละฉบับ

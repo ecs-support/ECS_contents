@@ -16,9 +16,7 @@ menu:
 weight: 2
 ---
 
-![](https://github.com/ecs-support/ECS_contents/raw/master/ECS_Academia/content/customs/import-export/import/img/flowTH1-1.jpg)
-
-flowTH2-3.jpg
+![](https://github.com/ecs-support/ECS_contents/raw/master/ECS_Academia/content/customs/import-export/export/img/flowTH2-1.jpg)
 
 
 ## 1. การยื่นใบขนสินค้า

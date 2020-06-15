@@ -16,7 +16,7 @@ menu:
 weight: 4
 ---
 
-
+![](https://github.com/ecs-support/ECS_contents/raw/master/ECS_Academia/content/customs/import-export/export/img/flowTH2-3.jpg)
 
 ## การปฏิบัติพิธีการ
 
