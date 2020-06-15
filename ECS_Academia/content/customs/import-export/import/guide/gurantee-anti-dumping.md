@@ -10,7 +10,7 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    name:  ตอบโต้การทุ่มตลาดและการอุดหนุน
+    parent: คู่มือพิธีการนำเข้า 
     weight: 21
 
 weight: 21

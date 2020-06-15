@@ -10,7 +10,7 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    name:  หลักการรวมรายการ
+    parent: คู่มือพิธีการนำเข้า 
     weight: 14
 
 weight: 14

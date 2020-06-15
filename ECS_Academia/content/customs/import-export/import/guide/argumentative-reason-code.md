@@ -10,7 +10,7 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    name:  รหัสเหตุผลการโต้แย้ง
+    parent: คู่มือพิธีการนำเข้า 
     weight: 24
 weight: 24
 ---

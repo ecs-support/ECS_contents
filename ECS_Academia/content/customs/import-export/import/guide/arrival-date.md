@@ -10,7 +10,7 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    name:  วันนำเข้า 
+    parent: คู่มือพิธีการนำเข้า 
     weight: 7
 
 weight: 7

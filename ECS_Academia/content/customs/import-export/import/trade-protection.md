@@ -12,10 +12,10 @@ type: docs  # Do not modify.
 
 menu:
   import:
-    name: มาตรการปกป้องและตอบโต้ทางการค้า
-    weight: 4
+    parent:  การนำเข้าสินค้า (Import)
+    weight: 10
 
-weight: 4
+weight: 10
 ---
 
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/trade-protection.png)

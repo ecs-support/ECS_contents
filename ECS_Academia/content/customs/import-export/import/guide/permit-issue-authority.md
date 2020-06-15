@@ -10,7 +10,7 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    name:  หน่วยงานผู้ออกใบอนุญาต
+    parent: คู่มือพิธีการนำเข้า 
     weight: 26
 
 weight: 26

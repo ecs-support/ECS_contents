@@ -1,10 +1,10 @@
 ---
 # Course title, summary, and position.
-linktitle: การส่งออกสินค้า(Export)
+linktitle: การส่งออก
 summary: การปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (Export)
 
 # Page metadata.
-title: การส่งออกสินค้า (Export)
+title: การปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (Export)
 
 
 date: "2020-05-15T00:00:00Z"
@@ -13,24 +13,16 @@ draft: false  # Is this a draft? true/false
 toc: false # Show table of contents? true/false
 type: docs  # Do not modify.
 
-# Add menu entry to sidebar.
-# - name: Declare this menu item as a parent with ID `name`.
-# - weight: Position of link in menu.
 menu:
   export:
-    name: การส่งออกสินค้า(Export) 
-    weight: 2
----
+    parent: การส่งออกสินค้า (Export)
+    weight: 1
 
+weight: 1
+---
 
 ![](img/export.png)
 
-## เนื้อหา
+การส่งออก (Export) การจัดส่งสินค้าและบริการจากต้นทางสู่ปลายทางในทางบก ทางน้ำหรือทางอากาศ โดยผู้ส่งสินค้าหรือบริการออกเรียกว่า "ผู่ส่งออก" ส่วนในทางการค้าระหว่างประเทศ การส่งออกหมายถึง การขายสินค้าและบริการในประเทศไปสู่ตลาดอื่น (ตลาดสากล) ในการส่งออกและนำเข้าซึ่งสินค้าจะต้องมีหน่วยงานที่ต้องเกี่ยวข้องด้วยคือ กรมศุลกากร แม้ว่าจะเป็นการนำเข้า หรือส่งออกผ่านทางระบบอินเทอร์เน็ตเองก็จำเป็นต้องเกี่ยวข้องกับกรมศุลการกรด้วย และที่สำคัญต้องอยู่ภายใต้กฎหมายการนำเข้าและส่งออกของประเทศนั้น ๆ[
 
-{{% alert note_toc %}}
 
-- [พิธีการการส่งออกสินค้า](customs-clearance)
-- [คู่มือการปฏิบัติพิธีการศุลกากร](export.1/)
-- [ของที่นำเข้ามาแล้วส่งกลับออกไป](re-export)
-
-{{% /alert %}}

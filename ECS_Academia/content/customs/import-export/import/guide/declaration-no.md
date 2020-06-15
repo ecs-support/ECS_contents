@@ -14,7 +14,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   guide:
-    name:  รูปแบบเลขที่ใบขนสินค้า
+    parent: คู่มือพิธีการนำเข้า 
     weight: 4
 
 weight: 4

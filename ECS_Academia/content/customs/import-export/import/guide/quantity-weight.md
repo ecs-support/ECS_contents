@@ -11,7 +11,7 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    name:  จำนวนและน้ำหนัก 
+    parent: คู่มือพิธีการนำเข้า 
     weight: 11
 
 weight: 11

@@ -10,7 +10,7 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    name:  การวางประกันโต้แย้งพิกัด
+    parent: คู่มือพิธีการนำเข้า 
     weight: 19
 
 weight: 19

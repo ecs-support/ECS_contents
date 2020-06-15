@@ -12,10 +12,10 @@ type: docs  # Do not modify.
 
 menu:
   import:
-    name: การนำเข้ารถยนต์สำเร็จรูป
-    weight: 5
+    parent:  การนำเข้าสินค้า (Import)
+    weight: 11
 
-weight: 5
+weight: 11
 ---
 
 

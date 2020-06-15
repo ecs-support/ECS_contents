@@ -10,7 +10,7 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    name:  ภาค 4 ของที่ได้รับยกเว้นอากร
+    parent: คู่มือพิธีการนำเข้า 
     weight: 18
 
 weight: 18

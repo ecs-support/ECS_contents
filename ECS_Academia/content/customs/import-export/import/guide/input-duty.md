@@ -7,10 +7,9 @@ lastmod: "2020-05-19T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: false # Show table of contents? true/false
 type: docs  # Do not modify.
-
 menu:
   guide:
-    name:  การบันทึกค่าภาษี/วางประกัน
+    parent: คู่มือพิธีการนำเข้า 
     weight: 22
 
 weight: 22

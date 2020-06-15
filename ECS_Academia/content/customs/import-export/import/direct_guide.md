@@ -9,8 +9,8 @@ toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 menu:
- import:
-    name: คู่มือปฏิบัติพิธีการศุลกากร
+  import:
+    parent:  การนำเข้าสินค้า (Import)
     weight: 3
 weight: 3
 ---

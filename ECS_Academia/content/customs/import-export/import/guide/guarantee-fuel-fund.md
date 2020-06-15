@@ -10,7 +10,7 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    name:  การวางประกันกองทุนน้ำมัน
+    parent: คู่มือพิธีการนำเข้า 
     weight: 20
 
 weight: 20

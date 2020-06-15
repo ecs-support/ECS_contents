@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: บทนำ
+linktitle: ภาพรวม
 summary: การปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (Import)
 # Page metadata.
 title: การนำเข้าสินค้า (Import) 

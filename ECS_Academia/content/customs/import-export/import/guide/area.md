@@ -10,9 +10,8 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    name:  รหัสสถานที่นำเข้า
+    parent: คู่มือพิธีการนำเข้า  
     weight: 9
-
 weight: 9
 ---
 

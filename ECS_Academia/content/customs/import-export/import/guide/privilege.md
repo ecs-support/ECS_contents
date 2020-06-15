@@ -10,7 +10,7 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    name:  รหัสสิทธิพิเศษ
+    parent: คู่มือพิธีการนำเข้า 
     weight: 28
 
 weight: 28

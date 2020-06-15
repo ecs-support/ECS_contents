@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (e-Import) 
+linktitle: ภาพรวม
 summary: 
 weight: 1
 title: คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (e-Import)
@@ -15,7 +15,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   guide:
-    name: Overview  
+    parent: คู่มือพิธีการนำเข้า  
     weight: 1
 ---
 

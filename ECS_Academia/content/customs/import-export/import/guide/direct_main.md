@@ -1,5 +1,5 @@
 ---
-title: กลับไปเมนูหลัก  การนำเข้าสินค้า
+title: <--กลับไปเมนูหลัก
 date: "2020-05-09T00:00:00Z"
 lastmod: "2020-05-09T00:00:00Z"
 
@@ -7,9 +7,10 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    name: <--กลับไปเมนูหลัก
+    parent:  เมนู
     weight: 200
 
+weight: 200
 ---
 
 <script>

@@ -11,7 +11,7 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    name:  Assessment Request Code
+    parent: คู่มือพิธีการนำเข้า 
     weight: 12
 
 weight: 12

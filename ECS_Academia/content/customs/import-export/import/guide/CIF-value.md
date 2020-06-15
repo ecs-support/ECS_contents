@@ -11,7 +11,7 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    name:  ราคาของ
+    parent: คู่มือพิธีการนำเข้า 
     weight: 15
 
 weight: 15

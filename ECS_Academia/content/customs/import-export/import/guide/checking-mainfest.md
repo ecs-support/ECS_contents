@@ -10,7 +10,7 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    name:  การตัดบัญชีใบขนสินค้า
+    parent: คู่มือพิธีการนำเข้า 
     weight: 27
 
 weight: 27

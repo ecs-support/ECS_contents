@@ -10,7 +10,7 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    name:  INCOTERMS
+    parent: คู่มือพิธีการนำเข้า 
     weight: 16
 
 weight: 16

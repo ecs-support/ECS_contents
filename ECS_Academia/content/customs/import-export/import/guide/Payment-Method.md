@@ -11,7 +11,7 @@ toc: false # Show table of contents? true/false
 
 menu:
   guide:
-    name:  Payment Method
+    parent: คู่มือพิธีการนำเข้า 
     weight: 23
 
 weight: 23

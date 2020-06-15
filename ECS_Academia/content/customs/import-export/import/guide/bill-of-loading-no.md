@@ -11,7 +11,7 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    name:  เลขที่ใบตราส่ง
+    parent: คู่มือพิธีการนำเข้า 
     weight: 8
 
 weight: 8

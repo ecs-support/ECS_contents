@@ -10,7 +10,7 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    name:  การตรวจสอบระบบทะเบียน
+    parent: คู่มือพิธีการนำเข้า 
     weight: 6
 
 weight: 6

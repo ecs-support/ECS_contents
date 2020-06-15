@@ -10,7 +10,7 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    name:  อัตราแลกเปลี่ยน
+    parent: คู่มือพิธีการนำเข้า 
     weight: 13
 
 weight: 13

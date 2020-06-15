@@ -10,7 +10,7 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    name:  ประเภทค่าภาษีอากร
+    parent: คู่มือพิธีการนำเข้า 
     weight: 25
 
 weight: 25

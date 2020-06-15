@@ -8,12 +8,9 @@ draft: false  # Is this a draft? true/false
 toc: false # Show table of contents? true/false
 type: docs  # Do not modify.
 
-# Add menu entry to sidebar.
-# - name: Declare this menu item as a parent with ID `name`.
-# - weight: Position of link in menu.
 menu:
   guide:
-    name:  การตรวจสอบผลการคำนวณ
+    parent: คู่มือพิธีการนำเข้า 
     weight: 3
 
 weight: 3

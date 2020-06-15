@@ -10,7 +10,7 @@ type: docs  # Do not modify.
 
 menu:
   guide:
-    name:  เครื่องหมายหีบห่อ
+    parent: คู่มือพิธีการนำเข้า 
     weight: 10
 
 weight: 10

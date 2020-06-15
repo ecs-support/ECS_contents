@@ -1,4 +1,5 @@
 ---
+linktitle: <--กลับไปเมนูหลัก
 title: กลับไปเมนูหลัก  การนำเข้า-ส่งออกสินค้า
 date: "2020-05-09T00:00:00Z"
 lastmod: "2020-05-09T00:00:00Z"
@@ -7,8 +8,10 @@ type: docs  # Do not modify.
 
 menu:
   import:
-      name: <--กลับไปเมนูหลัก
-      weight: 200
+    parent:  เมนู
+    weight: 200
+
+weight: 200
 
 ---
 
