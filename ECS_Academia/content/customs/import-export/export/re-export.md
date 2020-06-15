@@ -1,5 +1,5 @@
 ---
-linktitle: ของที่นำเข้ามาแล้วส่งกลับออกไป (Re-export)
+linktitle: Re-export
 title: การคืนอากรสำหรับของที่นำเข้ามาแล้วส่งกลับออกไป (Re-export)
 date: "2020-05-09T00:00:00Z"
 lastmod: "2020-05-09T00:00:00Z"
@@ -9,7 +9,7 @@ type: docs  # Do not modify.
 
 menu:
   export:
-    parent: พิธีการการส่งออกสินค้า
+    parent: การส่งออกสินค้า (Export)
     weight: 5
 
 weight: 5

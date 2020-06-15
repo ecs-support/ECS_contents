@@ -135,7 +135,7 @@
   animation-delay: 0.25s;
 /* add  */
    font-family: Kanit;
-   min-height: 30rem;
+   min-height: 20rem;
    letter-spacing: 0.44px;
 
 }
@@ -237,18 +237,17 @@ a.hero-cta-alt:hover {
   color: #555;
   text-align: center;
   
+
+  
 }
 
-.featurette :hover {
-  background-color: #DCDCDC;
 
-}
 
 .featurette h3 {
   margin-top: 0;
   margin-bottom: 5px;
   font-weight: 400;
-  color: #333;
+  color: #3F69AA;
 }
 
 .dark .featurette,
@@ -264,9 +263,23 @@ a.hero-cta-alt:hover {
   text-align: center;
 }
 
+#catagorys {
+  cursor: pointer;
+  box-shadow: 7px 7px 4px grey;
+  border: 0.1rem solid rgba(0, 0, 0, 0.4);
+
+}
+
+#catagorys:hover {
+  
+  border: 0.16rem solid rgba(0, 0, 0, 0.7);
+  box-shadow: 10px 10px 5px grey;
+
+}
 
 .featurette-margin {
   margin-bottom: 20px;
+  
 }
 
 /*************************************************

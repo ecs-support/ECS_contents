@@ -1,5 +1,5 @@
 ---
-linktitle: สิทธิประโยชน์ทางภาษีอากร
+linktitle: ภาพรวมของระบบ
 # Page metadata.
 title: สิทธิประโยชน์ทางภาษีอากร
 date: "2020-05-19T00:00:00Z"
@@ -13,9 +13,10 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   tax-incentive:
-    name: สิทธิประโยชน์ทางภาษีอากร
+    parent: สิทธิประโยชน์ทางภาษี
     weight: 1
 
+weight: 1
 ---
 
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/tax-incentive.png)

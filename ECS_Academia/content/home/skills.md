@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Skills"
-subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
+title = "Catagory"
+subtitle = "Find your answer by catagory"
 
 # Showcase personal skills or business features.
 # 
@@ -18,21 +18,21 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   icon = "globe"
   icon_pack = "fas"
   name = "การนำเข้า-ส่งออก"
-  parcent = "90%"
+  parcent = "100%"
   url = "/KM/customs/customs/import-export/"
   
 [[feature]]
   icon = "warehouse"
   icon_pack = "fas"
   name = "สิทธิประโยชน์ทางภาษี"
-  parcent = "80%"  
+  parcent = "100%"  
   url = "/KM/customs/customs/tax-incentive/"
   
 [[feature]]
   icon = "globe-americas"
   icon_pack = "fas"
   name = "สิทธิพิเศษทางการค้า"
-  parcent = "70%"
+  parcent = "100%"
   url = "/KM/customs/customs/free-trade/"
   
 [[feature]]

@@ -13,7 +13,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   tax-incentive:
-      parent: สิทธิประโยชน์ทางภาษีอากร
+      parent: สิทธิประโยชน์ทางภาษี
       weight: 4
 weight: 4
 ---
