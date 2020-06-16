@@ -4,7 +4,7 @@ title: ข้อควรระวังเกี่ยวกับกฎว่�
 date: "2020-05-09T00:00:00Z"
 lastmod: "2020-05-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
+toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 menu:
@@ -15,11 +15,22 @@ menu:
 weight: 2
 ---
 
+## Template FAQ
 
-![](https://ecs-support.github.io/KM/customs/customs/free-trade/img\checklist_ftapng_Page1.png)
+{{< expand "การปฏิบัติพิธีการในการนำของที่ผลิตในประเทศเข้าไปบรรจุในเขตปลอดอากร/เขตประกอบการเสรีและขอใช้สิทธิชดเชย" "+" >}}
 
-![enter image description here](https://github.com/yosarawut/e-TaxIncentive/raw/master/img/origin-check-list-01.jpg)
-![enter image description here](https://github.com/yosarawut/e-TaxIncentive/raw/master/img/origin-check-list-02.jpg)
+## การปฏิบัติพิธีการในการนำของที่ผลิตในประเทศเข้าไปบรรจุในเขตปลอดอากร/เขตประกอบการเสรีและขอใช้สิทธิชดเชยค่าภาษีอากรเมื่อส่งออก
+
+
+**คำตอบ :**  
+
+
+
+- ที่มา : [กรมศุลกากร](http://ccc.customs.go.th/cont_strc_faq.php?current_id=14232a324149505f47&left_menu=interesting_article)  
+- วันที่ปรับปรุงล่าสุด : 4 ตุลาคม 2562  
+
+{{< /expand >}}
+
 
 {{% alert success %}}
 **สอบถามข้อมูลเพิ่มเติมได้ที่** : ส่วนกฎว่าด้วยถิ่นกำเนิดสินค้า (สกก.) กองพิกัดอัตราศุลกากร (กพก.)
@@ -28,6 +39,16 @@ weight: 2
 อีเมล์ : 80150000@customs.go.th
 {{% /alert %}}
 
+{{< figure src="../img/checklist_ftapng_Page1.png" title="A caption" lightbox="true" >}}
+
+{{< figure src="https://github.com/ecs-support/ECS_contents/raw/master/ECS_Academia/content/customs/free-trade/img/checklist_ftapng_Page1.png" title="A caption" numbered="true" lightbox="true" >}}
+
+![](https://github.com/ecs-support/ECS_contents/raw/master/ECS_Academia/content/customs/free-trade/img/checklist_ftapng_Page1.png)
+
+![](https://github.com/ecs-support/ECS_contents/raw/master/ECS_Academia/content/customs/free-trade/img/checklist_ftapng_Page2.png)
+
+
+
 > ที่มา : [กรมศุลกากร](http://www.customs.go.th/list_strc_download.php?ini_content=fta_and_wto_160809_01_160809_04&ini_menu=menu_interest_and_law_160421_03&lang=th&root_left_menu=menu_interest_and_law_160421_03&left_menu=menu_interest_and_law_160421_03_160928_02).  
-วันที่ปรับปรุงข้อมูลล่าสุด :  11 กันยายน 2562
+วันที่ปรับปรุงข้อมูลล่าสุด :  14 ม.ค. 2563
 
