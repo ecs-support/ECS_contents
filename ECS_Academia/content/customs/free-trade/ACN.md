@@ -39,7 +39,16 @@ weight: 5
 - สินค้าโควตา ผูกพันภายใต้ WTO ในตอนที่ 01 - 08 จำนวน 16 ประเภทย่อย หรือร้อยละ 0.19 ปัจจุบันอัตราอากร ในโควตา เป็นร้อยละ 0 ส่วนที่เหลือ ยังเจรจาไม่เสร็จสิ้น
 
 
-[-  ตรวจสอบอัตราอากรขาเข้า และประเทศที่ได้รับสิทธิประโยชน์แยกตามพิกัด](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=14223132414c505e4f464b46464b4a)
+
+
+## อัตราอากร และประเทศที่ได้รับการยกเว้น
+
+<br>
+{{< gdocs_width src="../files/asean-china-product.pdf" >}}
+
+<br>
+
+> [- ดาวน์โหลดประกาศฉบับเต็ม](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=14223132414c505e4f464b46464b4a)
 
 
 #### Rules of Origin

@@ -15,14 +15,14 @@ menu:
 weight: 2
 ---
 
+{{< figure src="../img/checklist_ftapng_Page1.png"  lightbox="true" >}}
 
-{{< figure src="../img/checklist_ftapng_Page1.png" title="A caption" lightbox="true" >}}
+{{< figure src="../img/checklist_ftapng_Page2.png"  lightbox="true" >}}
 
-{{< figure src="https://github.com/ecs-support/ECS_contents/raw/master/ECS_Academia/content/customs/free-trade/img/checklist_ftapng_Page2.png" title="A caption" numbered="true" lightbox="true" >}}
+## Download PDF file
 
-![](https://github.com/ecs-support/ECS_contents/raw/master/ECS_Academia/content/customs/free-trade/img/checklist_ftapng_Page1.png)
+{{< gdocs src="../files/checklist_fta.pdf" >}}
 
-![](https://github.com/ecs-support/ECS_contents/raw/master/ECS_Academia/content/customs/free-trade/img/checklist_ftapng_Page2.png)
 
 
 
