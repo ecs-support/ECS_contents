@@ -15,33 +15,10 @@ menu:
 weight: 2
 ---
 
-## Template FAQ
-
-{{< expand "การปฏิบัติพิธีการในการนำของที่ผลิตในประเทศเข้าไปบรรจุในเขตปลอดอากร/เขตประกอบการเสรีและขอใช้สิทธิชดเชย" "+" >}}
-
-## การปฏิบัติพิธีการในการนำของที่ผลิตในประเทศเข้าไปบรรจุในเขตปลอดอากร/เขตประกอบการเสรีและขอใช้สิทธิชดเชยค่าภาษีอากรเมื่อส่งออก
-
-
-**คำตอบ :**  
-
-
-
-- ที่มา : [กรมศุลกากร](http://ccc.customs.go.th/cont_strc_faq.php?current_id=14232a324149505f47&left_menu=interesting_article)  
-- วันที่ปรับปรุงล่าสุด : 4 ตุลาคม 2562  
-
-{{< /expand >}}
-
-
-{{% alert success %}}
-**สอบถามข้อมูลเพิ่มเติมได้ที่** : ส่วนกฎว่าด้วยถิ่นกำเนิดสินค้า (สกก.) กองพิกัดอัตราศุลกากร (กพก.)
-กรมศุลกากร เลขที่ 1 ถ.สุนทรโกษา คลองเตย กทม. 10110
-หมายเลขโทรศัพท์ : 0-2667-7014 หรือ 0-2667-6459
-อีเมล์ : 80150000@customs.go.th
-{{% /alert %}}
 
 {{< figure src="../img/checklist_ftapng_Page1.png" title="A caption" lightbox="true" >}}
 
-{{< figure src="https://github.com/ecs-support/ECS_contents/raw/master/ECS_Academia/content/customs/free-trade/img/checklist_ftapng_Page1.png" title="A caption" numbered="true" lightbox="true" >}}
+{{< figure src="https://github.com/ecs-support/ECS_contents/raw/master/ECS_Academia/content/customs/free-trade/img/checklist_ftapng_Page2.png" title="A caption" numbered="true" lightbox="true" >}}
 
 ![](https://github.com/ecs-support/ECS_contents/raw/master/ECS_Academia/content/customs/free-trade/img/checklist_ftapng_Page1.png)
 
