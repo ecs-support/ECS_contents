@@ -55,6 +55,15 @@
   weight = 33
 
 [[main]]
+  parent = "เรื่องน่ารู้"
+  name = "Reference data"
+  url = "https://ecs-support.github.io/KM/reference/"
+  weight = 33
+
+
+  
+
+[[main]]
   name = "ข่าวสารและบทความ"
   url = "post/"
   weight = 50
