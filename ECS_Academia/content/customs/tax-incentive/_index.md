@@ -13,7 +13,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   tax-incentive:
-    parent: สิทธิประโยชน์ทางภาษี
+    parent: 1. สิทธิประโยชน์ทางภาษี
     weight: 1
 
 weight: 1
@@ -21,20 +21,6 @@ weight: 1
 
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/tax-incentive.png)
 
-## เนื้อหา
-
-{{% alert note_toc %}}
-
--   [การคืนอากรตามมาตรา 29](/section_29/)
--   [คลังสินค้าทัณฑ์บน](../tax-incentive/bond/)
--   [เขตปลอดอากร (Freezone)](../tax-incentive/freezone/)
--   [เขตประกอบการเสรี](../tax-incentive/ieat/)
--   [การชดเชยค่าภาษีอากร](../tax-incentive/compensate/)
--   [การส่งเสริมการลงทุน (BOI)](../tax-incentive/boi/)
--   [การคืนอากรสำหรับของที่นำเข้ามาแล้วส่งกลับออกไป (Re-export)](../tax-incentive/re-export/) 
--   [คู่มือสิทธิประโยชน์ทางภาษีอากร](../tax-incentive/tax-incentive_guide/)
-
-{{% /alert %}}
 
 พระราชบัญญัติศุลกากร พ.ศ. 2560 ซึ่งมีผลบังคับใช้ตั้งแต่ 13 พฤศจิกายน 2560 เป็นต้นมา ได้ยกเลิกบรรดาพระราชบัญญัติศุลกากรทุกฉบับที่เคยมีมา โดยได้จัดหมวดหมู่ของกฎหมายออกเป็น 9 หมวด และมีจำนวนถึง 3 หมวดที่บัญญัติในเรื่องสิทธิประโยชน์ทางภาษีอากร กล่าวคือ
 

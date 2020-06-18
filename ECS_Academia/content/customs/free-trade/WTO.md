@@ -7,17 +7,13 @@ draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
-# Add menu entry to sidebar.
-# - name: Declare this menu item as a parent with ID `name`.
-# - weight: Position of link in menu.
 menu:
   free-trade:
-    parent: สิทธิพิเศษทางการค้า 
-    weight: 2
-
-weight: 2
+    parent: สิทธิพิเศษทางการค้า
+    weight: 3
+    
+weight: 3
 ---
-
 
 
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/wto-logo.jpg)

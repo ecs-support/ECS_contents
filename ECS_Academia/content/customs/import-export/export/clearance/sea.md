@@ -10,7 +10,7 @@ type: docs  # Do not modify.
 
 menu:
   export:
-    parent: พิธีการการส่งออกสินค้า
+    parent: 2. พิธีการการส่งออกสินค้า
     weight: 3
 
 weight: 3

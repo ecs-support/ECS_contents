@@ -29,27 +29,39 @@
   name = "สินค้าถ่ายลำ/ผ่านแดน"
   url = "customs/import-export/transit/"
   weight = 23
-[[main]]
-  parent = "การนำเข้า-ส่งออก"
-  name = "สิทธิประโยชน์ทางภาษี"
-  url = "customs/tax-incentive/"
-  weight = 24
-[[main]]
-  parent = "การนำเข้า-ส่งออก"
-  name = "สิทธิพิเศษทางการค้า"
-  url = "customs/free-trade/"
-  weight = 25
+
 
 
 [[main]]
   name = "เรื่องน่ารู้"
   url = "customs/"
   weight = 30
+
+[[main]]
+  parent ="เรื่องน่ารู้"
+  name = "สิทธิประโยชน์ทางภาษี"
+  url = "customs/tax-incentive/"
+  weight = 31
 [[main]]
   parent = "เรื่องน่ารู้"
-  name = "ของต้องห้ามหรือต้องมีใบอนุญาต"
+  name = "สิทธิพิเศษทางการค้า"
+  url = "customs/free-trade/"
+  weight = 32
+
+[[main]]
+  parent = "เรื่องน่ารู้"
+  name = "ของควบคุมการนำเข้า-ส่งออก"
   url = "customs/restricted-goods/"
-  weight = 31
+  weight = 33
+
+[[main]]
+  parent = "เรื่องน่ารู้"
+  name = "Reference data"
+  url = "https://ecs-support.github.io/KM/reference/"
+  weight = 33
+
+
+  
 
 [[main]]
   name = "ข่าวสารและบทความ"

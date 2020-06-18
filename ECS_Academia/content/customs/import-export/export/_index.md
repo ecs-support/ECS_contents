@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: การส่งออก
-summary: การปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (Export)
+
 
 # Page metadata.
 title: การปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (Export)
@@ -15,7 +15,7 @@ type: docs  # Do not modify.
 
 menu:
   export:
-    parent: การส่งออกสินค้า (Export)
+    parent: 1. การส่งออกสินค้า (Export)
     weight: 1
 
 weight: 1

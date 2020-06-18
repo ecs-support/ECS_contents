@@ -145,12 +145,12 @@ $hint-colors: (
   transition: 0.4s;
 
   .book-expand-head {
-    background-color: $gray-100;
+    background-color:#f8f9fa;
     color: rgba(0, 0, 0, 0.60);
-    padding: $padding-8 $padding-16;
+    padding: 0.5rem 1rem;
     font-weight: bold;
     cursor: pointer;
-    border: $padding-2 solid #fc6f5c;
+    border: 0.125rem solid #fc6f5c;
 
     &:hover {
       background-color: rgba(255, 56, 96, 0.15);
@@ -166,9 +166,10 @@ $hint-colors: (
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.2s ease-out;
+    display:none;
   }
 
-  input[type="checkbox"]:checked+.book-expand-content {
+  input[type="checkbox"]:checked .book-expand-content {
     display: block;
   }
 }
@@ -252,7 +253,7 @@ $hint-colors: (
 // {{< button >}}
 a.book-btn {
   display: inline-block;
-  color: #FF6600;
+  color: #f5f5f5;
   text-decoration: none !important;
   border: $padding-2 solid $color-link;
   border-radius: $border-radius;
@@ -265,7 +266,7 @@ a.book-btn {
 
   &:hover {
     color: white !important;
-    background-color: #FF6600;
+    background-color: gray;
 
 
   }

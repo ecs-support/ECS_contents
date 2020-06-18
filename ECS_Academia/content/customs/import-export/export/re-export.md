@@ -9,7 +9,7 @@ type: docs  # Do not modify.
 
 menu:
   export:
-    parent: การส่งออกสินค้า (Export)
+    parent: 1. การส่งออกสินค้า (Export)
     weight: 5
 
 weight: 5
