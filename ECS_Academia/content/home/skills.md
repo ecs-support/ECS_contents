@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Catagory"
-subtitle = "Find your answer by catagory"
+title = "Favorites"
+subtitle = "เมนูยอดนิยมที่ทำให้คุณทำให้คุณเข้าถึงข้อมูลที่ใช้บ่อยได้รวดเร็วขึ้น"
 
 # Showcase personal skills or business features.
 # 

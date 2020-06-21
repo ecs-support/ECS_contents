@@ -125,7 +125,7 @@
  **************************************************/
 
 .wg-hero {
-  padding: 3em 0;
+  padding: 2em 0;
   clear: both;
   background-size: cover;
   background-repeat: no-repeat;
@@ -135,7 +135,7 @@
   animation-delay: 0.25s;
 /* add  */
    font-family: Kanit;
-   min-height: 25rem;
+   min-height: 27rem;
    letter-spacing: 0.44px;
 
 }
@@ -233,12 +233,10 @@ a.hero-cta-alt:hover {
 
 .featurette {
   font-size: 0.8rem;
-  line-height: 1.5;
+  line-height: 1;
   color: #555;
   text-align: center;
-  
-
-  
+  margin: 10px auto ;
 }
 
 
@@ -259,7 +257,7 @@ a.hero-cta-alt:hover {
   display: block;
   width: 100%;
   color: $sta-primary;
-  font-size: 3rem;
+  font-size: 2.5rem;
   text-align: center;
 }
 
@@ -272,7 +270,7 @@ a.hero-cta-alt:hover {
 
 #catagorys:hover {
   
-  border: 0.16rem solid rgba(0, 0, 0, 0.7);
+  border: 0.16rem solid $sta-primary;
   box-shadow: 10px 10px 5px grey;
 
 }

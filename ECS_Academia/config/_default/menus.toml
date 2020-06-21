@@ -9,27 +9,36 @@
   weight = 10
 
 [[main]]
-  name = "การนำเข้า-ส่งออก"
+  name = "พิธีการศุลกากร"
   url = "customs/import-export/"
   weight = 20
 
 [[main]]
-  parent = "การนำเข้า-ส่งออก"
+  parent = "พิธีการศุลกากร"
   name = "การนำเข้า"
   url = "customs/import-export/import/"
   weight = 21
 
 [[main]]
-  parent = "การนำเข้า-ส่งออก"
+  parent = "พิธีการศุลกากร"
   name = "การส่งออก"
   url = "customs/import-export/export/"
   weight = 22
 [[main]]
-  parent = "การนำเข้า-ส่งออก"
+  parent = "พิธีการศุลกากร"
   name = "สินค้าถ่ายลำ/ผ่านแดน"
   url = "customs/import-export/transit/"
   weight = 23
-
+[[main]]
+  parent ="พิธีการศุลกากร"
+  name = "สิทธิประโยชน์ทางภาษี"
+  url = "customs/tax-incentive/"
+  weight = 24
+[[main]]
+  parent = "พิธีการศุลกากร"
+  name = "สิทธิพิเศษทางการค้า"
+  url = "customs/free-trade/"
+  weight = 25
 
 
 [[main]]
@@ -37,28 +46,35 @@
   url = "customs/"
   weight = 30
 
-[[main]]
-  parent ="เรื่องน่ารู้"
-  name = "สิทธิประโยชน์ทางภาษี"
-  url = "customs/tax-incentive/"
-  weight = 31
-[[main]]
-  parent = "เรื่องน่ารู้"
-  name = "สิทธิพิเศษทางการค้า"
-  url = "customs/free-trade/"
-  weight = 32
 
 [[main]]
   parent = "เรื่องน่ารู้"
-  name = "ของควบคุมการนำเข้า-ส่งออก"
+  name = "ใบอนุญาต/ใบรับรอง"
   url = "customs/restricted-goods/"
+  weight = 31
+
+[[main]]
+  parent = "เรื่องน่ารู้"
+  name = "พิกัดศุลกากร"
+  url = "customs/customs-tariff/"
+  weight = 32
+[[main]]
+  parent = "เรื่องน่ารู้"
+  name = "ราคาศุลกากร"
+  url = "customs/price/"
   weight = 33
 
 [[main]]
   parent = "เรื่องน่ารู้"
   name = "Reference data"
   url = "https://ecs-support.github.io/KM/reference/"
-  weight = 33
+  weight = 40
+
+[[main]]
+  parent = "เรื่องน่ารู้"
+  name = "ผู้ประกอบการ"
+  url = "customs/company/"
+  weight = 45
 
 
   
@@ -68,15 +84,12 @@
   url = "post/"
   weight = 50
 
- [[main]]
-  name = "Reference Data"
-  url = "https://ecs-support.github.io/KM/reference/"
-  weight = 60
+
 
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
+  name = "FAQ"
+  url = "customs/faq/"
   weight = 70
 
 # Link to a PDF of your resume/CV from the menu.

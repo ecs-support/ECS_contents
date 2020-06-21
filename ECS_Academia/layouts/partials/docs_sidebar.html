@@ -7,7 +7,7 @@
 {{ end }}
 
 <form class="docs-search d-flex align-items-center">
-  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+  <button class="btn docs-toggle d-md-none p-0 mr-3"  data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
     <span><i class="fas fa-bars"></i></span>
   </button>
 
@@ -16,7 +16,7 @@
   {{ end }}
 </form>
 
-<nav class="collapse docs-links" id="docs-nav">
+<nav class="docs-links" id="docs-nav">
   {{ with (index site.Menus $menu_name) }}
   {{ range (index site.Menus $menu_name).ByWeight }}
   <div class="docs-toc-item{{ if $current_page.IsMenuCurrent $menu_name . }} active{{ end }}">

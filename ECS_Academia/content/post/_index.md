@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: ข่าวสารและบทความ
 
 # View.
 #   1 = List
