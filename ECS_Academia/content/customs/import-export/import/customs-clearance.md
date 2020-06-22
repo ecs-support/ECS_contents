@@ -261,8 +261,6 @@ weight: 2
 
 ## ประกาศที่เกี่ยวข้อง
 
-- [การผ่านพิธีการศุลกากรนาเข้าในระบบอิเล็กทรอนิกส์แบบไร้เอกสาร (e-Import)](http://th.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02_160421_01&ini_content=business_160426_02_160914_01_160929_01_160929_01&left_menu=menu_business_160421_02_160421_01_160914_03)
-- [การรับของจากอารักขาศุลกากรในระบบ e-Import](http://th.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02_160421_01&ini_content=business_160426_02_160914_01_160929_01_160929_02&left_menu=menu_business_160421_02_160421_01_160914_03)
 
 ## แผนภูมิกระบวนการนำเข้าทางอากาศ
 

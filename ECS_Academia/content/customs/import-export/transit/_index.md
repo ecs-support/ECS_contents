@@ -1,6 +1,5 @@
 ---
-linktitle: สินค้าถ่ายลำ/ผ่านแดน 
-
+linktitle: นิยาม 
 # Page metadata.
 title: สินค้าถ่ายลำ/ผ่านแดน
 summary: การปฏิบัติพิธีการศุลกากรสำหรับสินค้าถ่ายลำ/ผ่านแดน
@@ -15,16 +14,12 @@ weight: 30
 # - weight: Position of link in menu.
 menu:
   transit:
-    name: สินค้าถ่ายลำ/ผ่านแดน   
-    weight: 30
-
+      parent: สินค้าถ่ายลำ/ผ่านแดน   
+      weight: 1
+weight: 1
 ---
 
-
-
 ![](https://github.com/ecs-support/knowledge-center/raw/master/img/cover/transit.png)
-
-## นิยาม
 
 ### การผ่านแดน
 
@@ -79,27 +74,6 @@ menu:
 - ตรวจสอบการหมดอายุของการวางค้ำประกันแบบหนังสือ สำหรับพิธีการถ่ายลำผ่านแดน หากหนังสือการวางค้ำประกันหมดอายุจะไม่สามารถส่งข้อมูลใบขนสินค้าถ่ายลำผ่าน ผ่านแดนได้
 
 {{% /alert %}}
-
-<br>
-
-## บทความทางวิชาการ
-
-### การผ่านแดนตามพระราชบัญญัติศุลกากร พ.ศ. 2560
-
-**บทความทางวิชาการเรื่อง "การผ่านแดนตามพระราชบัญญัติศุลกากร พ.ศ. 2560"**
-
-![](./img/book/transitjpg_Page1.jpg)
-
-
-![](https://github.com/ecs-support/knowledge-center/raw/master/img/transit/transitjpg_Page2.jpg)
-
-![](https://github.com/ecs-support/knowledge-center/raw/master/img/transit/transitjpg_Page3.jpg)
-
-![](https://github.com/ecs-support/knowledge-center/raw/master/img/transit/transitjpg_Page4.jpg)
-
-![](https://github.com/ecs-support/knowledge-center/raw/master/img/transit/transitjpg_Page5.jpg)
-
-![](https://github.com/ecs-support/knowledge-center/raw/master/img/transit/transitjpg_Page6.jpg)
 
 
 {{% alert note_success %}}
