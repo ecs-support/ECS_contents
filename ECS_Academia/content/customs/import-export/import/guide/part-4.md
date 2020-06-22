@@ -16,6 +16,8 @@ menu:
 weight: 18
 ---
 
+
+
 ![การยกเว้นอากรตามภาค 4](http://th.customs.go.th/data_files/1607131431341649716888.png)
 
 
