@@ -750,11 +750,11 @@ div.alert-warning>div:first-child::before {
 
 div.alert-danger>div:first-child::before {
   font-family: 'Font Awesome 5 Free';
-  font-size: 180%;
+  font-size: 120%;
   font-weight: 900;
   color: #cd0930;
   content: '\f071';
-  margin:1rem auto;
+  
 }
 
 div.alert-success>div:first-child::before {
@@ -880,23 +880,24 @@ div.alert-note_toc>div>ul>li>a {
  
   border-radius: 5px;
   background-color: white;
-  color: rgba(0,0,0,0.7);
-  padding: 0 auto;
-  margin-top:.8em;
+  color: rgba(0,0,0,0.7);  
   font-size: 17px;
   cursor: pointer;
   font-weight: 600;
-  width: 100%; 
-  text-align: left;
+  padding: 8px ;
+  margin-top:1em;
+  width: 100%;
+  text-align: left; 
+  transition: 0.4s;
   box-shadow: 7px 7px 4px grey;
-  border: 3px solid #fc6f5c;
+  border: 0.125rem solid #fc6f5c;
 }
 
  .collapsible:hover {
   background-color: #fc6f5c;
   font-weight: bold;
   color: white;  
-  border: 3px solid rgba(0,0,0,0.7);
+   border: 1px solid rgba(0, 0, 0, 0.8);
   box-shadow: 10px 10px 5px grey;
   
 }
@@ -904,7 +905,7 @@ div.alert-note_toc>div>ul>li>a {
 .collapsible:active {
   background-color: #fc6f5c;
   color: white;
-  border: 3px solid #fc6f5c;
+ 
  
 }
 
@@ -923,7 +924,7 @@ div.alert-note_toc>div>ul>li>a {
  
 }
 
-.collapsible .active:after {
+.collapsible.active:after {
   content: "\2212";
   
 
@@ -934,7 +935,7 @@ div.alert-note_toc>div>ul>li>a {
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
-  background-color: #f1f1f1;
+  background-color: rgba(0, 128, 0, 0.1);
 }
 
 /*  End - Collapsible */
