@@ -135,7 +135,7 @@
   animation-delay: 0.25s;
 /* add  */
    font-family: Kanit;
-   min-height: 27rem;
+   min-height: 30rem;
    letter-spacing: 0.44px;
 
 }
@@ -233,10 +233,13 @@ a.hero-cta-alt:hover {
 
 .featurette {
   font-size: 0.8rem;
-  line-height: 1;
+  line-height: 2.5;
   color: #555;
   text-align: center;
   margin: 10px auto ;
+  margin-right: 1em;
+  box-shadow: 7px 7px 4px grey;
+  border: 0.1rem solid rgba(0, 0, 0, 0.4);
 }
 
 
@@ -246,6 +249,10 @@ a.hero-cta-alt:hover {
   margin-bottom: 5px;
   font-weight: 400;
   color: #3F69AA;
+  border-bottom: 0.1rem solid rgba(0, 0, 0, 0.4);
+  border-left: 0.1rem solid rgba(0, 0, 0, 0.4);
+  border-right: 0.1rem solid rgba(0, 0, 0, 0.4);
+  font-size: 1.2rem;
 }
 
 .dark .featurette,
@@ -257,14 +264,17 @@ a.hero-cta-alt:hover {
   display: block;
   width: 100%;
   color: $sta-primary;
-  font-size: 2.5rem;
+  font-size: 2.7rem;
   text-align: center;
+  border-top: 0.1rem solid rgba(0, 0, 0, 0.4);
+  border-left: 0.1rem solid rgba(0, 0, 0, 0.4);
+  border-right: 0.1rem solid rgba(0, 0, 0, 0.4);
+  
 }
 
 #catagorys {
   cursor: pointer;
-  box-shadow: 7px 7px 4px grey;
-  border: 0.1rem solid rgba(0, 0, 0, 0.4);
+  
 
 }
 
@@ -277,6 +287,8 @@ a.hero-cta-alt:hover {
 
 .featurette-margin {
   margin-bottom: 20px;
+  margin-right: 20px;
+  
   
 }
 

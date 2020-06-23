@@ -21,7 +21,7 @@
   {{ if in (slice "fab" "fas" "far" "fal") $pack }}
   {{ $pack_prefix = "fa" }}
   {{ end }}
-  <div id= "catagorys" class="col-lg-3 col-sm-6 mb-4 mb-lg-0">
+  <div id= "catagorys" class="col-lg-3 col-sm-6 mb-4 mb-lg-2">
     <div class="position-relative py-2 shadow featurette-margin">
        {{- with .url}}<a href="{{.}}" rel="noopener">{{end -}}
       <div class="progress-bar" style="width:{{ .parcent }}"></div>
