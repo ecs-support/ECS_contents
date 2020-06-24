@@ -26,7 +26,7 @@ weight: 32
  
   3. **กำไรมาตรฐาน** หมายถึง ให้พิจารณาจากราคาขายปลีกแนะนำหักต้นทุนการผลิตและค่าบริหารจัดการ
 
-![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/img/price-structure.jpg)
+![enter image description here](../img/price-structure.jpg)
 
 
 

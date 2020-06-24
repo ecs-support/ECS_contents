@@ -23,16 +23,16 @@ weight: 23
 **หมายเหตุ**
 
 ถ้า **Total Payment Amount**  มีค่าต้องระบุ ข้อมูลดังต่อไปนี้ด้วย
-{{% alert warning %}}
+{{< hint warning >}}
 - Bank Code	
 - Bank Branch Code
 - Bank Account Number
 - Customs Bank Code
-{{% /alert %}}	
+{{< /hint >}}	
 
 ถ้า **Total Deposit Amount** มีค่าต้องระบุ ข้อมูลดังต่อไปนี้ด้วย
-{{% alert danger %}}
+{{< hint danger >}}
 - Guarantee Bank Code
 - Guarantee Bank Branch Code
 - Guarantee Bank Account Number (ถ้ามี)
-{{% /alert %}}
+{{< /hint >}}

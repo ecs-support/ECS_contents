@@ -11,9 +11,9 @@ type: docs  # Do not modify.
 menu:
   import:
     parent: ภาษีสรรพสามิต
-    weight: 36
+    weight: 37
 
-weight: 36
+weight: 37
 ---
 
 
