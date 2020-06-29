@@ -31,4 +31,4 @@ image:
 
 {{< gdocs src="./2563-106.pdf" >}}
 
-> ที่มาบทความ : [กองปกป้องและตอบโต้ทางการค้า](https://www.thaitr.go.th/th/search/AD1026)
+> ที่มาบทความ : [กรมศุลกากร](http://th.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&top_menu=menu_homepage&current_id=14232832414b505f46464b4c464b4b)
