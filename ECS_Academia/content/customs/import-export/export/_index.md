@@ -1,10 +1,10 @@
 ---
 # Course title, summary, and position.
 linktitle: การส่งออก
-
+summary: การปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (Export)
 
 # Page metadata.
-title: การปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (Export)
+title: การส่งออกสินค้า (Export)
 
 
 date: "2020-05-15T00:00:00Z"
