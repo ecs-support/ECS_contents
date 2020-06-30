@@ -77,15 +77,29 @@
   weight = 45
 
 [[main]]
-  name = "กรมศุลกากร"
+  parent = "เรื่องน่ารู้"
+  name = "เกี่ยวกับกรมศุลกากร"
   url = "customs/customs-dept/"
+  weight = 46
+
+
+[[main]]
+  name = "ข่าวสารบทความ"
+  url = "post/"
   weight = 60
   
 
 [[main]]
-  name = "ข่าวสารและบทความ"
-  url = "post/"
+
+  name = "ประกาศ/กฎหมาย"
+  url = "post/announcement/customs/"
   weight = 70
+
+[[main]]
+  parent = "ประกาศ/กฎหมาย"
+  name = "กรมศุลกากร"
+  url = "post/announcement/customs/"
+  weight = 71
 
 
 
