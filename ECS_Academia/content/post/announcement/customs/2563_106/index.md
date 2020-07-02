@@ -5,7 +5,7 @@ summary: ประกาศกรมศุลกากรที่ 106/.2563 เ
 authors:
 - 
 tags: ["หน้ากากทางการแพทย์","กรมศุลกากร"]
-categories: ["ประกาศ"]
+categories: ["ประกาศ","e-mail"]
 date: "2020-06-22"
 lastMod: "2020-06-27"
 featured: false
