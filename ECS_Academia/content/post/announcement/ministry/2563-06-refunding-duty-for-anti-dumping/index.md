@@ -20,7 +20,7 @@ image:
 
 ---
 
-![](featured.jpg)
+![](featured.png)
 
 
 
