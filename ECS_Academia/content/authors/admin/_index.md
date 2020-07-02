@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Little Dragon
+name: Admin
 avatar_image: "user-full.png"
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ btn:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Support Department
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: E-Customs Service Co.,Ltd.
 
 # Should the user's education and interests be displayed?
 display_education: false

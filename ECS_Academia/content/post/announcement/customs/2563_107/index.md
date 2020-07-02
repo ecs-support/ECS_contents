@@ -4,11 +4,11 @@ subtitle: ปรับปรุงรายชื่อประเทศที�
 
 summary: ปรับปรุงรายชื่อประเทศที่ได้รับสิทธิยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ฮ่องกง
 authors:
-- 
+- admin
 tags: ["อาเซียน-ฺฮ่องกง","กรมศุลกากร"]
 categories: ["ประกาศ"]
 date: "2020-06-22"
-lastMod: "2020-06-29"
+lastMod: "2020-06-28"
 featured: false
 draft: false
 
@@ -17,8 +17,8 @@ draft: false
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  placement: 3
-  caption: 'Image credit: [**www.canva.com**](/featured.jpg)'
+  placement: 
+  caption: 
   focal_point: ""
   preview_only: true
 
