@@ -66,41 +66,44 @@
 
 [[main]]
   parent = "เรื่องน่ารู้"
-  name = "Reference data"
-  url = "https://ecs-support.github.io/KM/reference/"
-  weight = 40
+  name = "กรมศุลกากร"
+  url = "customs/customs-dept/"
+  weight = 41
 
 [[main]]
   parent = "เรื่องน่ารู้"
   name = "ผู้ประกอบการ"
   url = "customs/company/"
-  weight = 45
+  weight = 42
+
 
 [[main]]
   parent = "เรื่องน่ารู้"
-  name = "เกี่ยวกับกรมศุลกากร"
-  url = "customs/customs-dept/"
-  weight = 46
+  name = "Reference data"
+  url = "https://ecs-support.github.io/KM/reference/"
+  weight = 49
 
 
-[[main]]
-  name = "ข่าวสารบทความ"
-  url = "post/"
-  weight = 60
+
   
 
 [[main]]
 
   name = "ประกาศ/กฎหมาย"
   url = "post/announcement/customs/"
-  weight = 70
+  weight = 60
 
 [[main]]
   parent = "ประกาศ/กฎหมาย"
-  name = "กรมศุลกากร"
+  name = "ประกาศกรมศุลกากร"
   url = "post/announcement/customs/"
-  weight = 71
+  weight = 61
 
+
+[[main]]
+  name = "ข่าวสาร/บทความ"
+  url = "post/"
+  weight = 70
 
 
 
