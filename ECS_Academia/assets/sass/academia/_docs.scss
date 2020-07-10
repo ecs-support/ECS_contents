@@ -238,6 +238,7 @@
   border-left: 1px solid #eee;
   
   
+  
 }
 
 #TableOfContents ul,
@@ -256,7 +257,10 @@ ul.toc-top {
 #TableOfContents li {
   display: block;
   
+  
 }
+
+
 
 #TableOfContents li a,
 .toc-top li a {
@@ -300,4 +304,32 @@ ul.toc-top {
 
 .active {
   display: block;
+}
+.toc-contents {
+  background-color: rgba(0, 128, 0, 0.08);
+  border: 0.125rem solid rgb(0, 128, 0);
+  border-radius: 15px;
+  padding: 10px auto;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+
+}
+
+.toc-contents h2 {
+  margin-left: 1em;
+  color: #0f0f0f;
+}
+
+.toc-contents #TableOfContents li a {
+  font-size: 1rem;
+  color: #3F69AA;
+  
+  text-decoration: none;
+   
+
+}
+
+.toc-contents #TableOfContents li a:hover {
+  color: $sta-primary;
+  font-weight: bolder;
 }

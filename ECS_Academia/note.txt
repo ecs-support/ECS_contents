@@ -14,6 +14,11 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
 Here's some important information...
 {{% /alert %}}
 
+
+## toc
+
+{{% toc %}}
+
 ## Embled PDF
 {{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}.
 
