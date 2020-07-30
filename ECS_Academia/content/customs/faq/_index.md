@@ -1,5 +1,5 @@
 ---
-linktitle: Overview
+linktitle: General
 # Page metadata.
 title: FAQ. (Frequently asked questions)
 date: "2020-06-21T00:00:00Z"
@@ -11,9 +11,11 @@ type: docs  # Do not modify.
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
+
+weight: 1
 menu:
   faq:
-    name: General
+    parent: FAQ.
     weight: 1
 
 weight: 1

@@ -6,15 +6,13 @@ $padding-2: 0.125rem !default;
 $padding-4: 0.25rem !default;
 $padding-8: 0.5rem !default;
 $padding-16: 1rem !default;
-
 $font-size-base: 1em !default;
 $font-size-12: 0.75rem !default;
 $font-size-14: 0.875rem !default;
 $font-size-16: 1rem !default;
-
 $border-radius: 0.15rem !default;
 
-// Grayscale
+// Grayscale 
 $white: #ffffff !default;
 $gray-100: #f8f9fa !default;
 $gray-200: #e9ecef !default;
@@ -154,9 +152,7 @@ $hint-colors: (
 
     &:hover {
       background-color: rgba(255, 56, 96, 0.15);
-      color: rgba(0, 0, 0, 0.70);
-      
-      
+      color: rgba(0, 0, 0, 0.70);      
     }
   }
 
